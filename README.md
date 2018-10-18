@@ -21,9 +21,9 @@ methods can be used in some circumstances which insufficient sample exist in dat
 On the other hand, in case of the size of data increases, the accuracy of the neural
 network model will also increase.
 
-**Apk file of mobile application: https://github.com/umutguneri/Question-answering-assistant/blob/master/mobileAssistant/mobileAssistant.apk**
+**Apk file of mobile application: https://github.com/umutguneri/Question-Answering-Assistant/blob/master/mobileAssistant/mobileAssistant.apk**
 
-**Jar file of desktop application: https://github.com/umutguneri/Question-answering-assistant/blob/master/Desktop%20Application%20(Java%20GUI)/Chatbot%20Assistant/Assistant.jar**
+**Jar file of desktop application: https://github.com/umutguneri/Question-Answering-Assistant/blob/master/Desktop%20Application%20(Java%20GUI)/Chatbot%20Assistant/Assistant.jar**
 
 **Literature Review**
 
@@ -72,7 +72,7 @@ For The web interface requires these packages:
 
 Workflow Schema for question answering system is shown in Figure:
 
-image-1
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/blockDiagram.png)
 
 ## Dataset
 
@@ -87,7 +87,7 @@ can be enlarged for the deep learning model
 
 Some of sample questions and answers are shown in Figure:
 
-image-2
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/dataset.png)
 
 ## Implementation of Model on Web Interface
 
@@ -115,7 +115,7 @@ methods, which use artificial neural networks.
 
 Multi-layer perceptron model for question answering is shown in Figure:
 
-image-3
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/yontem2.png)
 
 ## Implementation of Desktop Application
 
@@ -139,7 +139,7 @@ possible.
 
 UML diagram of desktop application is shown in Figure:
 
-image-4
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/UML.png)
 
 ## Screenshots of Web Application
 
@@ -147,20 +147,20 @@ The main page of Web application is shown in Figure.  For now it is only for a
 demo homepage. Users can write their own question in text label as an input. After a
 couple of milliseconds the system will print the answer to the screen:
 
-image-5
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/web1.png)
 
 User can ask a question using web application. It is shown in Figure:
 
-image-6
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/web2.png)
 
 The answer and question will be shown on text area. It is shown in Figure:
 
-image-7
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/web3.png)
 
 If the user change previously asked question and asks a new question, the new answer
 will be shown on text area. It is shown in Figure:
 
-image-8
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/web4.png)
 
 ## Screenshots of Desktop Application
 
@@ -168,7 +168,7 @@ The main page of desktop application is shown in Figure .  Users can write their
 own question in text label as an input.  After a couple of milliseconds the system will
 print the answer to the screen:
 
-image-9
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktop1.png)
 
 User can ask a question using desktop application.  For this sample question :"Ziraat
 internet  bankaciligina  hangi  adreslerden  ulasabilirim?"  the  answer,  most  similar
@@ -176,91 +176,91 @@ question  and  similarity  rate  are  shown  on  screen.   Due  the  question  i
 database, similarity rate is 1.0 and correct answer is seen in text area.  It is shown
 in Figure:
 
-image-10
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktop2.png)
 
 If the user change just one word on previously asked question and asks this question:
 "Ziraat internet bankaciligina hangi adreslerden ulasabilirim?", similarity rate will be
 0.9 and same answer will be seen on text area. It is shown in Figure:
 
-image-11
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktop3.png)
 
 At the bottom of text area an important question is asked to user.  It means "Are you
 satisfied with answer?".  Also, Ok and Not ok button take part in right side of this
 question. It is shown in Figure:
 
-image-12
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktop4.png)
 
 If the user click on Ok button, the question and answer will be added in database. The
 message "The question is added in database" is shown in Figure:
 
-image-13
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktop5.png)
 
 if the user click on Not Ok button, the question and answer will be added in another
 database.   The admin will enter new answers after a while for the question.   The
 message "For your question will be found better answer in soon" is shown in Figure:
 
-image-14
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktop6.png)
 
 If  the  user  change  the  question  more  deeply,  the  similarity  rate  between  most
 similar  question  will  drop.   For  this  example  question  :"Ziraat  bankaciligina  nasil
 ulasabilirim?" similarity rate will be 0.7 and correct answer will be able to found by
 application. It is shown in Figure:
 
-image-15
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktopQ2.png)
 
 In this application, the user can choose the method which is used to find most similar
 question and its answer. For a now possible methods are cosine similarity, levenshtein
 and qram. It is shown in Figure:
 
-image-16
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktopMethods.png)
 
 If the user is not satisfied with question, the user can choose one of 5 most similar
 questions.  In this case, a new answer will be shown on text area.  Possible questions
 section is shown in Figure:
 
-image-17
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/desktopPossibleQuestions.png)
 
 ## Screenshots of Mobile Application
 
 Before the main page of mobile application is shown, the splash screen is shown during
 a couple of seconds on android application. It is shown in Figure:
 
-image-18
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/mobileSplash.png)
 
 The main page of mobile application is shown in Figure.  Users can write their
 own question in text label as an input.  After a couple of milliseconds the system will
 print the answer to the screen:
 
-image-19
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/mobileMainScreen.png)
 
 User can ask a question using mobile application.  For this sample question :"Kartım
 kayboldu, ne yapabilirim?" the answer, most similar question and similarity rate are
 shown on screen. It is shown in Figure:
 
-image-20
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/mobileQuestion.png)
 
 At the above of text area an important question is asked to user.  It means "Are you
 satisfied with answer?".  Also, Ok and Not ok button take part in right side of this
 question. It is shown in Figure:
 
-image-21
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/mobileAnswer.png)
 
 If the user click on Ok button, the question and answer will be added in database. The
 message "The question is added in database" is shown in Figure:
 
-image-22
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/mobileAdded.png)
 
 If the user click on Not Ok button, the question and answer will be added in another
 database.   The admin will enter new answers after a while for the question.   The
 message "For your question will be found better answer in soon" is shown in Figure:
 
-image-23
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/mobileAdded2.png)
 
 If the user is not satisfied with question, the user can choose one of 5 most similar
 questions.  In this case, a new answer will be shown on text area.  Possible questions
 section is shown in Figure:
 
-image-24
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/mobilePossible.png)
 
 ## Experimental Results 
 
@@ -280,16 +280,16 @@ following 4 criteria:
 
 The result of the rating is shown in Table, which have done by the participants:
 
-image-25
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/table1.png)
 
 According to this frequency values accuracy can be calculated using sample mean
 formula.
 
-image-26
+![alt text](https://raw.githubusercontent.com/umutguneri/Question-Answering-Assistant/master/Screenshots/table2.png)
 
 Accordingly, the overall success of the system was estimated to be approximately **92%.
 
-**Performance Results
+**Performance Results**
 
 Question Answering Assistant has been tested on two different platforms (Windows
 and  Android).   This  test  was  examined  according  to  criteria  such  as  time,  speed,
@@ -328,6 +328,108 @@ done in Turkish about question and answer systems.  I hope this work will be use
 for other studies.
 
 ## References
+
+1-Deep Learning for Answer Sentence Selection
+  {https://arxiv.org/abs/1412.1632},
+  Lei Yu, Karl Moritz Hermann, Phil Blunsom, Stephen Pulman
+  (Submitted on 4 Dec 2014).
+  
+2-End-To-End Memory Networks
+  {https://arxiv.org/abs/1503.08895},
+  Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus
+  (Submitted on 31 Mar 2015 (v1), last revised 24 Nov 2015)
+  
+3-Text REtrieval Conference (TREC) Question Answering Collections
+  {https://trec.nist.gov/data/qa.html},
+  Voorhees, E. Tice, D. "Building a Question Answering Test Collection", Proceedings of
+SIGIR-2000, July, 2000, pp. 200-207
+
+4-Memory Networks
+  {https://arxiv.org/abs/1410.3916},
+  Jason Weston, Sumit Chopra, Antoine Bordes Submitted on 15 Oct 2014.
+
+5-Neural Machine Translation by Jointly Learning to Align and Translate
+  {https://arxiv.org/abs/1409.0473},
+  Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
+Submitted on 1 Sep 2014 , last revised 19 May 2016
+
+6-A Sample of the Penn Treebank Corpus
+  {https://www.kaggle.com/nltkdata/penn-tree-bank},
+  University of Pennsylvania 2017.
+  
+7-Embedding made from the text8 Wikipedia dump.
+  {https://data.world/jaredfern/text-8-w-2-v}
+  
+8-SQuAD: 100,000+ Questions for Machine Comprehension of Text
+  {https://rajpurkar.github.io/SQuAD-explorer/},
+  Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang
+(Submitted on 16 Jun 2016, last revised 11 Oct 2016 )
+
+9-The Dialog State Tracking Challenge (DSTC) is an on-going series of research community challenge tasks.
+  {https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/},
+  
+10-The Dialog State Tracking Challenge
+  {https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/dstc2013.pdf}, 
+  Jason D. Williams, Antoine Raux, Deepak Ramachadran, and Alan Black. Proceedings of the SIGDIAL 2013 Conference, Metz, France, August 2013.
+  
+11-The Second Dialog State Tracking Challenge
+  {https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/summaryWriteup.pdf}, 
+  Matthew Henderson, Blaise Thomson, and Jason D. Williams. Proceedings of SIGDIAL 2014 Conference, Philadelphia, USA, June 2014.
+  
+12-The Third Dialog State Tracking Challenge
+  {https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/writeup.pdf}, 
+  Matthew Henderson, Blaise Thomson, and Jason D. Williams. Proceedings IEEE Spoken Language Technology Workshop (SLT), South Lake Tahoe, USA, December 2014.
+  
+13-2015 International Workshop Series on Spoken Dialogue Systems Technology
+  {http://wikicfp.com/cfp/servlet/event.showcfp=eventid=38683=copyownerid=66338}, 
+  
+14-The Fourth Dialog State Tracking Challenge
+  {https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/dstc4final-1.pdf}, 
+  Seokhwan Kim, Luis F. D'Haro, Rafael E Banchs, Matthew Henderson, and Jason D. Williams. Proceedings IEEE Spoken Language Technology Workshop (SLT), South Lake Tahoe, USA, December 2014.
+  
+15-2016 IEEE Workshop on Spoken Language Technology
+  {https://www2.securecms.com/SLT2016//Default.asp}, 
+  13–16 December 2016 • San Diego, California
+  
+16-The Fifth Dialog State Tracking Challenge. Seokhwan Kim, Luis F. D'Haro, Rafael E Banchs, Matthew Henderson, Jason D. Williams, and Koichiro Yoshino. Proceedings IEEE Spoken Language Technology Workshop (SLT), San Diego, USA, December 2016.
+  
+17-  The Dialogue Breakdown Detection Challenge
+  {https://pdfs.semanticscholar.org/c1c1/34f2a411d70687142cb63da14e9d55ffbfb6.pdf}, 
+  Ryuichiro Higashinaka, Kotaro Funakoshi, Yuka Kobayashi, Michimasa Inaba, NTT Media Intelligence Laboratories
+, Honda Research Institute Japan Co., Ltd., Toshiba Corporation, Hiroshima City University
+
+
+18-2017 Conference on Neural Information Processing Systems
+  {https://nips.cc/}, 
+  Long Beach Convention and Entertainment Center, Long Beach, California, USA
+  
+19-Restaurant information train and development set 
+  {http://camdial.org/~mh521/dstc/}, 
+  Paul Crook - Microsoft Research, Maxine Eskenazi - Carnegie Mellon University, Milica Gasic - University of Cambridge (3rd February 2014)
+  
+20-Ziraat Bank frequently asked questions
+  {https://www.ziraatbank.com.tr/tr/sss}
+  
+21- Tensorflow - An open source machine learning framework for everyone
+  {https://www.tensorflow.org/}
+  
+22- Vector Representations of Words 
+  {https://www.tensorflow.org/tutorials/word2vec}
+  
+23-Optimization: Stochastic Gradient Descent
+  {http://ufldl.stanford.edu/tutorial/}
+  
+24- Understanding LSTM Networks
+  {http://colah.github.io/posts/2015-08-Understanding-LSTMs/}  
+  
+25- Cosine Similarity
+  {http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/}
+  
+26- Levensthein Distance
+  {http://stackabuse.com/levenshtein-distance-and-text-similarity-in-python/}
+  
+27-Qgram Similarity
+  {http://cs.uef.fi/~zhao/Link/Similarity-strings.html}  
 
 
 
