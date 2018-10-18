@@ -21,6 +21,8 @@ methods can be used in some circumstances which insufficient sample exist in dat
 On the other hand, in case of the size of data increases, the accuracy of the neural
 network model will also increase.
 
+**Report of Project: https://github.com/umutguneri/Question-Answering-Assistant/blob/master/project_report.pdf**
+
 **Apk file of mobile application: https://github.com/umutguneri/Question-Answering-Assistant/blob/master/mobileAssistant/mobileAssistant.apk**
 
 **Jar file of desktop application: https://github.com/umutguneri/Question-Answering-Assistant/blob/master/Desktop%20Application%20(Java%20GUI)/Chatbot%20Assistant/Assistant.jar**
