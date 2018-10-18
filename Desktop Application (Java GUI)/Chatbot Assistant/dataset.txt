@@ -1,0 +1,928 @@
+Ziraat İnternet bankacılığına hangi adreslerden ulaşabilirim?
+Ziraat İnternet bankacılığı'na; www.ziraatbank.com.tr www.ziraat.com.tr adreslerinden İnternet Şubesi girişini tıklayarak ulaşabilirsiniz. 
+Başvuru sonrası ilk giriş işlemini nasıl yapacağım? 
+Başvuru sonrası müşteri numaranız ve kayıtlı cep telefonu numaranıza gönderilen internet ve mobil bankacılığı şifreniz ile isterseniz internet bankacılığımızdan isterseniz cihazınıza indireceğiniz Ziraat Mobil uygulamamızdan ilk girişinizi gerçekleştirebilirsiniz.
+İnternet bankacılığı işlem saatleri nelerdir?
+Döviz Alış / Satış : 24 saat Arbitraj : 24 saat Havale : 24 saat SWIFT : 24 saat EFT : 08:30 – 17:00 Gram Altın  (Tam Gün) : 1. Seans: 09:30-16:00 2. Seans : 18:30-08:00 (Yarım Gün) : 1. Seans: 09:30-11:00 2. Seans : 14:00-08:00 Repo : 1. Seans: 09:30-15:30 2. Seans : 18:30-08:30 Hazine bonosu devlet Tahvili alım satım (TL) : 1. Seans: Kesin Alış 09:00-16:00, Kesin Satış: 09:00-16:30 Hazine bonosu devlet Tahvili alım satım (YP) : 1. Seans: Kesin Alış 09:00-16:00, Kesin Satış: 09:00-16:30 Tahvili alım satım (YP) : 2. Seans : --- Başkent Doğalgaz: 08:00 – 20:00 D-Smart NET, Smile ADSL: 01:00 – 17:30 İSKİ Su: 01:00 - 21:00 Fatura, Vergi, Sigorta, Bağış, SGK, Eğitim, TL Yükleme, Şans Oyunları ve diğer ödemeler: 24 saat (Gün sonu hariç) B Tipi Likit Fon: 24 Saat Likit Dışı B Tipi Fonlar: 09:00 – 16:30 – 18:00-08:59 A Tipi Fonlar: 09:00 – 16:30 – 18:00-08:59 Anapara Koruma Amaçlı Fonlar: 09:00 – 17:00 Vadesiz Altın Alış ve Satış: USD Hesaptan – 09:00 – 18:00 TL Hesaptan – 24 saat Yurtkur ödemeleri: 01:00 - 23:30
+İnternet bankacılığından yapılan işlemler için bir ücret öder miyim?
+İnternet bankacılığından yapılan işlem ücretleri hakkında bilgi almak için İnternet bankacılığından yapılan işlem ücretleri hakkında bilgi almak için müşteri temsilcisiyle görüşmelisiniz.
+Yatırım hesabımı internet bankacılığından görüntülemek ve/veya işlem yapmak için ne yapabilirim?
+Hesabınız bulunan herhangi bir şubemizden Yatırım hesabınızın bağlı olduğu vadesiz hesabınızı tanımlatarak internet bankacılığınızdan Yatırım hesabınızı kullanabilirsiniz.
+İnternet bankacılığından açtığım hesabımı kapatmak istiyorum. Ne yapmam gerekir?
+Hesabınızı internet bankacılığından veya hesabınızın bulunduğu Ziraat Bankası şubesine giderek kapatabilirsiniz.
+İnternet bankacılığı şifremi unuttum/bloke oldu. Ne yapabilirim?
+İnternet bankacılığı giriş şifresini unutan kullanıcılarımız giriş ekranlarında yer alan Şifremi Unuttum linkinden yeni şifre oluşturabilirler.
+SMS Hatırlatma hizmetine başvurdum. Hatırlatma SMS'lerini alamıyorum. Neden?
+Operatörünüzü arayarak hattınızı reklam ve tanıtım SMS'lerine açtırmanız gerekmektedir.
+İnternet bankacılığından yanlış ödediğim fatura veya vergiyi, hatalı göndermiş olduğum havale ya da EFT'yi iptal edebilir miyim?
+İnternet bankacılığı aracılığıyla gerçekleşen işlemler gerçek zamanlı (çevrimiçi) işlemlerdir ve iptali mümkün olmamaktadır. İptal işlemi için işlemin gerçekleştiği hesabın bulunduğu Şubemize gitmeniz gerekmektedir.
+Bankanızdan EFT yaptım. Hesabımdan düştü. Fakat karşı bankaya ulaşmadı.
+Telefon Bankacılığından, İnternet bankacılığından, Ziraat Mobil'den ya da hesabınızın bağlı bulunduğu şubeden EFT sorgu numarasını alarak karşı bankadan EFT'nizi sorgulatabilirsiniz. EFT yaparken hesap numarası ya da ismi hatalı yazdıysanız hesabınızın bağlı bulunduğu şube ile görüşüp hbr-genel mesajı göndermesini isteyebilirsiniz.
+Hesap hareketlerini işlem tarihine göre sorgulamakla muhasebe tarihine göre sorgulamak arasında ne fark vardır?
+Hafta sonu ve tatil günlerinde yaptığınız işlemlerin bankacılık sisteme yansıması bir sonraki iş günü olacaktır. Hesap hareketleriniz İşlem Tarihi bazında sorgu yapıldığında işlemlerin yapıldığı tarihe göre, Muhasebe Tarihi bazında sorgu yapıldığında işlemlerin bankacılık sistemine yansıdığı tarihe göre listelenir.
+Fatura ödeme işlemleri ile yapabileceğim işlem sayısı veya tutarı ile ilgili bir kısıt var mıdır?
+Bireysel İnternet Bankacılığı müşterilerimiz bir ay içinde en fazla 20, kurumsal müşteriler ise 50 adet fatura ödeyebilirler. Aylık olarak ödenebilecek maksimum fatura tutarı ile ilgili herhangi bir limit yoktur.
+İleri tarihli para transferlerimde, düzenli ya da otomatik ödeme talimatlı işlemlerimde, işlemin gerçekleşeceği tarihte hesabımda yeterli para yoksa ne olur?
+İşleminiz gerçekleştirilebilmesi için işlemin gerçekleşeceği tarihte hesabınızda yeterli para olmasına/alternatif bir hesap ya da Kredili Mevduat Hesabı tanımlamış olduğunuza dikkat etmeniz gerekmektedir.
+İleri tarihli yaptığım EFT'nin izleme ve iptalini nasıl yapabilirim?
+İnternet Bankacılığı' nda Düzenli Ödeme Talimatları başlığı altından yaptığınız ileri tarihli EFT'yi görüntüleyebilirsiniz. Görüntülenen listeden ileri tarihli EFT işleminizi iptal edebilirsiniz.
+Dekont almak istiyorum. Ne yapmam gerekir?
+İnternet ve mobil bankacılıkta işleminiz gerçekleştirildikten sonra mail adresinizi yazarak dekontun mail adresinize gönderilmesini sağlayabilirsiniz. İşlem esnasında dekont gönderimi yapamadıysanız, işlem sonrasında hesaplarım altından, işlem yapmış olduğunuz hesabı seçerek hesap hareketlerinden işleminizin detayına tıkladıktan sonra dekont gönder tuşuna basarak mail adresinize dekontunuzu gönderebilirsiniz.
+Yurtdışına çıkacağım. Mevcut GSM operatörümü yurtdışında kullanamayacağım. Bu durumda Ziraat Mobil'e nasıl giriş yapabilirim?
+İnternet bankacılığı Yurt dışı IP erişimi açma işlemleri İnternet Bankacılığından yapılabilmektedir. İnternet bankacılığı giriş ekranındaki "Müşteri numaranız Yurtdışı IP adresinden internet bankacılığı erişimine kapalı konumdadır. Açmak için lütfen tıklayınız" linkinden gerekli adımları tamamladıktan sonra internet bankacılığı yurt dışı IP adresinden giriş için kullanıma açılacaktır. Ayrıca 7 gün 24 saat hizmet alabileceğiniz +90 850 220 00 00 numaralı Müşteri İletişim Merkezi'miz ile işleminizi gerçekleştirebilirsiniz. Giriş tercihi olarak da Ziraat Mobil uygulamasını yükleyerek kullanabileceğiniz Ziraat Onay ya da şubelerimizden temin edebileceğiniz OTP cihazları ile giriş yapabilirsiniz. Ziraat Onay hakkında daha çok bilgi almak için lütfen Giriş tercihi olarak da Ziraat Mobil uygulamasını yükleyerek kullanabileceğiniz Ziraat Onay ya da şubelerimizden temin edebileceğiniz OTP cihazları ile giriş yapabilirsiniz. Ziraat Onay hakkında daha çok bilgi almak için lütfen tıklayınız.
+SMS Doğrulaması nedir?
+SMS Doğrulama uygulaması, müşterilerimizin internet ve mobil bankacılığa giriş yaparken veya giriş yaptıktan sonra işlemler esnasında, işlemlerinin güvenliğini arttırmak amacıyla kullanılan güvenlik tercihlerinden biridir. Kayıtlı olmayan alıcılara ve abonelere yapılan para transferi gibi işlemlerde tek seferlik kullanım olanağı sağlayan bir şifre üretilerek, kayıtlı cep telefonunuza mesaj olarak gönderilmektedir. Gönderilen şifre 3 dakika süre ile geçerli olup, daha sonra kullanılması mümkün değildir. Bu süre içerisinde işleminizi tamamlayamadıysanız işleminize tekrar başlayarak yeni SMS mesajını kullanmanız gerekmektedir. Cep telefonunuzun kapsama alanı dışında olması, kapalı olması gibi durumlarda işlem yapılamayacaktır. Gönderilen mesajlar şimdilik ücretlendirilmemektedir.
+Ziraat Onay nedir?
+Ziraat Onay uygulaması, müşterilerimizin internet ve mobil bankacılığa giriş yaparken veya giriş yaptıktan sonra işlemler esnasında, işlemlerinin güvenliğini arttırmak amacıyla kullanılan güvenlik tercihlerinden biridir. Ziraat Mobil uygulamasına, SMS ile giriş yaptıktan sonra Güvenlik Ayarlarım menüsünden güvenlik tercihinizi Ziraat Onay olarak belirleyebilirsiniz. Ziraat Mobil'e bir sonraki girişinizde sadece internet bankacılığı şifrenizi tuşlayarak giriş yapabilirsiniz. İnternet bankacılığına giriş yaparken veya yine internet bankacılığında işlem onaylarında, kayıt altına alınmış olan cihazınıza bildirim gönderilmektedir. Ziraat Onay'ın aktive edildiği cihazınızın internete bağlı olmaması durumunda bildirim gönderimi yapılamayacaktır. Gönderilen bildirimler ücretlendirilmemektedir. Ayrıca Ziraat Onay'ın aktive edildiği cihazdaki Ziraat Mobil'in kaldırılması halinde Ziraat Onay'ı en baştan aktive etmeniz gerekmektedir. Ziraat Onay aktive edilen cihaz dışında, başka bir cihazdan giriş yapılmak istendiğinde aktivasyonun yeniden gerçekleştirilmesi gerekmektedir.
+Ziraat Onay'ı yurt dışında kullanabilir miyim?
+Evet. Ziraat Onay'ı yurt dışında kullabilirsiniz.
+Ziraat Onay bildirimi gelmiyor. Neden?
+Ziraat Onay bildiriminin gelebilmesi için cihazınızın internete bağlı olup olmadığını kontrol ediniz. İnternete bağlı olduğu halde bildirim iletilmiyorsa, cihazınızın Ayarlar- Uygulamalar başlıkları altından Ziraat Mobil uygulamamıza bildirim izni verdiğinizden emin olunuz. Ziraat Mobil'i cihazınızdan sildiğiniz takdirde Ziraat Onay bağlantınızın kesileceğini ve yeniden Ziraat Onay'ı aktive etmeniz gerektiğini unutmayınız.
+SMS Bilgilendirme nedir?
+SMS Bilgilendirme güvenliğiniz için alınmış bir önlemdir. Sistemde iletişim telefonu olarak kayıtlı cep telefonunuza İnternet bankacılığımız aracılığıyla yapılan, belirli miktarlar üzerindeki işlemler için bilgilendirme mesajları gönderilir. Böylelikle İnternet bankacılığından yapılan bütün işlemlerden haberdar olabilirsiniz. İşlem limitlerini bankamızın belirlediği limitlerden düşük, sizin belirlediğiniz limitlerden yüksek olmamak kaydıyla Diğer / Güvenlik Ayarlarım / SMS Bilgilendirme ekranından değiştirebilirsiniz.
+İnternet Şube erişimimi sınırlandırabilir miyim?
+Güvenlik ayarlarınızdan işlem limiti, işlem kısıtı, erişim zamanı ve erişim tanımlama (ip, isp, yurtiçi, yurtdışı) bazlı sınırlama ve kısıtlama yapabilirsiniz. Erişim engelini kaldırmak istediğinizde yeniden 0850 220 00 00 Müşteri Hizmetlerimizi aramanız yeterlidir.
+Mobil İmza nedir? Nasıl başvururum? Ziraat internet bankacılığında nasıl kullanabilirim?
+Mobil İmza, işlemlerinizi ıslak imza atarmış gibi yapabileceğiniz, elektronik ortamlarda kimliğinizi kolayca kanıtlayabileceğiniz bir servistir. Bu hizmetten sadece Turkcell hatlı bireysel müşterilerimiz yararlanabilir. Turkcell Mobil İmza başvurunuzu Turkcell Müşteri Hizmetleri'ni arayıp yapabilirsiniz. İnternet Bankacılığı giriş ekranında "Mobil İmza İle Giriş" seçeneğini işaretleyin. Uygulama ekranındaki İMZALA tuşuna basın. Bu tuşa bastığınızda, bilgiler hazırlanarak, imzalanmak üzere cep telefonu ekranınızda işlem bilgisi çıkar. İşleme ait açıklamayı onaylamak için TAMAM'a basın. Yaptığınız işlem için gönderilen PARMAK İZİ'ni telefon ve bilgisayar ekranından kontrol edip TAMAM'a basın. Turkcell Mobil İmza şifrenizi girin ve TAMAM'a bastığınızda işleminiz imzalanır.
+Cep telefonu bilgilerimi nasıl güncelleyebilirim? Cep telefonu numaramı değiştirdiğimde/SIM kartım değiştiğinde ne yapmalıyım?
+Müşterilerimiz, cep telefonu bilgilerini, kendi güvenlikleri için sadece şubelerimizden tanımlatabilmekte veya güncelletebilmektedir. Cep telefonu numaranız ya da SIM kartınız değiştiğinde en kısa sürede şubenize uğrayarak cep telefonu numaranızı güncelletmeniz ve şube veya ATM aracılığı ile sim kart blokenizi kaldırmanız gerekmektedir.
+İşlem yapmadığım halde cep telefonuma şifre veya bilgilendirme mesajı geldi. Ne yapmalıyım?
+0850 220 00 00 Müşteri İletişim Merkezimizi aramanız gerekmektedir.
+Harçlık avans limit/işlem bilgilerini Mobil ve İnternet Bankacılığı'ndan görebiliyor muyum?
+Evet, hem internet bankacılığından hem de Ziraat Mobil'den görüntüleyebilirsiniz. Kartlarım başlığı altında Bankkartlarım'ı seçerek bakiyenizi izleyebilirsiniz.
+SWIFT işlemi yapmak istiyorum. Nereden yapabilirim ve masrafını nereden öğrenebilirim?
+Yurtdışı Para Transferi işleminizi İnternet Bankacılığından Para Transferleri-Döviz Transferi (SWIFT) bölümünden gerçekleştirebilirsiniz. İşlem masrafı ise onay ekranında görünmektedir. Ziraat Bankası SWIFT kodu: TCZBTR2A
+Yurt dışından getirttiğim telefon için İnternet Bankacılığı ve Mobil'den ödeme yapılıyor mu?
+Evet. Vergiler bölümünde Yolcu Ceptel başlığı altında ödeme yapabilirsiniz. Ancak daha sonra ödeme dekontunun çıktısı ile birlikte operatörünüzün mağazasına giderek telefonun açılması işlemini gerçekleştirmeniz gerekmektedir.
+Yurt Dışına çıkarken İnternet Bankacılığı & Mobil kullanımı için yapılması gereken işlemler nelerdir?
+Yurtdışına çıkarken internet ve mobil bankacılığın kullanımı için OTP veya Ziraat Onay güvenlik tercihlerinden birini seçebilirsiniz. Detaylı bilgi için Yurtdışına çıkarken internet ve mobil bankacılığın kullanımı için OTP veya Ziraat Onay güvenlik tercihlerinden birini seçebilirsiniz.
+Ziraat Bankası güvenliğim için neler yapıyor?
+Ziraat Bankası internet ve mobil bankacılığından faydalanabilmek için bazı güvenlik adımlarından geçilerek kullanıcının sistem tarafından tanınması gerekmektedir. Müşteri numaranız ve internet bankacılığı şifreniz, daha sonrasında ise SMS/OTP şifresi veya Ziraat Onay bildirimi ile sisteme kendinizi tanıtarak kimlik doğrulamanızı gerçekleştirmiş olursunuz. Herhangi bir sebeple, kötü niyetli kişiler tarafından şifrenizin öğrenilmesi durumuna önlem olarak müşterilerimiz OTP cihazı da kullanabileceklerdir. OTP cihazına sahip müşterilerimize; internet ve mobil bankacılık girişlerinde ve belirli işlemlerin onay aşamasında OTP cihazı tarafından üretilen, tek kullanımlık şifre sorulmaktadır. Böylelikle şifre ele geçirilse bile, internet ve mobil bankacılığınıza kimse ulaşamayacaktır. Herhangi bir sebeple internet ve mobil bankacılığınıza ulaşıldığında para transferleri, alıcı tanımlama gibi kritik işlemlerin gerçekleştirilebilmesi için OTP sahibi müşterilerimizin OTP şifrelerini girmeleri gerekmektedir. Güvenlik tercihinize göre bu şifre SMS şifresi veya Ziraat Onay bildirimi de olabilmektedir. Buna ek olarak, hem Ziraat Mobil hem de internet bankacılığı girişlerinde güvenlik tercihi olarak sunulan Ziraat Onay teknolojisi sayesinde, müşterilerimizin akıllı cep telefonlarıyla (iOS veya Android) cihaz eşleşmesi yapılarak üst seviye bir güvenlik doğrulaması sağlanmaktadır. Güvenlik tercihinizi Ziraat Onay olarak değiştirmek için, uygulama marketleri üzerinden (Google Play, App Store, Windows Store) indirebileceğiniz mobil uygulamamızı kullanabilirsiniz. Güvenlik tercihinizi Ziraat Onay olarak değiştirmek için, uygulama marketleri üzerinden (Google Play, App Store, Windows Store) indirebileceğiniz mobil uygulamamızı kullanabilirsiniz. (bkz: Ziraat Onay). Ayrıca internet ve mobil bankacılığımız kullanılarak gerçekleştirilen, belirlediğiniz tutarlar üzerindeki kritik işlemler SMS (kısa mesaj) ile size bildirilecektir. Böylelikle bilginiz dışında internet ve mobil bankacılığınız kullanılmayacak ve işlemlere anında müdahale edebileceksiniz. İnternet ve mobil bankacılığı oturumunuz esnasında 5 dakika süreyle işlem yapmadığınız takdirde, bir ikaz penceresi çıkacak ve işlemlere devam etmek isteyip istemediğiniz sorulacaktır. Bir dakika içerisinde bu pencereye de herhangi bir yanıt vermediğiniz veya oturumu kapat seçeneğini tıkladığınız durumlarda oturumunuz kapatılacaktır. İşlemlere devam etmeyi seçerseniz, oturum süreniz devam edecektir.
+Güvenliğim için nelere dikkat etmeliyim?
+Ziraat Bankası İnternet Bankacılığı'na her girdiğinizde tarayıcınızın adres bölümüne ziraatbank.com.tr yazıp, açılacak sayfadaki İnternet Şubesi linkine tıklamalısınız. Ziraat Bankası sitesine bağlanabileceğiniz diğer adresler şunlardır: http://www.ziraat.com.tr/ http://www.ziraatbank.com.tr/ Ortak kullanıma açık internet kafe gibi yerlerdeki bilgisayarlardan internet Bankacılığına giriş yapmayınız. Yalnızca lisanslı işletim sistemlerini kullanınız ve web tarayıcınızı güncel tutunuz. Zararlı yazılımlar, güncelliğini kaybetmiş işletim sistemi ve tarayıcılardaki güvenlik açıklarını kullanır. İnternet kullanımı sırasında olası güvenlik açıklarının tespiti, giderilmesi ve olabilecek saldırılara karşı korunabilmeniz için bir anti virüs programı, bir casus tarayıcı program (anti spyware – anti malware) ve bir güvenlik duvarı yazılımı (Firewall) kullanmanız çok önemlidir. Bazı güvenlik yazılımları, bu üç özelliği birden bünyesinde barındırır. Casus tarayıcı programlar, internet kullanım bilgilerinizi toplamaya çalışan casus yazılımlara karşı bilgisayarınızı korurken güvenlik duvarı yazılımları, bilgisayarınızdaki programlarının bilginiz dışında internete bağlanmalarına engel olur. Bilgisayarınızda anti-virüs yazılımı kullanınız ve veri tabanınızı güncel tutunuz. Periyodik olarak virüs taraması yapınız. Kişisel bilgilerinizi gizli tutunuz. Doğum tarihi, kimlik numarası, anne kızlık soyadı gibi bilgilerinizin; telefonda ya da e-posta yoluyla talep edilmesi durumunda son derece dikkatli ve şüpheci davranmalısınız. Tanıdığınız kişilerden bile olsa e-posta ya da sohbet ve mesajlaşma programları kanalıyla gelen veya yukarıda belirtilen adresler dışındaki herhangi bir linki tıklayarak İnternet Bankacılığımıza erişmeyi denemeyiniz. Şifrenizi hiçbir şekilde e-posta vasıtasıyla göndermeyiniz. Müşteri numaranızı ve şifrenizi; aynı yerde saklamayınız. Kolay erişilebilecek yerlere not etmeyiniz. Kart bilgileriniz, müşteri numaranız, internet ve mobil bankacılığı şifreniz ve cep telefonunuza gönderilen tek kullanımlık işlem onay şifreniz sadece size özeldir. Bu bilgileri Bankamız personeli dâhil, kimseyle paylaşmayınız. Sizi telefon ile arayarak kart bilgilerinizi ve her türlü şifrenizi okumanızı ve tuşlamanızı isteyen kişilere itibar etmeyiniz. Şifrenizi belirlerken kolaylıkla tahmin edilebilecek kişisel bilgilerinizi (doğum yılınız, tuttuğunuz takım vb.) kullanmayınız. Bilmediğiniz kişilerden gelen e-postaları açmayınız, dosyaları kabul etmeyiniz. E-posta ile gelen bağlantılara tıklayarak güvenlik bilgilerinizi girmeyiniz. Ziraat Bankası e-posta yoluyla hiçbir şekilde şifre işlemleri yaptırmamaktadır ve kişisel bilgilerinizi istememektedir. Bu tarz e-postalara yanıt vermeyiniz. Şifrenizi, belirli sıklıklarla değiştiriniz. E-posta gibi diğer internet hizmetlerine erişim için kullandığınız detayları kullanmaktan kaçınınız. Yararlanmadığınız bankacılık işlemlerini, internet bankacılığı kullanımına kapatınız. " İnternet bankacılığına güvenli olarak giriş yaptığımı nasıl anlarım?" sorusuna cevap olarak verilen kontrolleri, İnternet bankacılığına girişlerinizde yapınız.
+İnternet bankacılığına güvenli olarak giriş yaptığımı nasıl anlarım?
+Giriş ekranın ilk sayfasında müşteri numaranız ve şifrenizi girdikten sonra 2. ekranda mutlaka adınız ve soyadınız çıkacaktır. Bu durumda güvenlik tercihi seçiminize göre SMS şifrenizi girebilir veya akıllı telefonunuzdan Ziraat Onay aracılığı ile giriş onayı verebilirsiniz. Tarayıcınızın adres çubuğu kısmına http://www.ziraatbank.com.tr yazarak erişim sağlayınız. İnternet Bankacılığı adresinin "https://bireysel.ziraatbank.com.tr" olmasına dikkat ediniz. Ana sayfada, internet bankacılığına son giriş tarih ve saatiniz hakkında bilgi alabilirsiniz. Açılan sayfalarda, tarayıcınızın sağ alt veya üst köşesinde bir kilit işareti bulunmalıdır. İşaretin üzerine tıklandığında aşağıdaki ibareleri görmelisiniz.
+Ziraat internet bankacılığı SSL Güvenlik Sertifikası nedir?
+Ziraat İnternet Bankacılığı SSL Güvenlik Sertifikası, network üzerindeki bilgi transferi sırasında güvenlik ve gizliliğin sağlanması amacıyla Netscape tarafından geliştirilmiş bir güvenlik protokolüdür. SSL, gönderilen bilginin kesinlikle ve sadece doğru adreste deşifre edilebilmesini sağlar. Bilgi, gönderilmeden önce otomatik olarak şifrelenir ve sadece doğru alıcı tarafından deşifre edilebilir. Her iki tarafta da doğrulama yapılarak işlem ve bilginin gizlilik ve bütünlüğü korunur. Güvenliğiniz için internet bankacılığı; sunucu sertifikaları 128/256 bit şifreleme özelliğine sahip, kullanıcılarının sahtecilik amaçlı siteleri güvenli sitelerden daha kolay ayırt etmelerinin yanı sıra phishing ve diğer kimlik hırsızlığı saldırılarından korunmalarını sağlayan "Comodo® Extended Validation (EV SGC) SSL" sertifikalarını kullanmaktadır. Bu özelliği destekleyen güncel bir tarayıcı kullanıyorsanız, ® Extended Validation (EV SGC ) SSL Sertifikası sayesinde, internet bankacılığına girişinizde tarayıcınızın adres satırı yeşil renkte görünecektir. Ziraat.com.tr'nin güvenilir bir site olduğuna ilişkin sertifika detaylarına, adres satırına tıklayarak ulaşabilirsiniz. Eğer sitenin sahte bir site olduğu daha önceden tespit edilmişse, adres satırı kırmızıya dönüşür. Bazı tarayıcılar bu sertifikayı tanır fakat sunduğu özelliklerden faydalanamazlar, yani bu tarayıcılarda yeşil adres satırı özelliği bulunmaz. Comodo EV SGC SSL sertifikası %99,3 tarayıcı uyumluluğu vardır ve SGC özelliği sertifikanız, eski tip tarayıcılarda da desteklenir. Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari, Opera gibi güncel bir tarayıcı kullanmanızı; eğer kullanmıyorsanız yazılımcı firma resmi sitelerinden tarayıcılarınızı ücretsiz olarak güncellemenizi tavsiye ediyoruz.
+Bireysel internet bankacılığına nasıl başvurabilirim?
+Bireysel internet bankacılığına en yakın şubemizden başvurabilirsiniz. Şubemizden müşteri numaranız verilecek ve başvurunuz onaylandıktan sonra internet ve mobil bankacılık şifreniz cep telefonunuza SMS olarak gönderilecektir.
+İnternet bankacılığından hangi işlemleri yapabilirim?
+Bireysel İnternet bankacılığından yapılabilecek işlemleri görebilmek için lütfen internet sayfamızı ziyaret ediniz.
+İşlem limitlerimi nasıl değiştirebilirim?
+Bireysel İnternet bankacılığımızda İşlem Limiti Tanımlama ekranından dilediğiniz işlemin günlük limitini düşürebilirsiniz. Limitinizi Bankamız limitleri üzerinde olmamak kaydıyla, 0850 220 00 00 nolu müşteri hizmetlerimizden yükseltebilirsiniz. Bireysel internet bankacılığı limitlerinizin Bankamız limitlerinin üzerine çıkarılması talepleriniz için Şubenize başvurabilirsiniz.
+İnternet bankacılığına mevcut ürün ve hesaplarım otomatik tanımlanır mı?
+Bireysel kredi, OGS, kredi kartı, KMH ürünleri internet bankacılığınıza otomatik tanımlanır. Diğer hesaplarınızı en yakın şubemizden tanımlatmanız gerekmektedir.
+İnternet bankacılığından hangi ürün ve hizmetlere başvurabilirim?
+Ziraat İnternet bankacılığından, Bireysel Kredi, Kredi Kartı, Kredi Kartı Limit Arttırım, Ek Kart, KMH, OGS, Telefon Bankacılığı, Bireysel Emeklilik, Sigorta Ürünlerine başvuruda bulunabilirsiniz.
+İşlem limit/kısıtlamalarını İnternet Bankacılığı'nda nerden yapabilirim?
+İşlem limit ve kısıtlamalarını Güvenlik Ayarlarım altından yapabilirsiniz.
+Hesabımı internet bankacılığında göremiyorum. Ne yapmam gerekiyor?
+İnternet Bankacılığı ürün/hesap tanımlama işlemleri şubelerimiz tarafından gerçekleştirilebilmektedir. Size en yakın şubemize başvuruda bulunmanızı rica ederiz.
+İnternet bankacılığı şifremi unuttum/bloke oldu. Ne yapabilirim?
+İnternet bankacılığı giriş şifresini unutan bireysel kullanıcılarımız giriş ekranlarında yer alan Şifremi Unuttum linkinden yeni şifre oluşturabilirler.
+Cep telefonu bilgilerimi nasıl güncelleyebilirim?Cep telefonu numaramı değiştirdiğimde/SIM kartım değiştiğinde ne yapmalıyım?
+Müşterilerimiz, cep telefonu bilgilerini, kendi güvenlikleri için sadece şubelerimizden tanımlatabilmekte veya güncelletilebilmektedir. Cep telefonu numaranız ya da SIM kartınız değiştiğinde en kısa sürede şubenize uğrayarak cep telefonu numaranızı güncelletmeniz ve ve şube veya ATM aracılığı ile sim kart blokenizi kaldırmanız gerekmektedir.
+Online başvuru nedir? Nasıl başvururum?
+Online başvuru banka kartı/kredi kartı ile yapıldığından vadesiz mevduat hesabınızın kartınıza tanımlı olması, şubelerimizden yapılacak olan başvurular için ise en az bir adet vadesiz mevduat hesabınızın bulunması gerekmektedir. Online başvurularda TCKN ve bankamızda kayıtlı cep telefonu numaranızı girmeniz gerekmektedir. Bu bilgileri giriş yaptığınızda kayıtlı cep telefonunuza bir onay şifresi gönderilecek ve ekranda bu şifrenin girilmesi istenecektir. Ekranda istenen diğer bilgiler girildikten sonra başvurunuz tamamlanacak olup İnternet bankacılığı giriş şifreniz cep telefonunuza SMS olarak gönderilecektir. SMS ulaşmadığı takdirde, internet bankacılığımız üzerinden Şifremi Unuttum linki ile veya Müşteri İletişim Merkezi üzerinden ilk şifrenizi oluşturabilirsiniz. Online Başvuru sonrası para transferi ve kontör yükleme dışındaki tüm işlemleri gerçekleştirebilirsiniz. Para transferi yapabilmek için yalnızca Online Başvuru Sonuç ekranında belirtilen Şubenize giderek Elektronik Bankacılık Sözleşmesini imzalamanız yeterlidir.
+Kurumsal İnternet bankacılığına nasıl başvurabilirim?
+İnternet bankacılığına en yakın şubemizden başvurabilirsiniz. Şubemizden müşteri numaranız ve kullanıcı adınız verilecek ve başvurunuz onaylandıktan sonra internet ve mobil bankacılık şifreniz cep telefonunuza SMS olarak gönderilecektir.
+Kurumsal İnternet bankacılığından hangi işlemleri yapabilirim? 
+Kurumsal İnternet Bankacılığından yapılabilecek işlemleri görebilmek için lütfen sitemizi ziyaret ediniz.
+İşlem limitlerimi nasıl değiştirebilirim?
+Kurumsal internet bankacılığında Durumunu İzle>Kullanıcı Yönetimi alanından İşlem Limiti Belirle ekranı ile kullanıcı limitleri belirlenebilmektedir. Limitlerinizin Bankamız limitlerinin üzerine çıkarılması talepleriniz için Şubenize başvurabilirsiniz.
+Kurumsal internet bankacılığına mevcut ürün ve hesaplarım otomatik olarak tanımlanır mı?
+Kurumsal Kredi, OGS, kredi kartı, KMH ürünleri internet bankacılığınıza otomatik tanımlanır. Diğer hesaplarınızı en yakın şubemizden tanımlatmanız gerekmektedir.
+Hesabımı Kurumsal İnternet Bankacılığı' nda göremiyorum. Ne yapmam gerekiyor?
+İnternet Bankacılığı ürün/hesap tanımlama işlemleri şubelerimiz tarafından gerçekleştirilebilmektedir. Size en yakın şubemize başvuruda bulunmanızı rica ederiz. Şubede tanımlama yapıldığı halde, internet ve mobil bankacılığınızda görüntüleyemiyorsanız, Kullanıcı Yönetimi ekranında önce ana kullanıcı olarak kendinize, daha sonra alt kullanıcılara hesap tanımlama yapmanız gerekmektedir.
+Kurumsal İnternet Bankacılığı şifremi unuttum/bloke oldu. Ne yapabilirim?
+İnternet bankacılığı giriş şifresini unutan kurumsal kullanıcılarımız giriş ekranlarında yer alan Şifremi Unuttum linkinden yeni şifre oluşturabilirler.
+Cep telefonu bilgilerimi nasıl güncelleyebilirim? Cep telefonu numaramı değiştirdiğimde / SIM kartım değiştiğinde ne yapmalıyım?
+Cep telefonu numaranız ya da SIM kartınız değiştiğinde en kısa sürede şubenize uğrayarak cep telefonu numaranızı güncelletmeniz ve şube veya ATM aracılığı ile sim kart blokenizi kaldırmanız gerekmektedir.
+İşlem yapmadan sadece hesaplarımı izlemek için internet bankacılığı tanımı yapılabilir mi?
+En yakın şubemize başvurarak kurumsal izleme başvurusunda bulunabilir ve başvurunuz onaylandıktan sonra internet bankacılığınızdan işlem yapmaya kapalı olarak sadece izleme yapılabilmektedir.
+Ziraat Bankası Kurumsal İnternet Bankacılığına giriş için neler gerekli?
+Kurumsal İnternet Bankacılığı başvurusu için Bankamızda cari hesabınızın bulunması zorunlu olup, hesap açılabilmesi için de mevzuatımıza göre ilgili belge ve evrakları tamamlamanız gerekmektedir. Bankamızda tüzel müşteri vadesiz ticari hesabı bulunan tüzel müşterilere; başvuruda bulunmaları ve isterlerse Banka tarafından opsiyonel olarak sunulan OTP (One Time Password-Bir kullanımlık şifre üreten cihaz) cihazı alarak, Ana Kullanıcılar için SMS telefon numarası tanımlatarak veya Ana Kullanıcılar için Ziraat Onay güvenlik teknolojisi kullanılarak Kurumsal İnternet Bankacılığı hizmetlerinden yararlanma imkânı verilebilecektir.
+Kurumsal İnternet Bankacılığı'nda hangi roller vardır ve yetkileri kısaca nasıldır?
+Kurumsal İnternet Şubesinde gelişmiş ve basit onay yapıları bulunmaktadır. Basit onay yapısı, yetkili, girişçi ve izleyici rollerinden oluşmaktadır. Gelişmiş onay yapısında da basit onay yapısındaki rollere ek olarak yetkili seviyeleri kademeledirilmekte ve firma sirkülerine göre kişi bazında özelleştirilebilmektedir. Roller aşağıda tanımlanmıştır; Ana Kullanıcı: Her işlemi girer, girdiği hiçbir işlem onaya düşmez, her işlemi onaylayabilir, her şeyi izler. Vekil Ana Kullanıcı: Ana kullanıcının sahip olduğu bütün yetkilere sahip olarak ana kullanıcı tarafından atanan alt kullanıcıdır. Yetkili: Ana kullanıcıya özgü işlemler dışındaki tüm işlemlerin girişini yapar, tüm işlemleri ana kullanıcı tarafından kendisine verilen işlem limitleri dahilindeki onaylayabilir, girdiği işlemler onaya düşmez, ana kullanıcı tarafından giriş yapma ve onay verme işlemlerinde kısıtlama getirilmediği sürece tüm işlemlerin girişini yapabilir ve onay verebilir. Girişçi: Onay yetkisi yoktur, ilk oluşturulduğunda ana kullanıcıya özgü işlemler dışındaki tüm işlemlerin girişini yapar ve her şeyi izleyebilir, girişini yaptığı tüm işlemler onaya düşer. Ana kullanıcı giriş ve izleme yetkilerini sınırlandırabilir. İzleyici: Onay ve giriş yetkisi yoktur. İlk oluşturulduğundan itibaren her şeyi izleyebilir. Ana kullanıcı tarafından sınırlanabilir. *02.06.2014 tarihi itibariyle  onaycı rolündeki kullanıcılar yetkiliye dönüşmüştür ve yetki genişlemesi olmuştur.
+Kurumsal İnternet Bankacılığı'nda "Ana kullanıcınız tarafından hesapları görüntüleyebilmeniz için tanımlama yapılmamıştır" mesajı alıyorum. Neden?
+Kurumsal internet bankacılığında ana kullanıcıların, alt kullanıcıları izleme ve işlem yapabilecekleri hesapları Kullanıcı Yönetimi ekranlarından tanımlaması gerekmektedir. Böyle bir hata alınıyorsa, ana kullanıcının Kurumsal internet bankacılığı aracılığıyla gerekli tanımlamaları yapması gerekmektedir.
+Kurumsal İnternet Bankacılığı girişinde sorulan Kullanıcı adını nasıl öğrenebilirim?
+Ana kullanıcılar kullanıcı adlarını şubelerimizden ve 0850 220 00 00 Müşteri İletişim Merkezimizden öğrenebilmektedirler. Ana kullanıcılar ile ilgili tanımlama, değişiklik ve iptaller sadece şubelerimizden yapılabilmektedir. Alt kullanıcılar ile ilgili bilgileri Ana kullanıcılar internet şubesi içindeki Durumunu İzle/Kullanıcı Yönetimi' nden kontrol edebilmekte, güncelleyebilmekte ve iptal edebilmektedirler.
+Kurumsal İnternet Bankacılığı'nda alt kullanıcılar için hesap kısıtı ve işlem kısıtı tanımlayabilir miyim?
+Ana kullanıcılar, tanımladıkları alt kullanıcılar için hesap ve işlem kısıtı tanımlayabileceği gibi işlem özelinde de farklı rol tanımını yapabilmektedirler.
+Kurumsal internet bankacılığında alt kullanıcıların sadece istenilen hesaplara para transferi yapabilmesini sağlayabilir miyim?
+Ana kullanıcılar, alt kullanıcılar için sadece istenilen hesaplara para transferi yapabilmesi için kısıtlama yapabilmektedir.
+Ziraat Mobil'e nereden ulaşabilirim?
+Ziraat Mobil'e Android ve IOS marketlerinden aşağıdaki linklerden ulaşabilirsiniz. https://itunes.apple.com/tr/app/ziraat-mobil/id885993234?mt=8 https://play.google.com/store/apps/details?id=com.ziraat.ziraatmobil 
+Başvuru sonrası ilk giriş işlemini nasıl yapacağım?
+Başvuru sonrası müşteri numaranız ve kayıtlı cep telefonu numaranıza gönderilen internet ve mobil bankacılığı şifreniz ile isterseniz internet bankacılığımızdan isterseniz cihazınıza indireceğiniz Ziraat Mobil uygulamamızdan ilk girişinizi gerçekleştirebilirsiniz.
+Ziraat Mobil işlem saatleri nelerdir?
+Döviz Alış / Satış : 24 saat Arbitraj : 24 saat Havale : 24 saat EFT : 08:30 – 17:00 Başkent Doğalgaz: 08:00 – 20:00 D-Smart NET, Smile ADSL: 01:00 – 17:30 İSKİ Su: 01:00 - 21:00 Fatura, Vergi, Sigorta, Bağış, SGK, Eğitim, TL Yükleme, Şans Oyunları ve diğer ödemeler: 24 saat (Gün sonu hariç) B Tipi Likit Fon: 24 Saat Likit Dışı B Tipi Fonlar: 09:00 – 16:30 – 18:00-08:59 A Tipi Fonlar: 09:00 – 16:30 – 18:00-08:59 Anapara Koruma Amaçlı Fonlar: 09:00 – 17:00 Vadesiz Altın Alış ve Satış: USD Hesaptan – 09:00 – 18:00 TL Hesaptan – 24 saat Yurtkur ödemeleri: 01:00 - 23:30
+İşlem limitlerimi nasıl değiştirebilirim?
+Bireysel İnternet Şubesi'nde yer alan İşlem Limiti Tanımlama ekranından dilediğiniz işlemin günlük limitini düşürebilirsiniz. Limitinizi Bankamız limitleri üzerinde olmamak kaydıyla, 0850 220 00 00 nolu müşteri hizmetlerimizden yükseltebilirsiniz. Limitlerinizin Bankamız limitlerinin üzerine çıkarılması talepleriniz için Şubenize başvurabilirsiniz.
+Ziraat Mobil'den yaptığım işlemler için bir ücret öder miyim?
+İnternet ve mobil bankacılıktan yapılan işlem ücretleri hakkında bilgi almak için siteye ziyaret ediniz.
+Yatırım hesabımı Ziraat Mobil'den görüntülemek ve/veya işlem yapmak için ne yapabilirim?
+Hesabınız bulunan herhangi bir şubemizden Yatırım hesabınızın bağlı olduğu vadesiz hesabınızı tanımlatarak Ziraat Mobil'den Yatırım hesabınızı kullanabilirsiniz.
+Ziraat Mobil'den açtığım hesabımı kapatmak istiyorum. Ne yapmam gerekir?
+Hesabınızı Ziraat Mobil'den veya hesabınızın bulunduğu Ziraat Bankası şubesine giderek kapatabilirsiniz.
+Ziraat Mobil'den yanlış ödediğim fatura veya vergiyi, hatalı göndermiş olduğum havale ya da EFT'yi iptal edebilir miyim?
+Ziraat Mobil aracılığıyla gerçekleşen işlemler gerçek zamanlı (çevrimiçi) işlemlerdir ve iptali mümkün olmamaktadır. İptal işlemi için işlemin gerçekleştiği hesabın bulunduğu Şubemize gitmeniz gerekmektedir.
+Bankanızdan EFT yaptım. Hesabımdan düştü. Fakat karşı bankaya ulaşmadı.
+Telefon Bankacılığından, İnternet Şubeden, Ziraat Mobil'den ya da hesabınızın bağlı bulunduğu şubeden EFT sorgu numarasını alarak karşı bankadan EFT'nizi sorgulatabilirsiniz. EFT yaparken hesap numarası ya da ismi hatalı yazdıysanız hesabınızın bağlı bulunduğu şube ile görüşüp hbr-genel mesajı göndermesini isteyebilirsiniz.
+Hesap hareketlerini işlem tarihine göre sorgulamakla muhasebe tarihine göre sorgulamak arasında ne fark vardır?
+Hafta sonu ve tatil günlerinde yaptığınız işlemlerin bankacılık sisteme yansıması bir sonraki iş günü olacaktır. Hesap hareketleriniz İşlem Tarihi bazında sorgu yapıldığında işlemlerin yapıldığı tarihe göre, Muhasebe Tarihi bazında sorgu yapıldığında işlemlerin bankacılık sistemine yansıdığı tarihe göre listelenir.
+Fatura ödeme işlemleri ile yapabileceğim işlem sayısı veya tutarı ile ilgili bir kısıt var mıdır?
+Bireysel İnternet Bankacılığı müşterilerimiz bir ay içinde en fazla 20, kurumsal müşteriler ise 50 adet fatura ödeyebilirler. Aylık olarak ödenebilecek maksimum fatura tutarı ile ilgili herhangi bir limit yoktur.
+İleri tarihli para transferlerimde, düzenli ya da otomatik ödeme talimatlı işlemlerimde, işlemin gerçekleşeceği tarihte hesabımda yeterli para yoksa ne olur?
+İşleminiz gerçekleştirilebilmesi için işlemin gerçekleşeceği tarihte hesabınızda yeterli para olmasına/alternatif bir hesap ya da Kredili Mevduat Hesabı tanımlamış olduğunuza dikkat etmeniz gerekmektedir.
+İleri tarihli yaptığım EFT'nin izleme ve iptalini nasıl yapabilirim?
+İnternet bankacılığı'nda Düzenli Ödeme Talimatları başlığı altından yaptığınız ileri tarihli EFT'yi görüntüleyebilirsiniz. Görüntülenen listeden ileri tarihli EFT işleminizi iptal edebilirsiniz.
+Dekont almak istiyorum. Ne yapmam gerekir?
+İnternet ve mobil bankacılıkta işleminiz gerçekleştirildikten sonra mail adresinizi yazarak dekontun mail adresinize gönderilmesini sağlayabilirsiniz. İşlem esnasında dekont gönderimi yapamadıysanız, işlem sonrasında hesaplarım altından, işlem yapmış olduğunuz hesabı seçerek hesap hareketlerinden işleminizin detayına tıkladıktan sonra dekont gönder tuşuna basarak mail adresinize dekontunuzu gönderebilirsiniz.
+Mobil'de Hesap hareketlerimi nerden göreceğimi öğrenebilir miyim?
+Mobil'de menüden Hesaplarım'ı seçtikten sonra herhangi bir hesabı seçerek hesap hareketlerinizi görüntüleyebilirsiniz.
+Bankkart hesap ekleme/çıkarma işlemini Mobil'de nasıl yapabilirim?
+Menüde Kartlarım – Bankkartlarım başlığı altından hesap ekleme/çıkarma işlemini yapmak istediğiniz kartı seçtikten sonra sağ üst köşede yer alan İşlemler'e tıkladığınızda Hesap Ekleme/Çıkarma işlemini seçerek işleminizi yapabilirsiniz.
+Yurtdışına çıkacağım. Mevcut GSM operatörümü yurtdışında kullanamayacağım. Bu durumda Ziraat Mobil'e nasıl giriş yapabilirim?
+İnternet Şubesi Yurt dışı IP erişimi açma işlemleri İnternet Bankacılığından yapılabilmektedir. İnternet Şube giriş ekranındaki "Müşteri numaranız Yurtdışı IP adresinden internet bankacılığı erişimine kapalı konumdadır. Açmak için lütfen tıklayınız" linkinden gerekli adımları tamamladıktan sonra internet şubesi yurt dışı IP adresinden giriş için kullanıma açılacaktır. Ayrıca 7 gün 24 saat hizmet alabileceğiniz +90 850 220 00 00 numaralı Müşteri İletişim Merkezi'miz ile işleminizi gerçekleştirebilirsiniz. Giriş tercihi olarak da Ziraat Mobil uygulamasını yükleyerek kullanabileceğiniz Ziraat Onay ya da şubelerimizden temin edebileceğiniz OTP cihazları ile giriş yapabilirsiniz. Ziraat Onay hakkında daha çok bilgi almak için lütfen Giriş tercihi olarak da Ziraat Mobil uygulamasını yükleyerek kullanabileceğiniz Ziraat Onay ya da şubelerimizden temin edebileceğiniz OTP cihazları ile giriş yapabilirsiniz.
+SMS Doğrulaması nedir?
+SMS Doğrulama uygulaması, müşterilerimizin internet ve mobil bankacılığa giriş yaparken veya giriş yaptıktan sonra işlemler esnasında, işlemlerinin güvenliğini arttırmak amacıyla kullanılan güvenlik tercihlerinden biridir. Kayıtlı olmayan alıcılara ve abonelere yapılan para transferi gibi işlemlerde tek seferlik kullanım olanağı sağlayan bir şifre üretilerek, kayıtlı cep telefonunuza mesaj olarak gönderilmektedir. Gönderilen şifre 3 dakika süre ile geçerli olup, daha sonra kullanılması mümkün değildir. Bu süre içerisinde işleminizi tamamlayamadıysanız işleminize tekrar başlayarak yeni SMS mesajını kullanmanız gerekmektedir. Cep telefonunuzun kapsama alanı dışında olması, kapalı olması gibi durumlarda işlem yapılamayacaktır. Gönderilen mesajlar şimdilik ücretlendirilmemektedir.
+Ziraat Onay nedir?
+Ziraat Onay uygulaması, müşterilerimizin internet ve mobil bankacılığa giriş yaparken veya giriş yaptıktan sonra işlemler esnasında, işlemlerinin güvenliğini arttırmak amacıyla kullanılan güvenlik tercihlerinden biridir. Ziraat Mobil uygulamasına, SMS ile giriş yaptıktan sonra Güvenlik Ayarlarım menüsünden güvenlik tercihinizi Ziraat Onay olarak belirleyebilirsiniz. Ziraat Mobil'e bir sonraki girişinizde sadece internet bankacılığı şifrenizi tuşlayarak giriş yapabilirsiniz. İnternet bankacılığına giriş yaparken veya yine internet bankacılığında işlem onaylarında, kayıt altına alınmış olan cihazınıza bildirim gönderilmektedir. Ziraat Onay'ın aktive edildiği cihazınızın internete bağlı olmaması durumunda bildirim gönderimi yapılamayacaktır. Gönderilen bildirimler ücretlendirilmemektedir. Ayrıca Ziraat Onay'ın aktive edildiği cihazdaki Ziraat Mobil'in kaldırılması halinde Ziraat Onay'ı yeniden en baştan aktive etmeniz gerekmektedir. Ziraat Onay aktive edilen cihaz dışında, başka bir cihazdan giriş yapılmak istendiğinde aktivasyonun yeniden gerçekleştirilmesi gerekmektedir.
+Ziraat Onay'ı yurt dışında kullanabilir miyim?
+Evet. Ziraat Onay'ı yurt dışında kullabilirsiniz. Detaylı bilgi için siteye ziyaret ediniz.
+Ziraat Onay bildirimi gelmiyor. Neden?
+Ziraat Onay bildiriminin gelebilmesi için cihazınızın internete bağlı olup olmadığını kontrol ediniz. İnternete bağlı olduğu halde bildirim iletilmiyorsa, cihazınızın Ayarlar- Uygulamalar başlıkları altından Ziraat Mobil uygulamamıza bildirim izni verdiğinizden emin olunuz. Ziraat Mobil'i cihazınızdan sildiğiniz takdirde Ziraat Onay bağlantınızın kesileceğini ve yeniden Ziraat Onay'ı aktive etmeniz gerektiğini unutmayınız.
+Yurt dışından getirttiğim telefon için İB ve Mobil'den ödeme yapılıyor mu?
+Evet. Vergiler bölümünde Yolcu Ceptel başlığı altında ödeme yapabilirsiniz. Ancak daha sonra ödeme dekontunun çıktısı ile birlikte operatörünüzün mağazasına giderek telefonun açılması işlemini gerçekleştirmeniz gerekmektedir.
+İşlem limit/kısıtlamalarını İB'de nerden yapabilirim?
+İşlem limit ve kısıtlamalarını Güvenlik Ayarlarım altından yapabilirsiniz.
+Harçlık avans limit/işlem bilgilerini Mobil ve İB'den görebiliyor muyum?
+Evet, hem internet bankacılığından hem de Ziraat Mobil'den görüntüleyebilirsiniz. Kartlarım başlığı altında Bankkartlarım'ı seçerek bakiyenizi izleyebilirsiniz.
+QR Kod ile hangi işlemleri yapabilirim?
+Ziraat Mobil uygulaması yüklü olan cihazınız ve ATM aracılığı ile, QR kod ile para çekme ve yatırma işlemlerini gerçekleştirebilirsiniz.
+QR Kod ile nasıl işlem yapabilirim?
+QR Kod ile Para Çekme/Yatırma işlemi yapabilmek için, Ziraat Mobil'i cihazınıza kurduktan sonra kamera iznini verdiğinize emin olunuz. Daha sonra Ziraat Mobil'e giriş yaparak, yapmak istediğiniz işlemi seçip ATM'den ilgili işleminize devam edebilirsiniz.
+Ziraat Mobil'i cihaza yükledikten sonra kamera izni istiyor. Kameramın kullanılmasını istemiyorum. Ne yapmam gerekir?
+Kamera izni, QR kod ile ATM'lerden kartsız ve kolayca para çekmeniz için alınması gereken bir izindir. Kameranız yalnızca işleminiz esnasında ATM'de oluşturulan QR kodun okutulması için açılır. Eğer kamera iznini kapatmak istiyorsanız, cihazınızın Ayarlar- Uygulamalar bölümünde Ziraat Mobil'i seçerek kamera iznini kapatabilirsiniz.
+Ziraat Mobil'i İngilizce'ye çevirdim. Türkçe'ye dönemiyorum. Ne yapmam gerekir?
+Ziraat Mobil uygulamamızı açtıktan sonra gelen ekranda sağ üst köşede EN yazılı geliyorsa, uygulama dil tercihinizin Türkçe olduğunu gösterir. Eğer sağ üst köşede TR yazılı geliyorsa, uygulama dil terchiniz İngilizce'dir. Buraya tıklayarak uygulama dil tercihinizi değiştirebilirsiniz.
+İşlem yapmadığım halde cep telefonuma şifre veya bilgilendirme mesajı geldi. Ne yapmalıyım?
+0850 220 00 00 Müşteri İletişim Merkezimizi aramanız gerekmektedir.
+Ziraat Bankası güvenliğim için neler yapıyor?
+Ziraat Bankası internet ve mobil bankacılığından faydalanabilmek için bazı güvenlik adımlarından geçilerek kullanıcının sistem tarafından tanınması gerekmektedir. Müşteri numaranız ve internet bankacılığı şifreniz, daha sonrasında ise SMS/OTP şifresi veya Ziraat Onay bildirimi ile sisteme kendinizi tanıtarak kimlik doğrulamanızı gerçekleştirmiş olursunuz. Herhangi bir sebeple, kötü niyetli kişiler tarafından şifrenizin öğrenilmesi durumuna önlem olarak müşterilerimiz OTP cihazı da kullanabileceklerdir. OTP cihazına sahip müşterilerimize; internet ve mobil bankacılık girişlerinde ve belirli işlemlerin onay aşamasında OTP cihazı tarafından üretilen, tek kullanımlık şifre sorulmaktadır. Böylelikle şifre ele geçirilse bile, internet ve mobil bankacılığınıza kimse ulaşamayacaktır. Herhangi bir sebeple internet ve mobil bankacılığınıza ulaşıldığında para transferleri, alıcı tanımlama gibi kritik işlemlerin gerçekleştirilebilmesi için OTP sahibi müşterilerimizin OTP şifrelerini girmeleri gerekmektedir. Güvenlik tercihinize göre bu şifre SMS şifresi veya Ziraat Onay bildirimi de olabilmektedir. Buna ek olarak, hem Ziraat Mobil hem de internet bankacılığı girişlerinde güvenlik tercihi olarak sunulan Ziraat Onay teknolojisi sayesinde, müşterilerimizin akıllı cep telefonlarıyla (iOS veya Android) cihaz eşleşmesi yapılarak üst seviye bir güvenlik doğrulaması sağlanmaktadır. Güvenlik tercihinizi Ziraat Onay olarak değiştirmek için, uygulama marketleri üzerinden (Google Play, App Store, Windows Store) indirebileceğiniz mobil uygulamamızı kullanabilirsiniz. (bkz:Ziraat Onay) Ayrıca internet ve mobil bankacılığımız kullanılarak gerçekleştirilen, belirlediğiniz tutarlar üzerindeki kritik işlemler SMS (kısa mesaj) ile size bildirilecektir. Böylelikle bilginiz dışında internet ve mobil bankacılığınız kullanılmayacak ve işlemlere anında müdahale edebileceksiniz. İnternet ve mobil bankacılığı oturumunuz esnasında 5 dakika süreyle işlem yapmadığınız takdirde, bir ikaz penceresi çıkacak ve işlemlere devam etmek isteyip istemediğiniz sorulacaktır. Bir dakika içerisinde bu pencereye de herhangi bir yanıt vermediğiniz veya oturumu kapat seçeneğini tıkladığınız durumlarda oturumunuz kapatılacaktır. İşlemlere devam etmeyi seçerseniz, oturum süreniz devam edecektir.
+Güvenliğim için nelere dikkat etmeliyim?
+Ziraat Mobil ve Ziraat Tablet uygulamalarımızı, sadece uygulama marketleri (Google Play, App Store, Windows Store) üzerinden indiriniz. Kişisel bilgilerinizi gizli tutunuz. Doğum tarihi, kimlik numarası, anne kızlık soyadı gibi bilgilerinizin; telefonda ya da e-posta yoluyla talep edilmesi durumunda son derece dikkatli ve şüpheci davranmalısınız. Şifrenizi hiçbir şekilde e-posta vasıtasıyla göndermeyiniz. Müşteri numaranızı ve şifrenizi; aynı yerde saklamayınız. Kolay erişilebilecek yerlere not etmeyiniz. Kart bilgileriniz, müşteri numaranız, internet bankacılığı şifreniz ve cep telefonunuza gönderilen tek kullanımlık işlem onay şifreniz sadece size özeldir. Bu bilgileri Bankamız personeli dâhil, kimseyle paylaşmayınız. Sizi telefon ile arayarak kart bilgilerinizi ve her türlü şifrenizi okumanızı ve tuşlamanızı isteyen kişilere itibar etmeyiniz. Şifrenizi belirlerken kolaylıkla tahmin edilebilecek kişisel bilgilerinizi (doğum yılınız, tuttuğunuz takım vb.) kullanmayınız. Bilmediğiniz kişilerden gelen e-postaları açmayınız, dosyaları kabul etmeyiniz. E-posta ile gelen bağlantılara tıklayarak güvenlik bilgilerinizi girmeyiniz. Ziraat Bankası e-posta yoluyla hiçbir şekilde şifre işlemleri yaptırmamaktadır ve kişisel bilgilerinizi istememektedir. Bu tarz e-postalara yanıt vermeyiniz. Şifrenizi, belirli sıklıklarla değiştiriniz.
+Mobil bankacılığa nasıl başvurabilirim?
+İnternet bankacılığına en yakın şubemizden başvurabilirsiniz. Şubemizden müşteri numaranız verilecek ve başvurunuz onaylandıktan sonra internet ve mobil bankacılık şifreniz cep telefonunuza SMS olarak gönderilecektir.
+Online başvuru ile Ziraat Mobil'i kullanmaya başladım, ancak para transferi yapamıyorum. Neden?
+Online başvuru banka kartı/kredi kartı ile yapıldığından vadesiz mevduat hesabınızın kartınıza tanımlı olması, şubelerimizden yapılacak olan başvurular için ise en az bir adet vadesiz mevduat hesabınızın bulunması gerekmektedir. Online başvurularda TCKN ve bankamızda kayıtlı cep telefonu numaranızı girmeniz gerekmektedir. Bu bilgileri giriş yaptığınızda kayıtlı cep telefonunuza bir onay şifresi gönderilecek ve ekranda bu şifrenin girilmesi istenecektir. Ekranda istenen diğer bilgiler girildikten sonra başvurunuz tamamlanacak olup İnternet Şubesi giriş şifreniz cep telefonunuza SMS olarak gönderilecektir. SMS ulaşmadığı takdirde, internet bankacılığımız üzerinden Şifremi Unuttum linki ile veya Müşteri İletişim Merkezi üzerinden ilk şifrenizi oluşturabilirsiniz. Online Başvuru sonrası para transferi ve kontör yükleme dışındaki tüm işlemleri gerçekleştirebilirsiniz. Para transferi yapabilmek için yalnızca Online Başvuru Sonuç ekranında belirtilen Şubenize giderek Elektronik Bankacılık Sözleşmesini imzalamanız yeterlidir.
+Ziraat Mobil'den hangi işlemleri yapabilirim? 
+Ziraat Mobil'den yapılabilecek işlemleri görmek için sitemize ziyaret ediniz.
+Ziraat Mobil'e mevcut ürün ve hesaplarım otomatik olarak tanımlanır mı?
+Bireysel kredi, OGS, kredi kartı, KMH ürünleri Ziraat Mobil'e otomatik tanımlanır.
+Ziraat Mobil'den hangi ürün ve hizmetlere başvurabilirim?
+Ziraat Mobil'den Bireysel Kredi, Kredi Kartı, Limit Arttırım başvurularında bulunabilirsiniz.
+Ziraat Mobil şifremi unuttum/bloke oldu. Ne yapabilirim?
+İnternet bankacılığı giriş şifresini unutan bireysel kullanıcılarımız giriş ekranlarında yer alan Şifremi Unuttum linkinden yeni şifre oluşturabilirler.
+Cep telefonu bilgilerimi nasıl güncelleyebilirim?Cep telefonu numaramı değiştirdiğimde/SIM kartım değiştiğinde ne yapmalıyım?
+Müşterilerimiz, cep telefonu bilgilerini, kendi güvenlikleri için sadece şubelerimizden tanımlatabilmekte veya güncelletilebilmektedir. Cep telefonu numaranız ya da SIM kartınız değiştiğinde en kısa sürede şubenize uğrayarak cep telefonu numaranızı güncelletmeniz ve şube veya ATM aracılığı ile sim kart blokenizi kaldırmanız gerekmektedir.
+Hesabımı Ziraat Mobil'de göremiyorum. Ne yapmam gerekiyor?
+İnternet Bankacılığı ürün/hesap tanımlama işlemleri şubelerimiz tarafından gerçekleştirilebilmektedir. Size en yakın şubemize başvuruda bulunmanızı rica ederiz.
+Ziraat Mobil Kurumsal'a nasıl başvurabilirim?
+Kurumsal internet bankacılığına en yakın şubemizden başvurabilirsiniz. Şubemizden müşteri numaranız verilecek ve başvurunuz onaylandıktan sonra internet ve mobil bankacılık şifreniz cep telefonunuza SMS olarak gönderilecektir.
+Kurumsal İzleme müşterisiyim. Ziraat Mobil Kurumsal'dan yararlanabilir miyim?
+Şimdilik yalnızca Kurumsal İnternet bankacılığı müşterilerimiz Ziraat Mobil Kurumsal uygulamamızdan faydalanabilmektedir.
+Ziraat Mobil Kurumsal'dan hangi işlemleri yapabilirim?
+Ziraat Mobil Kurumsal'dan yapılabilecek işlemleri görmek için sitemize ziyaret ediniz.
+Ziraat Mobil Kurumsal'a mevcut ürün ve hesaplarım otomatik olarak tanımlanır mı?
+Kurumsal internet ve mobil bankacılıkta ürün ve hesap tanımı için sitemize ziyaret ediniz.
+Ziraat Mobil Kurumsal şifremi unuttum/bloke oldu. Ne yapabilirim?
+İnternet ve mobil bankacılığı giriş şifresini unutan kurumsal ana kullanıcılarımız giriş ekranlarında yer alan Şifremi Unuttum linkinden ya da 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak yeni şifre oluşturabilirler.
+Cep telefonu bilgilerimi nasıl güncelleyebilirim? Cep telefonu numaramı değiştirdiğimde/SIM kartım değiştiğinde ne yapmalıyım?
+Müşterilerimiz ana kullanıcı ise, cep telefonu bilgilerini, kendi güvenlikleri için sadece şubelerimizden tanımlatabilmekte veya güncelletilebilmektedir. Cep telefonu numaranız ya da SIM kartınız değiştiğinde en kısa sürede şubenize uğrayarak cep telefonu numaranızı güncelletmeniz ve şube ya da ATM aracılığı ile sim kart blokenizi kaldırmanız gerekmektedir. Ancak alt kullanıcının cep telefonu bilgisi ve Sim kart blokesi ana kullanıcı tarafından Kurumsal internet bankacılığında Kullanıcı Yönetimi ekranlarından gerçekleştirilmektedir.
+Hesabımı Ziraat Mobil Kurumsal'da göremiyorum. Ne yapmam gerekiyor?
+İnternet Bankacılığı ürün/hesap tanımlama işlemleri şubelerimiz tarafından gerçekleştirilebilmektedir. Size en yakın şubemize başvuruda bulunmanızı rica ederiz. Şubede tanımlama yapıldığı halde, internet ve mobil bankacılığınızda görüntüleyemiyorsanız, Kullanıcı Yönetimi ekranında önce ana kullanıcı olarak kendinize, daha sonra alt kullanıcılara hesap tanımlama yapmanız gerekmektedir.
+Ziraat Mobil Kurumsal'da hangi roller vardır ve yetkileri kısaca nasıldır?
+Kurumsal internet bankacılığı yetki ve rolleri için siteize ziyaret ediniz.
+Ziraat Mobil Kurumsal'da "Ana kullanıcınız tarafından hesapları görüntüleyebilmeniz için tanımlama yapılmamıştır." mesajı alıyorum. Neden?
+Kurumsal internet bankacılığında ana kullanıcıların hem kendilerine hem de alt kullanıcılara izleyip, işlem yapabilecekleri hesapları Kullanıcı Yönetimi ekranlarından tanımlaması gerekmektedir. Böyle bir hata alınıyorsa, ana kullanıcının Kurumsal internet bankacılığı aracılığıyla gerekli tanımları yapması gerekmektedir.
+Ziraat Mobil Kurumsal'a girişte sorulan Kullanıcı adını nasıl öğrenebilirim?
+Kurumsal internet bankacılığında kullanıcı adınız, ana kullanıcı tarafından Kullanıcı Yönetimi ekranlarında belirlenmektedir.
+Ziraat Bankası Cep Şubesinden kimler yararlanabilir? Cep şubesine nasıl başvururum?
+Cep Şubemizden bütün Bireysel ve Kurumsal İnternet Bankacılığı müşterilerimiz yararlanabilirler. Kurumsal İzleme İnternet Bankacılığı müşterilerimiz Cep Şubesi hizmetlerinden yararlanamamaktadırlar.
+Ziraat Cep Şubesinden hangi işlemleri yapabilirim?
+İşlem listesini görmek için lütfen İşlem listesini görmek için siteye ziyaret ediniz.
+Cep Şubesine hangi adreslerden ulaşabilirim?
+Cep Şubesi'ne mobil.ziraatbank.com.tr adresinden erişebilirsiniz.
+Cep Şubesi İşlem limitlerim nelerdir? Değiştirebilir miyim? Buradan yaptığım işlemler Bireysel İnternet Şubesi limitlerimden düşer mi?
+Cep Şube Limitleri Bireysel İnternet Şubesi limitlerinizle aynıdır. İnternet Şubesi'nden değiştirilebilir. Cep Şubeden yapılan işlemlerin limitleri Bireysel İnternet Şubesi limitlerinden düşer.
+İnternet Bankacılığında kullandığım OTP cihazını Cep Şubesi'nde de kullanabilir miyim?
+Evet, OTP sahibiyseniz Cep Şubesi'nde yapacağınız işlemleri de İnternet Bankacılığı için kullandığınız OTP cihazınızı kullanarak yapabilirsiniz.
+ATM'den nasıl kartsız para çekme işlemi yapabilirim?
+ATM'de kartsız işlem menüsüne girilir. Sistemde kayıtlı cep telefonu numarası ve TCKN girilir. Ekranda mevcut Bankkart'lar listelenir ve işlem yapılacak kart seçilip, kartın şifresi girildikten sonra müşterinin cep telefonuna SMS ile şifre gönderilir. Gelen şifre ile doğrulama yapıldıktan sonra işlemin yapılacağı hesap seçilir. Tutar bilgisi girilip onaylandıktan sonra işlem tamamlanır.
+Ziraat ATM'lerinden hangi işlemleri yapabilirim?
+Ziraat ATM'lerinden yapabileceğiniz işlemleri görmek için lütfen sitemize ziyaret ediniz.
+Avuç içi ile işlem başvurusunu nasıl yapabilirim? Bankkart'ım olmak zorunda mı?
+Avuç içi işlem başvurusu şubelerimizden yapılabilir. Avuç içi ile işlemin kartsız işlemden farkı müşterinin aktif bir Bankkart'ı olma zorunluluğunun olmamasıdır. Sadece avuç içi ile işlem özelliği bulunan ATM'lerden avuç işi ile işlem yapılabilir.
+ATM'den işlem yaparken ATM parayı alıkoydu. Paramı nasıl geri alabilirim?
+ATM'nin bağlı bulunduğu şube ya da Müşteri İletişim Merkezi 0850 220 00 00 ile görüşülmelidir.
+Hangi ATM'lerden para yatırabilirim?
+Ziraat Bankası ATM'lerinde para yatırma haznesinin önünde para yatırılabileceği ibaresinin yer aldığı etiket bulunmaktadır. Para yatırma etiketi görülen tüm ATM'lerden kartlı/kartsız para yatırma işlemi yapılabilir.
+ATM'lerden banka hesabıma ya da kredi kartıma yatırdığım para ne zaman hesabıma geçer?
+ATM'lerden hesaba yatırılan tutarlar hesaplara hemen yansır.
+ATM'lerden günlük para yatırma limiti kaç Türk Lirasıdır?Tek seferde kaç adet banknot yatırabilirim? 
+Günlük para yatırma limiti 20.000 TL'dir. Wincor marka ATM'ler tek seferde 40 banknot, GRG marka ATM'ler tek seferde 200 banknot, NCR marka ATM'ler tek seferde 40 banknot alabilirler.
+ATM'lerden gerçekleştirdiğim işlemlerden komisyon alınıyor mu?
+Bankamız internet sitesi "Bankamız internet sitesi Ürün ve Hizmet Ücretleri bölümünden ayrıntılı bilgi almak için tıklayınız." bölümünden ayrıntılı bilgiye ulaşabilirsiniz.
+ATM'lerden günlük en fazla ne kadar nakit çekebilirim?
+Günlük para çekme limiti 1.500 TL'dir. Bunun üzerindeki işlemler için komisyon ödeyerek nakit çekimi yapabilirisiniz. (Bankamızdan emekli maaşı almakta olan müşterilerimiz için 1.500 TL limiti bulunmamaktadır.)
+Bankkart veya kredi kartımı ATM yuttu, ne yapmalıyım?
+Mesai saatleri içerisinde; şube önü ATM ise ATM'nin bulunduğu şubeye, eğer şube dışı ATM ise ya da mesai saatleri dışında 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezimize başvurunuz.
+ATM'lerden döviz bozma işlemi yapabilir miyim?
+Para yatırma özelliği bulunan ATM'lerimizden kartsız döviz bozabilirsiniz.
+ATM'de işlemim yarıda kaldı. Nereye başvurmalıyım?
+ATM eğer şube önündeyse ATM'nin bulunduğu şubeye başvurmanız gerekmektedir. Eğer ATM şube dışında ise Müşteri İletişim Merkezimizi 444 00 00 - 0850 220 00 00 aramanız gerekmektedir. Kartsız para çekme başvurusu hangi kanallardan yapılabilmektedir?
+Başvuru koşulları nelerdir?
+Kartsız para çekme işleminden sadece bireysel müşterilerimiz yararlanabilmektedir. Başvurular, Ziraat Bankası şubeleri, ATM'ler ve Internet Şube'sinden yapılabilir. Başvuru için kullanılacak kartın aktif olması, şifresinin bilinmesi ve müşterimizin Bankamızda kayıtlı cep telefon numarasının güncel olması gerekmektedir.
+Kartsız para çekme ve para yatırma limitleri ne kadardır?
+Kartsız para çekme limiti 500 TL, para yatırma limiti ise 20.000 TL'dir.
+Kredi kartı başvurusu/limit artırımı, bireysel kredi başvurusu yapabilir miyim?
+ATM kanallarımızdan Başvuru İşlemleri menüsünden kredi kartı başvurusu/limit artırımı ve bireysel kredi (Tüketici/Konut/Taşıt) başvurusu yapabilirsiniz.
+Qr kod kullanarak ATM'den günlük en fazla ne kadar nakit çekebilirim?
+Qr kod kullanımı ile Bankamız ATM'lerinden günlük para çekme limiti 500 TL'dir.
+Qr kod kullanarak ATM'den günlük en fazla ne kadar nakit yatırabilirim?
+Qr kod kullanarak ATM'den günlük para yatırma limiti 20.000 TL'dir. (Wincor marka ATM'ler tek seferde 40 banknot, GRG marka ATM'ler tek seferde 200 banknot, NCR marka ATM'ler tek seferde 40 banknot alabilirler)
+Kendime cebe havale gönderebilir miyim?/gönderemiyorum. 
+Kendi kimlik ve cep telefonu numaranıza cebe havale gönderimi gerçekleştiremezsiniz. 
+Cebe havale işlem limitleri nedir? 
+Cebe havale işlemlerinde gönderici ve alıcı için ayrı olmak üzere aşağıdaki işlem limitleri uygulanmaktadır. Günlük en fazla 500 TL ve en fazla iki adet işlem, Haftalık en fazla 1.000 TL ve en fazla 4 adet işlem, Aylık en fazla 1.500 TL ve en fazla 6 adet işlem gerçekleştirebilmelidir.
+Cebe gelen havale tutarını çekmek istediğim ATM," BU ATM'DEN CEBE HAVALE ÖDEMESİ GEÇİCİ OLARAK YAPILAMAMAKTADIR." uyarısı veriyor.
+Bir ATM'den her bir saat dilimi içinde en fazla 6 adet cebe havale yoluyla gelen para ödeme işlemi yapılabilmektedir. Farklı bir ATM tercih edebilir ya da bir süre sonra işleminizi tekrar deneyebilirsiniz.
+Cebe havale işleminde gelen havaleyi çekerken hangi bilgiler soruluyor?
+Alıcının, cebe havale sonucu gelen parayı çekebilmesi için; gönderenin cep telefonu numarası, kendi cep telefonu numarası, kendi kimlik numarasını, gönderilen paranın tam olarak tutar bilgisini ve kendisine iletilen tek kullanımlık şifre bilgisini ATM'e girmesi gerekmektedir.
+Cebe havale işleminde havale alıcısı parayı çekmezse havale tutarı hesabıma ne zaman iade olur?
+Gönderim anından 24 saat sonra alıcı tarafından çekilmeyen cebe havale tutarları otomatik olarak iade edilmektedir.
+Hatalı bir cebe havale gönderimi gerçekleştirdim. Paramı nasıl iade alabilirim?
+Cebe havale işlemleri gönderici tarafından iptal edilememektedir. Sadece cebe havale gönderimden 24 saat sonra alıcı tarafından çekilmeyen cebe havale tutarları otomatik olarak iade edilmektedir.
+Cebe havale işlemi yaparken neden yasal uyarı çıkıyor?
+Yasal otoritenin düzenlemeleri çerçevesinde, cebe havale göndericisine ve alıcısına illegal bahis ve kumar oynanmasının suç olduğuna ve gerçekleştirilen işlemin bu suçlarla alakalı olduğunun tespit edilmesi halinde haklarında yasal işlem başlatılacağına dair, uyarı metni gösterilmektedir.
+Cebe havale işleminde alıcıya SMS ulaşmıyor?
+Alıcı gönderilen cebe havaleyi cep telefonuna gönderilen şifre ile çekeceğinden alıcının cep telefonunun kullanıma açık olması, cep telefonunun mesaj kutusunda mesaj alabilecek boşluğun bulunması, cep telefonu hattının bağlantı problemi olmaması ve sim kartında bloke bulunmaması (sim kart değişikliği nedeniyle) gerekmektedir.
+Müşteri İletişim Merkezi'ne nasıl ulaşabilirim?
+Tüm telefonlardan alan kodu çevirmeden direkt 444 00 00 - 0850 220 00 00'ı tuşlayarak Müşteri İletişim Merkezi'mize ulaşabilirsiniz.
+Müşteri Temsilcisine nasıl bağlanırım?
+İlk olarak TC Kimlik numaranızı, kart numaranızı ya da müşteri numaranızı tuşlayarak işlem yapmak istediğiniz ürün ile ilgili adımı seçmelisiniz. Daha sonra seçtiğiniz ürün ile ilgili yapabileceğiniz işlemler arasından Müşteri Temsilcisine bağlanmak adımı seçerek müşteri temsilcilerimize ulaşabilrisiniz.
+Telefon Bankacılığına nasıl başvurabilirim?
+Telefon Bankacılığı başvurusu, şubeden ya da İnternet Şube'sine giriş yapıldıktan sonra menüdeki "Başvurular-Telefon Bankacılığı Başvuru" adımından yapılabilmektedir. Şifre belirleyebilmek için 7 gün 24 saat 444 00 00 - 0850 220 00 00 numaralı Müşteri İletişim Merkezi'mizi arayabilirsiniz.
+Müşteri İletişim Merkezi'nden yapılabilecek finansal işlem limitleri nelerdir?
+Müşteri İletişim Merkezi'nden yapılabilecek finansal işlem limitleri tablosunu görmek için sitemize ziyaret ediniz.
+Müşteri İletişim Merkezi'nden yaptığım işlemlerin dekontunu nasıl alabilirim?
+Müşteri İletişim Merkezi'mizden yaptığınız işlemlerin dekontunu, müşteri temsilcilerimize bağlanarak talep edebilirsiniz. İnternet Şubemizi kullanıyorsanız, hesap hareketlerinizi sorgulayarak da istediğiniz işlemin dekontunu e-posta/faks ile talep edebilirsiniz.
+Kişisel bilgilerimde yanlışlık veya eksiklik olduğu için işlem yapamıyorum ne yapmalıyım?
+Kişisel bilgilerinizi güncellemek için size en yakın Şube'mize başvurmanız gerekmektedir.
+Müşteri İletişim Merkezi menüsünde hangi tuşlamalar ile nereye ulaşabilirim?
+Müşteri İletişim Merkezi menüsü için lütfen sitemize ziyaret ediniz. 
+İşlem İmzalamalı OTP cihazı nedir?
+Ziraat Bankası İnternet Şubesi girişinde ve işlem sırasında OTP cihazınızla ürettiğiniz şifreleri kullanarak, güvenlik seviyenizi arttırabilirsiniz. İşlem imzalamalı OTP cihazınız hem tek kullanımlık şifre üretme hem de işlem imzalama özelliğine sahiptir. İnternet şubesine giriş sırasında cihazla ürettiğiniz tek kullanımlık şifreyi kullanırsınız. Cihaz, işlem sırasında ise güvenliği sağlamak için işlem imzalama özelliğini kullanır. Optik okuyucusuyla, işlem onay sayfasında, yapılan işleme özgü ekranda beliren barkodu okur ve OTP cihazının ekranında işlem detaylarını teyit etme imkânı verir. Bu onayın ardından cihaz bir şifre üretir ve bunu onay sayfasındaki alana girerek işleminizi tamamlarsınız.
+Nasıl OTP cihazı alabilirim?
+Herhangi bir şubemizden, 20 TL karşılığında OTP'nizi alabilirsiniz.
+İşlem İmzalamalı OTP cihazı aldım, nasıl kullanabilirim?
+İnternet Şubesi giriş ekranında sizden istenen bilgileri girdikten sonra bir sonraki sayfada parolanızı girip, OTP Şifresi kısmına OTP cihazınız üzerindeki OK tuşuna kısa bir süre basılı tutarak ürettiğiniz şifreyi giriniz. İşlem imzası İnternet Şubesinden daha önceden para transferi yapmamış olduğunuz bir alıcıya para transferi yapmak istediğinizde ya da bir alıcıyı tanımlamanız esnasında gerekir. Bu tür bir işlemin onay sayfasında ekranda bir barkot belirir. OTP cihazı üzerindeki 2 adet beyaz ok, monitördeki 2 okla aynı hizaya gelecek şekilde ayarlamalısınız. Sonra OK tuşuna bir süre basılı tutarak şifre üretin, ardından C tuşuna basın ve en soldaki ok (V) tuşuyla İMZA'yı seçip OK tuşuna basın. Cihazın üzerinde "Aktarım Hazır" ifadesi belirir. Şimdi OTP cihazındaki oklar barkodun üst kısmındakilere denk gelecek şekilde belli bir açıyla tutun. İşlem detaylarınız gelecektir. OK tuşuyla okuyun ardından cihaz bir şifre üretecektir. Bu şifreyi ilgili alana girerek işleminizi tamamlayabilirsiniz.
+OTP ile girişte "Girdiğiniz bilgiler hatalıdır. Lütfen bilgilerinizi kontrol ederek tekrar deneyiniz." hatası alıyorum.
+İnternet Şubesi giriş bilgilerinizi kontrol ettikten sonra hala bu hatayı alıyorsanız OTP cihazınızı 444 00 00 - 0850 220 00 00'ı arayarak senkronize ettirmelisiniz.
+İşlem imzalama sırasında "Aktarım Yapılamadı" hatası alıyorum.
+Onay aşamasındaki işlem imzalama için beliren barkodun boyutu monitörünüzün çözünürlüğüne göre değiştiğinden barkot alanınızın üst kısmındaki oklar OTP cihazındaki oklarla aynı hizaya denk gelecek şekilde ayarlamalısınız. 
+OTP cihazımı kaybettim, ne yapmalıyım?
+En kısa sürede 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezimizi arayarak OTP cihazınızın kaybolduğunu bildirmeniz gerekmektedir.
+OTP cihazımla ürettiğim şifre geçersiz ne yapabilirim?
+444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezimizi arayıp cihazınızı senkronize ettirmeniz gerekmektedir.
+Dosya masrafının yasal dayanağı var mıdır?
+Türk Ticaret Kanunu'nun "Ücret isteme hakkı" başlıklı 22'nci maddesinde, Tacir olan veya olmayan bir kimseye, ticari işletmesiyle ilgili bir iş veya hizmet görmüş olan tacir, münasip bir ücret isteyebilir hükmü bulunmaktadır. Bankaların Türk Ticaret Kanunu'na göre tacir olması nedeniyle yukarıda belirtildiği şekilde ücret alma hakkı bulunmaktadır. Diğer taraftan, Bankacılık Kanununun 144. maddesi hükmü ile yetkili kılınan Bakanlar Kurulu'nun 16.10.2006 tarih ve 2006/11188 sayılı karara dayanarak T.C. Merkez Bankasınca çıkartılan ve 9 Aralık 2006 tarihinde Resmi Gazetede yayınlanan 2006/1 sayılı Tebliğ de; Bankalarca sağlanacak diğer menfaatlerin ve tahsil olunacak masrafların nitelikleri ve sınırları serbestçe belirlenir hükmü yer almaktadır.
+Bireysel Krediler de yeniden yapılandırma ne demektir?
+Bireysel müşterilerin kredilerinin, müşterinin gelirine/nakit akışına uygun şekilde düzenlenecek yeni bir ödeme planına bağlanarak ve/veya vade uzatımı yapılarak, sorunsuz geri dönüşünün sağlanmasını teminen yapılacak yapılandırma işlemleridir.
+Bireysel Kredilerde yeniden yapılandırma hangi krediler için uygulanabilmektedir?
+Tüketici Kredisi türüne bağlı ürünler, Taşıt Kredisi türüne bağlı ürünler, Konut Finansmanı kapsamındaki ürünler, Kredi Kartı, KMH
+Bireysel Kredilerde yeniden yapılandırmadan kimler faydalanabilmektedir?
+Taksitli bireysel kredilerine ait mevcut taksitlerini veya KMH/kredi kartlarının minimum ödeme tutarlarını ödeme konusunda sorun yaşayan müşterilerimizden; Düzenli geliri olan veya hasat geliri/dönemsel gelir/menkul geliri/gayrimenkul satış geliri gibi sair gelirleri olduğunu/olacağını belgeleyen müşterilerimizin, Bankamızca kendisinin ve/veya eşinin kredileri takip hesaplarında izlenmeyen veya yasal takipte kaydı bulunmakla birlikte yapılandırılmış kredisi bulunan müşterilerimizin, Kendisi ve/veya eşi, diğer banka ve finansal kuruluşlar tarafından yasal takip hesaplarında izlenmekte olmakla birlikte; Maaş ödemesi Bankamızca yapılan müşterilerimizin, yeniden yapılandırılan kredi taksit toplamı, Bankamızca ödenen maaş tutarına kadar olanlar ile Yeniden yapılandırılacak kredilerinin ilk taksitlerinin peşin tahsil edilmesi şartıyla diğer müşteri gruplarının, Kendisi ve/veya eşi hakkında devam eden haciz kaydı bulunmayan müşterilerimizin, Kredileri yeniden yapılandırılma için değerlendirilebilecektir.
+Kefil olmak istediğimde neden eşimin rızası talep ediliyor?
+6098 sayılı Türk Borçlar Kanunu'nun 584. maddesinde "Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı rızasıyla kefil olabilir; bu rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması şarttır." hükmü yer almaktadır. Bu çerçevede kefillikte talep edilen eş rızası/imzası sadece Bankamız uygulaması olmayıp yasal bir zorunluluktur.
+Kefil olmak istediğimde neden eşimin imzası talep ediliyor?
+6098 sayılı Türk Borçlar Kanunu'nun 584. maddesinde "Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı rızasıyla kefil olabilir; bu rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması şarttır." hükmü yer almaktadır. Bu çerçevede kefillikte talep edilen eş rızası/imzası sadece Bankamız uygulaması olmayıp yasal bir zorunluluktur.
+Ekspertiz Ücreti neden tahsil ediliyor?
+Krediye konu gayrimenkule ilişkin olarak gayrimenkul değerleme şirketlerine ekspertiz yaptırılması ilgili mevzuat uyarınca zorunlu olup, ekspertiz ücreti tüketici tarafından karşılanır. Tüketiciden, değerleme şirketine ödenen ekspertiz ücreti dışında, ekspertiz işlemi nedeniyle başka bir ücret talep edilmemektedir.
+Mevcut kredimin geri ödemesinde zorluk çekiyorum, yeniden yapılandırma imkanım olabilir mi?
+Krediniz ve yeniden yapılandırma talebiniz hakkında detaylı bilgi almak üzere Şubenize başvuruda bulunmanızı rica ederiz.
+Mevcut kredimin geri ödemesinde zorluk çekiyorum.
+Krediniz ve yeniden yapılandırma talebiniz hakkında detaylı bilgi almak üzere Şubenize başvuruda bulunmanızı rica ederiz.
+Hesap hareketlerimde gördüğüm Yılsonu Reeskont Kesintisi nedir?
+Muhasebe standartları gereği uygulanan bireysel kredi yılsonu reeskontu miktarı kredi ödeme planınızdaki faiz tutarına dahil olup, mevcut taksit ödeme miktarınızı etkilememektedir.
+Hesap İşletim Ücreti nedir?
+Hesap İşletim Ücreti (H.İ.Ü.) TL/YP vadesiz mevduat hesapları aracılığı ile sunulan fiyatlandırılmamış hizmetlerin bedeli ve operasyonel işlem maliyetlerinin karşılığı olarak tahsil edilen masraf tutarıdır. Bankacılık sektöründe uzun süredir uygulanmakta olan Hesap İşletim Ücreti Bankamızda da 31.03.2006 tarihinde hayata geçirilmiştir. Kapsam dışında bırakılan hesaplar (maaş ödemesi yapılan hesaplar, otomatik/düzenli ödeme talimatı verilmiş olup son bir yıl içerisinde talimata konu en az bir adet ödeme gerçekleşmiş olan hesaplar) ayrık olmak üzere üç ayda bir (Mart, Haziran, Eylül, Aralık ay sonlarında) tahsil edilen H.İ.Ü. 3 aylık vadesiz mevduat hesap ortalaması 800.-TL'den düşük olan TL hesaplardan üç ayda bir BSMV dâhil 20.-TL, 3 aylık vadesiz mevduat hesap ortalaması 350.-USD'den düşük olan YP hesaplardan üç ayda bir BSMV dâhil 7,5 USD olarak tahsil edilmektedir. Bankacılık hizmetleri karşılığı tahsil edilen ücret/komisyonlar ile ilgili olarak müşterilerimize internet sitemiz (www.ziraatbank.com.tr), Şubelere asılan afişler ve ücret komisyon tabloları aracılığı ile bilgi verilmektedir.
+IBAN Numarama nasıl ulaşabilirim?
+Bankkartınızın üzerinde yer alan 16 haneli kart numaranızın hemen altında IBAN hesap numaranız 26 haneli olarak yer almaktadır. Ayrıca hesabınıza ait IBAN numaranızı en yakın şubemizden, ATM'lerimizden, 7 gün 24 saat hizmet alabileceğiniz 0850 220 00 00 numaralı Müşteri İletişim Merkezi'mizden veya /tr/bankamiz/musteri-iliskileri/iban-hesaplama adresimizden öğrenebilirsiniz. 
+Hesap hareketlerime nasıl ulaşabilirim?
+Müşterilerimiz İnternet Şube, Mobil Bankacılık veya 7 gün 24 saat hizmet alabileceği 0850 220 00 00 numaralı Müşteri İletişim Merkezi'mizi arayarak hesap hareketleri konusunda bilgi alabilmektedir. Ayrıca ATM den hesap hareketlerinizi kontrol edebilir, HAREKET (Ek No- örnek 5001,5002 gibi) yazıp 4747'ye SMS göndererek veya en yakın şubemizi ziyaret ederek bilgi alabilirsiniz.
+Gram Altın ve Vadesiz Altın Mevduatı işlemleri arasında ne fark vardır?
+Gram altın işlemleri, 995/1000 saflıkta iken; Vadesiz Altın Mevduatı işlemleri, 1000/1000 saflıktaki altın karşılığında gerçekleştirilmektedir. Gram altın işlemleri, yatırım hesapları üzerinden gerçekleşirken; Vadesiz Altın Mevduatı işlemleri, vadesiz mevduat hesapları kullanılarak gerçekleştirilmektedir. Gram altın işlemlerinde saklama komisyonu alınırken Vadesiz Altın Mevduatı hesaplarında saklama komisyonu alınmamaktadır. Gram altın işlemleri, 16.00-18:30 saatleri arasında kapalı iken Vadesiz Altın Mevduatı işlemleri TL cinsi hesaplarda 7/24, USD cinsi hesaplarda 09:00-18:00 arasında yapılabilmektedir. Gram altın işlemlerinde Bankamız stoğunda uygun fiyat ve miktarda altın bulunmaması durumunda satış yapılamazken Vadesiz Altın Mevduatı işlemlerinde böyle bir zorunluluk bulunmamaktadır. Vadesiz Altın Mevduatı hesapları için altın fiyatları daha rekabetçi yayınlanabilecektir.
+Bankanızdan nasıl Vadesiz Altın hesabı açabilirim?
+Vadesiz Altın Mevduat hesabı açılışını Şubelerimiz aracılığıyla ya da İnternet Şubemizden gerçekleştirebilirsiniz. İnternet bankacılığı müşterisiyseniz http://wap.ziraatbank.com.tr/ adresinden Ziraat Cep Şubesine ulaşabilirsiniz. Cep şubemizi kullanabilmeniz için cep telefonunuzun WAP 2.0 / SSL desteğine sahip olması ve tarayıcınızın Internet Explorer 5.0 ve üzeri, Netscape 6.0 ve üzeri olması gerekmektedir.
+Vadesiz Altın Mevduatı işlemlerini ne zaman ve nereden yapabilirim?
+Mesai saatleri içerisinde tüm Şubelerimizden işlemlerinizi gerçekleştirebilirsiniz. İnternet Şubesi üzerinden; TL cinsi hesaplarda 7/24, USD cinsi hesaplarda 09:00-18:00 saatleri arasında işlem yapılabilmektedir.
+Vadesiz Altın Mevduatı işlemlerinden alınan komisyon ve ücretler hakkında bilgi verebilir misiniz?
+Vadesiz Altın Mevduat Hesabı'ndan hesap işletim ücreti alınmamaktadır. Altın alım-satım işlemlerinde vergi kesintisi olmamakta, komisyon veya masraf alınmamaktadır.
+Vadesiz Altın Mevduatı işlemleri vergiye tabi midir?
+Altın alım satım kazancı vergiye tabi değildir.
+Altının saflık derecesi nedir?
+Altınların saflık derecesi 1000/1000 gram olacaktır.
+Altın mevduat hesabımıza herhangi bir faiz ödenmekte midir?
+Vadesiz Altın Mevduat Hesabınıza faiz işletilmemektedir.
+Altın Mevduat fiyatları nasıl belirlenmektedir?
+Altının TL fiyatını belirleyen iki ana değişken, altının uluslararası piyasalardaki USD/ONS fiyatı ve USD/TL kurudur. Altının uluslararası piyasalardaki USD/ONS fiyatı piyasalardaki arz talep dinamikleri, spekülatif işlemler, döviz piyasasındaki gelişmeler ve Merkez Bankalarının politikaları gibi birçok parametreye bağlı olarak değişebilmektedir.
+Altın Mevduat alım satım fiyatları arasındaki marjlar hakkında bilgi verebilir misiniz?
+Alış satış fiyatlarımız arasındaki marjlar sektör geneli göz önüne alınarak rekabetçi bir biçimde belirlenmektedir. İnternet şubemizde uygulanan alım satım marjı ise daha düşüktür. Mesai saatleri dışındaki seanslarda sektör genelinde olduğu gibi mesai içindeki seanslara nazaran daha yüksek marjlar belirlenmektedir.
+Hangi döviz cinslerinde altın mevduat işlemleri yapılmaktadır?
+USD ve TL döviz cinslerinde yapılabilmektedir.
+İnternet şubesinden günlük altın alım satım limitleri nedir?
+İnternet şubesinden tek seferde en fazla 3000 gram olmak üzere, günde en çok 6 kere alım-satım işlemi yapılabilir.
+Gram Altın İşlemleri Yatırım Fonları Merkezi Kayıt Kuruluşu (MKK) ücretleri nedir?
+Yatırım hesabı müşterisinin kayıtlarını takip etmek üzere kanun gereği resmi olarak görevlendirilmiş olan Merkezi Kayıt Kuruluşu (MKK) tarafından Bankalardan saklama ücret ve komisyonları tahsil edilmektedir.
+Gram altın alım satımını ne zaman ve nereden yapabilirim?
+Gram altın işlemleri, iki seans olarak anında gerçekleştirilecektir. 1. Seansta (09.30-16.00) işlemler; şube, internet şubesi, çağrı merkezi ve ATM üzerinden, 2. Seansta ise (18.30-08.00) sadece Doğrudan Bakacılık Kanalları üzerinden TL karşılığı yapılabilecektir.
+Düzenli gram altın alım talimatı verebilir miyim?
+Yatırım hesabı olan ve bu hesaba altın sözleşmesi tanımlanmış müşterilerimiz, belirledikleri miktar veya tutarda şube ve internet şubesi kanalıyla düzenli gram altın alım talimatı verebilirler.
+Bankamızdan alım satımı yapılan gram altının denklikleri nedir?
+Gram altın alım satımının yanı sıra tam altın dengi 6,44 gram, yarım altın dengi 3,22 gram ve çeyrek altın dengi 1,61 gram şeklinde de alım satım işlemleri yapılabilmektedir.
+Hesabımdaki altını fiziki olarak teslim alabilir miyim?
+Bankamızda müşteriler için alınan gram altın, fiziki olarak İstanbul Altın Borsasının anlaştığı takas bankasında saklanacak olup müşterilerimiz ile fiziki teslimat işlemleri yapılmamaktadır.
+Gram Altın işlemlerinden alınan komisyon ve ücretler hakkında bilgi verebilir misiniz?
+İşlem ücreti alınmamaktadır. İstanbul Altın Borsasının Bankamızdan aylık olarak tahsil ettiği on binde bir oranında saklama komisyonu, müşterilerin vadesiz veya yatırım hesaplarından her ayın ilk iş günü tahsil edilecektir. Eğer hesaplarda yeterli TL bakiye bulunmazsa portföydeki altının alışı yapılarak saklama komisyonu tahsil edilir. Ay içinde müşterinin altın satması durumunda ise söz konusu komisyon, satış sırasında tahsil edilecektir. Saklama Komisyonu Hesaplamasına ulaşmak için siteye ziyaret ediniz.
+Gram Altın işlemleri vergiye tabi midir?
+Altın alım satım kazancı vergiye tabi değildir.
+Portföyümdeki altının saflık derecesi nedir?
+Altınların saflık derecesi, 995/1000 gram olacaktır.
+Altın hesabımıza herhangi bir faiz ödenmekte midir?
+Hayır, altın hesabınıza herhangi bir faiz alamazsınız.
+Altın fiyatları nasıl belirlenmektedir?
+Altının TL fiyatını belirleyen iki ana değişken, altının uluslararası USD/ONS fiyatı ve USD/TL kurudur. Altının uluslararası piyasalardaki USD/ONS fiyatı ise piyasalardaki arz talep dinamikleri, spekülatif işlemler, döviz piyasasındaki gelişmeler ve Merkez Bankalarının politikaları gibi birçok parametreye bağlı olarak değişebilmektedir. Müşterilerimiz için yayınlanan altın fiyatları belirlenirken tüm bu parametrelerin yanı sıra İstanbul Altın Borsasında gerçekleşen işlem fiyatları da dikkate alınmaktadır.
+Altın alım satım fiyatları arasındaki marjlar hakkında bilgi verebilir misiniz?
+Alış satış fiyatlarımız arasındaki marjlar, sektör geneli göz önüne alınarak rekabetçi bir biçimde belirlenmektedir. İnternet şubemizde uygulanan alım satım marjı ise daha düşüktür. Mesai saatleri dışındaki seanslarda sektör genelinde olduğu gibi mesai içindeki seanslara nazaran daha yüksek marjlar belirlenmektedir.
+Hangi döviz cinslerinde gram altın işlemleri yapılmaktadır?
+Hâlihazırda USD ve TL döviz cinslerinde (2. seansta 18:30-08:00 sadece TL işlemler) gram altın işlemleri yapılabilmektedir.
+Külçe altın ve gram altın işlemleri arasında ne fark vardır?
+Gram altın işlemlerinde müşterilerimize satışlar, Bankamız portföyünden gerçekleşmektedir. Külçe altın işlemlerinde ise müşterilerimiz adına Borsa İstanbul Kıymetli Madenler Piyasasına emir iletilerek aracılık yapılmaktadır. İletilen emrin gerçekleşmesi durumunda külçe altın işlemlerinde saklama komisyonunun haricinde BİAŞ işlem komisyonu ve banka komisyonu alınmaktadır.
+Yatırım fonu almak istiyorum nasıl bir yol izlemeliyim?
+Ziraat Bankası şubelerinden ve diğer tüm alternatif dağıtım kanallarımızdan (İnternet Şubemiz, Mobil Şubemiz, ATM, Telefon Bankacılığı) fon alım/satımı yapabilirsiniz. Bunun için öncelikle Bankamız nezdinde bir yatırım hesabınızın açılması gerekmektedir. Yatırım fonlarının getirileri hakkında nereden bilgi alabilirim? Ziraat Finans Grubu yatırım fonlarının tarihsel getirilerine ilişkin detaylı bilgilere; Ziraat Portföy Yönetimi A.Ş. internet sitesindeki Yönettiğimiz Fonlar bölümüne erişmek için siteye ziyaret ediniz. "Yönettiğimiz Fonlar" bölümünden erişebilmektedir.
+Yatırım fonu işlemlerimden elde ettiğim gelirler üzerinden vergi kesintisi olur mu?
+Bireysel yatırımcıların yatırım fonlarından elde ettiği gelir üzerinden %10 stopaj kesintisi yapılmaktadır. 01.10.2010 tarihinden itibaren; 5520 sayılı Kurumlar Vergisi Kanununun 2. Maddesinin 1. Fıkrası kapsamındaki sermaye şirketlerinin (TTK hükümlerine göre kurulmuş olan Anonim Şirket, Limited Şirket ve sermayesi paylara bölünmüş komandit şirketler ile benzer nitelikteki yabancı kurumlar) elde ettiği gelir üzerinden kesilen stopaj oranı % 0 olarak uygulanmaya başlanmıştır. Vergiden muaf olan yatırım fonları ve yatırım fonlarının vergilendirilmesi konusunda detaylı bilgilere Vergiden muaf olan yatırım fonları ve yatırım fonlarının vergilendirilmesi konusunda detaylı bilgilere siteden erişebilirsiniz.
+Yatırım fonu işlemlerinde saat sınırlaması var mıdır?
+TZV (Banka sistemi fon kodu:2003) - Ziraat Portföy Kısa Vadeli Borçlanma Araçları ve TZL (Banka sistemi fon kodu:2025) - Ziraat Portföy Para Piyasası Fonlarında işgünleri saat 16:00-16:10 arası hariç 7/24; Ziraat Finans Grubunun diğer tüm yatırım fonlarında ise işgünleri saat 17:30-18:00 arası hariç 7/24 alım satım işlemi yapılabilmektedir.
+Yatırım fonu alım satım işlemlerinde tutar sınırlaması var mıdır?
+TZV (Banka sistemi fon kodu:2003) - Ziraat Portföy Kısa Vadeli Borçlanma Araçları ve TZL (Banka sistemi fon kodu:2025) - Ziraat Portföy Para Piyasası Fonlarında işgünlerinde 09:00 – 16:00 saatleri arasında tutar sınırı olmaksızın alım satım işlemi yapılabilmektedir. Ancak bu saatler haricinde alım/satım işlemlerinde limitler devreye girmektedir. Ziraat Finans Grubunun diğer yatırım fonlarında ise herhangi bir limit bulunmamaktadır.
+Yatırım fonu almak istiyorum, fon işleminden zarar etme ihtimalim var mıdır?
+Ziraat Finans Grubu yatırım fonlarının her birinin risk haritasındaki yeri farklıdır. Her fonda kar etme ihtimaliniz olduğu kadar zarar etme olasılığınız da bulunmaktadır. Ancak, bu risk bir fonda çok düşük bir oranda iken diğer bir fonda yüksek bir oranda olabilir.
+Yatırım fonlarının risk haritası ya da risk seviyesi hakkında nereden bilgi alabilirim?
+Ziraat Finans Grubu yatırım fonları farklı risk gruplarına ayrılmıştır. Müşterilerimiz, almak istedikleri yatırım fonunun risk seviyesi hakkındaki detaylı bilgilere; Almak istediğiniz yatırım fonunun risk seviyesi hakkındaki detaylı bilgilere Ziraat Portföy Yönetimi A.Ş. internet sitesindeki Fon Risk Göstergesi bölümüne siteden erişebilirsiniz. "Fon Risk Göstergesi" bölümünden erişebilmektedir.
+Satın almak istediğim fonun hangi yatırım ürünlerinden oluştuğu bilgisine nasıl ulaşabilirim?
+Ziraat Finans Grubu yatırım fonları farklı yatırım ürünlerinin farklı oranlarda bir araya getirilerek oluşturulmaktadır. Satın almak istenilen fonun içeriğine ve fonu oluşturan yatırım ürünlerinin fon içerisindeki oranlarına günlük olarak; Ziraat Portföy Yönetimi A.Ş. internet sitesindeki "Yatırım Stratejisi" bölümünden erişilebilmektedir.
+Yatırım fonu aldığımda fon payları yatırım hesabıma ne zaman yansır?
+Ziraat Finans Grubu yatırım fonlarının her birinin işleyişi farklı olup, alım satım emirlerinin gerçekleşeceği tarih ve gerçekleşme fiyatları hakkındaki bilgilere; Ziraat Portföy Yönetimi A.Ş. internet sitesindeki "İşlem Saatleri" bölümünden erişilebilmektedir.
+Ziraat Bankasında bulunan yatırım hesabımdan katılım fonu (faize dayalı yatırım aracı içermeyen yatırım fonu) alabilir miyim?
+Ziraat Bankasının şube ve tüm alternatif dağıtım kanallarından, Ziraat Finans Grubuna ait olan tüm katılım fonlarını satın alabilirsiniz. Ziraat Finans Grubuna ait katılım fonları hakkında d?etaylı bilgilere; Ziraat Finans Grubuna ait katılım fonları hakkında d?etaylı bilgilere Ziraat Portföy Yönetimi A.Ş. internet sitesindeki Yönettiğimiz Fonlar bölümünden erişilebilmektedir.
+Başak Hesap nedir?
+Başak Hesap, fon alım/satım işlemlerini otomatik olarak gerçekleştiren Türk Lirası Vadesiz Mevduat Hesabı ürünüdür. Başak Hesabın işleyişi hakkında detaylı bilgilere Başak Hesabın işleyişi hakkında detaylı bilgilere sitemizden erişebilirsiniz.
+Elinde fiziki basım yatırım fonu katılma belgesi olan müşterilerimiz ne yapmalıdır?
+Fiziki basım yatırım fonu katılma belgelerindeki zaman aşımı Anayasa Mahkemesi tarafından iptal edilmiştir. Bu nedenle, elinde Ziraat Finans Grubu yatırım fonlarına ait fiziki basım katılma belgesi olan müşterilerimiz en yakın Şubemize başvurabilir ya da müşteri temsilcileri ile iletişime geçebilirler. 
+Çeyiz Hesabı nedir?
+Çeyiz hesabı, müşterilerin tasarruf eğilimlerini artırarak uzun vadeli birikim yapmalarını sağlayan ve şartların sağlanması koşulu ile devlet katkısının da birikime eklenmesi ile toplumu tasarrufa teşvik eden bir üründür. Bankamızda birikimli mevduat olarak açılacak olan ürün asgari 3 yıl vadeli olarak açılabilecektir.
+Tüm Ziraat Bankası şubelerinden Çeyiz Hesabı açabilir miyim?
+Evet, bütün yurtiçi şubelerimizden Çeyiz Hesabı açtırarak birikim yapmaya başlayabilirsiniz.
+Yabancı para cinsinden Çeyiz Hesabı açabilir miyim?
+Çeyiz Hesabı yalnızca TL cinsinden açılabilir.
+Çocuğum adına çeyiz hesabı açabilir miyim?
+Çeyiz Hesabı 18 yaşından büyükler adına açılabilmekte olup, 18 yaşından küçükler adına veli veya vasisi tarafından çeyiz hesabı açılabilecektir.
+Çeyiz Hesabı ortak (müşterek) açılabilir mi?
+Çeyiz Hesabı ortak hesap olarak açılamaz.
+Kimler Çeyiz Hesabı açabilir?
+24 yaşını doldurmamış ve hiç evlenmemiş tüm Türk vatandaşları/veya 5901 sayılı Türk Vatandaşlığı Kanununun 28. Maddesi kapsamına giren kişiler Bankamızda çeyiz hesabı açabilirler.
+Devlet katkısını ne zaman alırız?
+Düzenli ödemelerini minimum 36 ay aksatmadan tamamlayan katılımcı, 27 yaşını doldurmadan ilk evliliği yaptığı zaman Devlet Katkısını hak eder. Evlilik tarihinden itibaren altı ay içerisinde uluslararası aile cüzdanı ve ilk evliliği olduğuna dair ilçe nüfus müdürlüklerinden alacağı belge ile çeyiz hesabının bulunduğu Şubemize başvurur. Banka ay içerisinde yapılan başvuruları takip eden ayın ilk on işgünü içerisinde Bakanlığa iletir. Bakanlığın uygun bulmasının ardından hak edilen Devlet Katkısı tutarı ilgili hesaba aktarılır.
+Devlet katkısı tutarı nasıl hesaplanır?
+Devlet katkısının hesaplanmasında, evlilik tarihindeki birikim esas alınır. Devlet Katkısı katılımcı tarafından çeyiz hesabına yapılan düzenli ödeme sürelerine göre hesaplanır; Devlet katkısı, düzenli ödeme süresi; 36 ila 47 ay olanlar için, hesaptaki birikim tutarının yüzde 10'udur. Ancak, ödenecek tutar 5.019,45 Türk Lirasını geçemez. 48 ila 59 ay olanlar için, hesaptaki birikim tutarının yüzde 15'idir. Ancak, ödenecek tutar 5.646,89 Türk Lirasını geçemez. 60 ay ve üzeri olanlar için, hesaptaki birikim tutarının yüzde 20'sidir. Ancak, ödenecek tutar 6.274,32 Türk Lirasını geçemez.
+Devlet katkısını beklerken hesabımdan ne kadar faiz getirisi sağlarım, faizini çekebilir miyim?
+Bankanın Çeyiz Hesabı için belirlemiş olduğu faiz oranı üzerinden hesaplanan net faiz tahakkuku her bir yıllık dönemin sonunda anaparaya eklenecektir. Her bir yıllık dönem sonunda Çeyiz Hesabı için belirlenen ve ilan edilen faiz oranı ile güncellenecektir. Yönetmelik gereği her bir yıllık dönem içinde hesaptan 2 defa para çekilebilmektedir. Ancak para çekilişinin ardından hesapta kalan tutar ilgili süreye kadar birikmiş olması gereken asgari tutarın altına düşemez.
+Düzenli ödemeleri kaç ay boyunca ve en az ne kadar yapmam gerekir?
+Katılımcı ödemelerini en az 36 ay boyunca düzenli olarak yapmalıdır. Düzenli aylık ödemelere ilişkin 2018 yılı için alt sınır 274,06 TL, üst sınır 2.740,59 TL'dir. Üç aylık ödeme planı seçildiğinde bu sınırların üç katı geçerlidir. İstenildiği takdirde bu limitler dâhilinde düzenli ödeme talimatı verilebilecektir. Belirlenen tutarın, yeniden değerleme oranı ile güncellenen asgari limitin altında kalması durumunda bu tutar aynı oranda güncellenecektir. Alt limitler bu düzenli ödemeler aylık ödeme planının seçilmesi halinde bir yıllık dönem içinde üç defadan fazla, üç aylık ödeme planının seçilmesi halinde bir defadan fazla aksatılamaz.
+Kaç yaşını geçersem devlet katkısı alamam?
+Katılımcı, 27 yaşını doldurmadan ilk evliliğini yapmadı ise düzenli ödeme yapılmış olsa dahi Devlet Katkısı alamayacaktır.
+En geç kaç yaşında devlet katkısı alabilirim?
+Çeyiz hesabı açıp, en az 36 ay boyunca düzenli ödemelerini yapan, 27 yaşını doldurmadan önce evlenen ve evlilik tarihinden sonraki 6 ay içinde devlet katkısı almak üzere başvuran katılımcı Bakanlığın uygunluğu ile devlet katkısı alabilir.
+En geç kaç yaşında Çeyiz Hesabı açabilirim?
+24 yaşını doldurmadan 25 yaşına girmeden önce çeyiz hesabı açılabilir. Örneğin 01.07.2017 tarihinde Şubemize başvuran bir müşteri 01.07.1993 tarihinden sonra doğmuş ise Bankamızda Çeyiz Hesabı açtırabilir.
+Çeyiz Hesabım için her ay bir kere ödeme yapmam yeterli midir?
+Çeyiz Hesabı açılışıyla beraber 1. ödemeniz gerçekleşmiş sayılır ve 2. ödeme döneminiz bir sonraki ay başlar. Ödemelerinizin düzenli kabul edilebilmesi için her bir dönem içerisinde asgari birikim tutarını sağlamış olmanız gerekmektedir. Örneğin, 15/03/2017 de açılmış bir hesap için ödeme yapmanız gereken ilk dönem 15/04/2017-14/05/2017 dir. 15/04/2017 -14/05/2017 arasında yapacağınız ek bir ödeme bu döneme ait sayılır. 15/05/2017-14/06/2017 arasında ödeme yapılmaz ise ilgili dönemin ödemesi aksatılmış olacaktır. 3 aylık ödeme planları için 3 katı geçerlidir.
+Ödemeleri aksatırsam ne olur?
+Katılımcı aylık ödeme planını seçmesi halinde bir dönem içerisinde üç defadan fazla düzenli ödemeyi aksatamaz. Katılımcı üç aylık ödeme planını seçmesi halinde bir dönem içerisinde bir defadan fazla düzenli ödemeyi aksatamaz. Belirlenen şartlardan herhangi birinin ihlali durumunda hesap, çeyiz hesabı statüsünden çıkartılarak kapatılır ve hesaba Devlet Katkısı ödenmez.Hesabın 3 yıldan önce kapanması durumunda, önceki dönemlerde tahakkuk etmiş olan brüt faiz tutarı anaparadan düşüldükten sonra kalan tutar müşteriye ödenecektir. Hesabın vadesi 3 yılı geçtiği takdirde tahakkuk etmiş faizlerle beraber mevcut bakiye vadesiz hesaba aktarılacaktır.
+Ödeme düzenini kendim belirleyebilir miyim?
+Aylık ya da üç aylık olarak belirlenebilmektedir. Düzenli ödemeler, alt ve üst sınırlar dâhilinde kalınmak kaydıyla, farklı tutarlarda yapılabilir. Katılımcılar ilgili ay veya üç aylık dönem içerisinde toplamda üst sınırı geçmeyecek şekilde birden fazla ödeme yapabilir. Sözleşme dahilinde yapılan ödemeler toplamı alt sınıra ulaştığı veya alt sınırı geçtiği durumda katılımcı ilgili ay veya üç aylık dönem için düzenli ödemesini tamamlamış sayılır. Düzenli ödemeler ilgili ayın veya üç aylık dönemin ilk işgünü ile son işgünü arasında yapılabilir.
+Evlenmeden önce Çeyiz Hesabımdan katkı almam mümkün mü?
+Evlenmeden çeyiz hesabından Devlet katkısı alınamaz. Devlet katkısının hak edilebilmesi için katılımcı aile cüzdanı ve ilk evliliğine dair 25.04.2016 tarihli 5490 sayılı Nüfus Hizmetleri Kanununun 44. Maddesi gereğince ilçe nüfus müdürlüğünden alacağı belgeyi Bankaya ibraz etmelidir.
+Çeyiz Hesabını istediğim zaman kapatabilir miyim?
+Çeyiz Hesabı istenildiği zaman kapatılabilir. Ancak hesabın 3 yıldan önce kapanması durumunda, önceki dönemlerde tahakkuk etmiş olan brüt faiz tutarı anaparadan düşüldükten sonra kalan tutar müşteriye ödenecektir. Hesabın vadesi 3 yılı geçtiği takdirde Devlet katkısı hak edilmeden de olsa müşteri talebi ile kapatıldığında tahakkuk etmiş faizlerle beraber hesabın mevcut bakiyesi vadesiz hesaba aktarılacaktır.
+Hesabımdan istediğim zaman para çekebilir miyim?
+Bir dönem içerisinde çeyiz hesabından en fazla iki defa çekim hakkı tanınır. Çekim hakkının kullanılması halinde çeyiz hesabında kalan bakiyenin, çeyiz hesabının açılış tarihinden itibaren yatırılması gereken asgari tutarlar toplamından az olmaması gerekir.
+Hesabıma toplu para yatırabilir miyim?
+Her ödeme döneminde çeyiz hesabına yönetmelikte belirtilen üst sınır kadar tutar yatırabilir. Ayrıca açılış esnasında bir defaya mahsus olmak üzere 2018 yılı için 18.822,94 TL'ye kadar yatırılabilir.
+2018 yılı için Çeyiz Hesabında açılış tutarı, düzenli ödeme tutarları ile ilgili sınırlar nelerdir?
+Aylık ödemelere ilişkin alt sınır 125,48 TL üst sınır 1.254,87 TL'dir. Üç aylık ödemelere ilişkin alt sınır 376,44 TL üst sınır 3.764,61 TL'dir. Açılış esnasında bir defaya mahsus olmak üzere azami 18.822,94 TL'ye kadar para yatırılabilir. Bu tutarlar her yıl bir önceki yıla ilişkin olarak 04.01.1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılır.
+Birden fazla Çeyiz Hesabı açabilir miyim?
+Bankamızda birden fazla çeyiz hesabı açılamamaktadır. Başka bankalar nezdinde birden fazla çeyiz hesabı açılması durumunda hesaplar birleştirilemez ve Bakanlık tarafından yalnızca başvurulan ilk hesaba Devlet Katkısı ödenir.
+Çeyiz Hesabını faizsiz olarak açabilir miyim?
+Çeyiz Hesabı faizsiz olarak da açılabilmektedir. Hesaba herhangi bir faiz tahakkuku gerçekleşmeyecek yalnızca yapmış olduğunuz birikim tutarı üzerinden devlet katkısı hesaplanacaktır.
+Bankanızda açmış olduğum devlet katkılı çeyiz hesabım var. Ayrıca faizsiz Çeyiz Hesabı açabilir miyim?
+Katılımcılara sadece tek çeyiz hesabı için Devlet Katkısı ödenmesi sebebiyle Bankamızda ikinci bir çeyiz hesabı açılamamaktadır.
+Konut Hesabı nedir?
+Konut hesabı, müşterilerin tasarruf eğilimlerini artırarak uzun vadeli birikim yapmalarını sağlayan ve şartların sağlanması koşulu ile Devlet katkısının da birikime eklenmesi ile toplumu tasarrufa teşvik eden bir üründür. Bankamızda birikimli mevduat olarak açılacak olan ürün asgari 3 yıl vadeli olarak açılabilecektir.
+Tüm Ziraat Bankası şubelerinden Konut Hesabı açabilir miyim?
+Evet, bütün yurtiçi şubelerimizden Konut Hesabı açtırarak birikim yapmaya başlayabilirsiniz.
+Yabancı para cinsinden Konut Hesabı açabilir miyim?
+Konut Hesabı yalnızca TL cinsinden açılabilir.
+Çocuğum adına Konut Hesabı açabilir miyim?
+Konut Hesabı 18 yaşından büyükler adına açılabilmekte olup, 18 yaşından küçükler adına veli veya vasisi tarafından konut hesabı açılabilecektir.
+Konut Hesabı ortak (müşterek) açılabilir mi?
+Konut Hesabı ortak hesap olarak açılamaz.
+Kimler Konut Hesabı açabilir?
+07/04/2015 tarihi itibariyle tamamı kendi adına kayıtlı kat mülkiyeti, kat irtifakı veya müstakil tapulu başka bir konut edinmemiş gerçek kişi Türk Vatandaşları Bankamızda konut hesabı açabilirler. Konut hesabının açıldığı tarihte tamamı kendi adına kayıtlı kat mülkiyeti, kat irtifakı veya konut nitelikli müstakil tapu sahipleri adına konut hesabı açılamaz.
+Devlet katkısını ne zaman alabilirim?
+Düzenli ödemelerini asgari 3 yıl boyunca para yatırma ve çekme limitlerine uygun olarak tamamlayan katılımcı, konut edinimi tarihinden itibaren altı ay içerisinde Şubemize konut tapusu ile başvurur. Banka ay içerisinde yapılan başvuruları takip eden ayın ilk on işgünü içerisinde Bakanlığa iletir.  Bakanlığın uygun bulmasının ardından hak edilen Devlet Katkısı tutarı ilgili hesaba aktarılır. Katılımcıya sadece tek konut hesabı için Devlet katkısı ödenir. Birden fazla konut hesabı açılması durumunda hesaplar birleştirilemez ve katılımcının Devlet katkısı için başvurduğu ilk hesaba Devlet katkısı ödenir. İlk konut hesabı için yapılan Devlet katkısı ödemesi azami tutara ulaşmamış dahi olsa diğer konut hesaplarına herhangi bir ödeme yapılmaz. Devlet katkısını almak için başvurulan konut dışında 07/04/2015 tarihinden itibaren başka bir konut edinilmemiş olması gerekmektedir.
+Devlet katkısı tutarı nasıl hesaplanır?
+Devlet katkısının hesaplanmasında, konut edinim tarihindeki birikim esas alınır. Devlet Katkısı katılımcı tarafından konut hesabına yapılan düzenli ödeme sürelerine göre hesaplanır; Devlet katkısı, düzenli ödeme süresi; 36 ila 47 ay olanlar için, hesaptaki birikim tutarının yüzde 15'idir. Ancak, ödenecek tutar 16.313,21 Türk Lirasını geçemez. 48 ila 59 ay olanlar için, hesaptaki birikim tutarının yüzde 18'idir. Ancak, ödenecek tutar 17.568,08 Türk Lirasını geçemez. 60 ay ve üzeri olanlar için, hesaptaki birikim tutarının yüzde 20'sidir. Ancak, ödenecek tutar 18.822,94 Türk Lirasını geçemez.
+Devlet katkısını beklerken hesabımdan ne kadar faiz getirisi sağlarım, faizini çekebilir miyim?
+Bankanın Konut Hesabı için belirlemiş olduğu faiz oranı üzerinden hesaplanan net faiz tahakkuku her bir yıllık dönemin sonunda anaparaya eklenecektir. Her bir yıllık dönem sonunda Konut Hesabı için belirlenen ve ilan edilen faiz oranı ile güncellenecektir. Yönetmelik gereği her bir yıllık dönem içinde hesaptan 2 defa para çekilebilmektedir. Ancak para çekilişinin ardından hesapta kalan tutar ilgili süreye kadar birikmiş olması gereken asgari tutarın altına düşemez.
+Düzenli ödemeleri kaç ay boyunca ve en az ne kadar yapmam gerekir?
+Katılımcı ödemelerini en az 36 ay boyunca düzenli olarak yapmalıdır. Düzenli aylık ödemelere ilişkin 2018 yılı için alt sınır 313,72 TL, üst sınır 3.137,15 TL'dir. Üç aylık ödeme planı seçildiğinde bu sınırların üç katı geçerlidir. İstenildiği takdirde bu limitler dâhilinde düzenli ödeme talimatı verilebilecektir. Belirlenen tutarın, yeniden değerleme oranı ile güncellenen asgari limitin altında kalması durumunda bu tutar aynı oranda güncellenecektir. Alt limitler bu Düzenli ödemeler aylık ödeme planının seçilmesi halinde bir yıllık dönem içinde üç defadan fazla, üç aylık ödeme planının seçilmesi halinde bir defadan fazla aksatılamaz.
+Konut Hesabım için her ay bir kere ödeme yapmam yeterli midir?
+Konut Hesabı açılışıyla beraber 1. ödemeniz gerçekleşmiş sayılır ve 2. ödeme döneminiz bir sonraki ay başlar. Ödemelerinizin düzenli kabul edilebilmesi için her bir dönem içerisinde asgari birikim tutarını sağlamış olmanız gerekmektedir. Örneğin, 15/03/2017 de açılmış bir hesap için ödeme yapmanız gereken ilk dönem 15/04/2017-14/05/2017 dir. 15/04/2017 -14/05/2017 arasında yapacağınız ek bir ödeme bu döneme ait sayılır. 15/05/2017-14/06/2017 arasında ödeme yapılmaz ise ilgili dönemin ödemesi aksatılmış olacaktır. 3 aylık ödeme planları için 3 katı geçerlidir.
+Ödemeleri aksatırsam ne olur?
+Katılımcı aylık ödeme planını seçmesi halinde bir dönem içerisinde üç defadan fazla düzenli ödemeyi aksatamaz. Katılımcı üç aylık ödeme planını seçmesi halinde bir dönem içerisinde bir defadan fazla düzenli ödemeyi aksatamaz. Belirlenen şartlardan herhangi birinin ihlali durumunda hesap, konut hesabı statüsünden çıkartılarak kapatılır ve hesaba Devlet Katkısı ödenmez. Hesabın 3 yıldan önce kapanması durumunda, önceki dönemlerde tahakkuk etmiş olan brüt faiz tutarı anaparadan düşüldükten sonra kalan tutar müşteriye ödenecektir. Hesabın vadesi 3 yılı geçtiği takdirde tahakkuk etmiş faizlerle beraber mevcut bakiye vadesiz hesaba aktarılacaktır.
+Ödeme düzenini kendim belirleyebilir miyim?
+Aylık ya da üç aylık olarak belirlenebilmektedir. Düzenli ödemeler, alt ve üst sınırlar dâhilinde kalınmak kaydıyla, farklı tutarlarda yapılabilir. Katılımcılar ilgili ay veya üç aylık dönem içerisinde toplamda üst sınırı geçmeyecek şekilde birden fazla ödeme yapabilir. Sözleşme dâhilinde yapılan ödemeler toplamı alt sınıra ulaştığı veya alt sınırı geçtiği durumda katılımcı ilgili ay veya üç aylık dönem için düzenli ödemesini tamamlamış sayılır. Düzenli ödemeler ilgili ayın veya üç aylık dönemin ilk işgünü ile son işgünü arasında yapılabilir.
+Konut almadan önce Konut Hesabımdan devlet katkısı almam mümkün mü?
+Konut alımı yapılmadan konut hesabından Devlet katkısı alınamaz. Devlet katkısının hak edilebilmesi için konut edinim tarihinden itibaren 6 ay içerisinde bankaya müracaat edilmesi gerekmektedir.
+Konut Hesabını istediğim zaman kapatabilir miyim?
+Konut Hesabı istenildiği zaman kapatılabilir. Ancak hesabın 3 yıldan önce kapanması durumunda, önceki dönemlerde tahakkuk etmiş olan brüt faiz tutarı anaparadan düşüldükten sonra kalan tutar müşteriye ödenecektir. Hesabın vadesi 3 yılı geçtiği takdirde Devlet katkısı hak edilmeden de olsa müşteri talebi ile kapatıldığında tahakkuk etmiş faizlerle beraber hesabın mevcut bakiyesi vadesiz hesaba aktarılacaktır.
+Hesabımdan istediğim zaman para çekebilir miyim?
+Bir dönem içerisinde konut hesabından en fazla iki defa çekim hakkı tanınır. Çekim hakkının kullanılması halinde konut hesabında kalan bakiyenin, konut hesabının açılış tarihinden itibaren yatırılması gereken asgari tutarlar toplamından az olmaması gerekir.
+Hesabıma toplu para yatırabilir miyim?
+Her ödeme döneminde konut hesabına yönetmelikte belirtilen üst sınır kadar tutar yatırabilir. Ayrıca açılış esnasında bir defaya mahsus olmak üzere 2018 yılı için 37.645,87 TL'ye kadar yatırılabilir.
+2018 yılı için Konut Hesabında açılış tutarı, düzenli ödeme tutarları ile ilgili sınırlar nelerdir?
+Aylık ödemelere ilişkin alt sınır 313,72 TL üst sınır 3.137,15 TL'dir. Üç aylık ödemelere ilişkin alt sınır 941,16 TL üst sınır 9.411,45 TL'dir. Açılış esnasında bir defaya mahsus olmak üzere azami 37.645,87 TL'ye kadar para yatırılabilir, Bu tutarlar her yıl bir önceki yıla ilişkin olarak 04.01.1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılır.
+Birden fazla Konut Hesabı açabilir miyim?
+Bankamızda birden fazla konut hesabı açılamamaktadır. Başka bankalar nezdinde birden fazla konut hesabı açılması durumunda hesaplar birleştirilemez ve Bakanlık tarafından yalnızca başvurulan ilk hesaba Devlet Katkısı ödenir.
+Konut Hesabını faizsiz olarak açabilir miyim?
+Konut Hesabı faizsiz olarak da açılabilmektedir. Hesaba herhangi bir faiz tahakkuku gerçekleşmeyecek yalnızca yapmış olduğunuz birikim tutarı üzerinden Devlet katkısı hesaplanacaktır.
+Devlet katkısına konu olan konutların niteliği nedir?
+Şu konutlar Devlet katkısına konu olabilir. Kat mülkiyeti tapusu olan konutlar. Kat irtifakı tapusu olan ve yapı kullanma izin belgesi bulunan konutlar. Konut nitelikli yapı kullanma izin belgesi olan müstakil taşınmazlar. Devre mülklere Devlet katkısı ödenmez. Katılımcının eşinden ve birinci derece kan hısımlarından satın aldığı konutlara Devlet katkısı ödenmez.
+Yurtdışında konut sahibi olmak devlet katkısı hak etmeme engel midir?
+Yurt dışında konutu bulunan kişilere, yurt içinde alacakları konut ilk ve tek konut olsa dahi Yönetmelik gereği Devlet katkısı ödemesi yapılmayacaktır.
+Uzun vadeli konut satışı yapan ancak tapusunu vade bitiminde teslim eden kuruluşlardan konut edindim (TOKİ, EMLAK KONUT vb). devlet katkılı Konut Hesabı açabilir miyim?
+Ön ödemeli sözleşme ile konut tapusunu vade bitiminde teslim eden kuruluşlardan konut alan kişilerin Konut Hesabı ve Devlet Katkısına Dair Yönetmelik kapsamında katılımcı olmalarını engelleyici bir hüküm bulunmamaktadır. Ancak Devlet Katkısı hak edebilmek için en az 36 aylık birikim yapılması gerektiğinden 3 yıldan önce tapu edinilmesi durumunda Devlet Katkısı hak edilemeyecektir.
+Devlet katkılı Konut Hesabı açabilir miyim?
+Evet. 07.04.2015 tarihi itibariyle tamamı kendi adınıza kayıtlı konutunuzun bulunmaması yeterlidir.
+Ziraat Bankası'nın çalışan sayısı kaçtır?
+30 Eylül 2017 itibariyle Bankanın 24.558 adet çalışanı bulunmaktadır.
+Ziraat Bankası'nın kaç adet şubesi vardır?
+30 Eylül 2017 itibariyle yurtiçinde 1.779 şubesi bulunan Banka, dünyanın 18 ülkesinde, 95 noktada faaliyet göstermektedir. Ziraat Bankası'nın 9 uluslararası iştirak bankası, 23 yurt dışı şubesi ve 1 temsilcilikten oluşan geniş bir yurt dışı hizmet ağı bulunmaktadır.
+Ziraat Bankası'nın vizyon, misyon ve hedefleri nelerdir?
+Vizyonumuz  Türkiye'de ve dünyanın her yerinde yaygın, güvenilir ve aynı kalitede hizmet sunan, herkesin ve her kesimin bankası olan, müşteri ve insan kaynağını en değerli aktifi olarak kabul eden, köklü geçmişine yakışır şekilde sürekli olarak fark ve değer yaratan, rakiplerinin örnek aldığı, her aşamada bir bankadan daha fazlasını vaat eden, evrensel, saygın ve piyasa değeri yüksek, lider banka olmaktır. Misyonumuz Müşteri ihtiyaç ve beklentilerini en iyi şekilde anlayarak, onlara en doğru kanaldan en uygun çözüm ve değer önerilerini sunan, yaygın şube ağı ve alternatif dağıtım kanalları ile geniş ürün ve hizmet yelpazesini toplumun her kesimine en hızlı ve en etkin şekilde ulaştıran, etik değerlerinin ve sosyal sorumluluğunun bilincinde olarak dünya standartlarında sürdürülebilir karlılık ve verimlilikle faaliyet gösteren, müşteri memnuniyetini her şeyden üstün tutan bir banka olmaktır. Stratejilerimiz   Herkes İçin Bankacılık Müşterilerinin çalışmaktan huzur ve mutluluk duyduğu "Moral Banka" olmak, Dünyanın her yerinde, aynı yüksek kalitede evrensel hizmet sunmak, Tarımın, özellikle de endüstriyel tarımın finansmanını çok daha etkin yönetmek, Yerel ve küresel dağıtım ağında organik büyüme sağlamak. Etkin Bankacılık Kurumsal müşteri portföyünde sektörel dağılım optimizasyonunu sağlamak, Daha etkin kredi süreçleri ile kredi kalitesini proaktif yönetmek, Etkin işletme ve gider yönetimini sağlamak. Global Oyuncu Dış ticaret işlemleri sektör payında hızlı gelişim elde etmek, Müşterilerine küresel ölçekte değer sunmak, Uluslararası finansal mimariye daha etkin entegre olmak, Kuzey Afrika, Ortadoğu, Körfez Bölgesi ve Uzakdoğu pazarlarında var olmak.
+Ziraat Bankası'nın ortaklık yapısı nedir?
+Ziraat Bankası paylarının tamamı Hazine Müsteşarlığına aittir.
+Ziraat Bankası'nın ödenmiş sermayesi ne kadardır?
+Banka'nın sermayesi 5.100.000.000.- Türk Lirasıdır. Bu sermaye her biri 1 Türk Lirası itibari değerde 5.100.000.000 adet nama yazılı hisseye ayrılmıştır. Sermayenin tamamı ödenmiş olup, tamamı Hazine'ye aittir.
+Ziraat Bankası'nın Genel Kurulu ne zaman yapılmaktadır?
+Olağan Genel Kurul, Banka'nın hesap dönemi sonundan itibaren üç ay içinde ve yılda bir kere toplanır.
+Ziraat Bankası Yönetim Kurulu kimlerden oluşmaktadır?
+Yönetim kurulu için Yönetim kurulu bilgisini sitemizden öğrenebilirsiniz.
+Ziraat Bankası ne zaman kuruldu?
+Osmanlı İmparatorluğu'na bağlı Yugoslavya'nın Niş kenti valisi olan Mithat Paşa, çeşitli alanlarda başarılı çalışmalarda bulunmasının yanı sıra; çiftçilerin içinde bulundukları zor koşullara da yakından tanık olmuştur. Yaptığı araştırmalarla, bu alanda teşkilatlanmanın zorunlu olduğu ve çiftçilerin, tefecilerin elinden kurtarılması için devlet yardımının gerektiği ancak bu yardımın halk hareketiyle desteklenmesinin önem taşıdığı sonucuna varmıştır. Böylece 1863 yılında çiftçilerin oluşturduğu kaynakla, Mithat Paşa öncülüğünde devlet eliyle ve devlet himayesinde kurulan ve adına "Memleket Sandıkları" denilen organizasyon; milli bankacılığın ilk örneği olarak tarihe geçmiş ve Ziraat Bankası'nın temelleri atılmıştır. 15 Ağustos 1888'de Menafi Sandıkları'nın yerine işlevlerini üstlenecek modern finans kuruluşu olarak Ziraat Bankası resmen kurulmuş, o tarihte faaliyette bulunan Menafi Sandıkları da banka şubelerine dönüştürülerek faaliyete başlamıştır.
+Ziraat Bankası'nın ana sözleşmesine ve yıllık faaliyet raporlarına nasıl ulaşabilirim?
+Ziraat Bankası web sitesi Ziraat Bankası web sitesi "Yatırımcı İlişkileri" başlığı altında bu bilgilere ulaşabilirsiniz.
+Bankkart Combo'ya hangi kanallardan başvurabilirim?
+Kredi kartı başvurunuzu şubelerimizden ve aşağıda yer alan kanallarımızdan gerçekleştirebilirsiniz. İnternet Sitesi İnternet Şubesi Ziraat Mobil Müşteri İletişim Merkezi ATM SMS (KREDIKARTI T.C Kimlik No, Talep Edilen Kart Limiti ve Aylık Net Gelir bilgilerinizi yazarak 4757' ye SMS gönderebilirsiniz. ÖRN: KREDIKARTI 11111111111 4000 3000)
+Bankkart Combo başvuru sonucumu nasıl öğrenebilirim?
+Kredi kartı başvurunuzun sonucunu size en yakın Şubemizden ve 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi hattımızı arayarak bilgi alabilirsiniz.
+Kredi kartı hesap kesim tarihimi nasıl değiştirebilirim?
+Kredi kartı hesap kesim tarihi değişiklik işlemlerinizi İnternet Şubesi, ve 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi hattımız aracılığı ile yaptırabilirsiniz.
+Bankkart Combo şifremi nasıl alabilirim?
+Kredi kartı şifre işlemlerini şubelerimiz ve 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi aracılığı ile gerçekleştirebilirsiniz.
+Bankkart Combom çalındı/kayboldu ne yapmalıyım?
+En kısa sürede 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi hattımızı arayarak kayıp çalıntı menüsünden bilgi vermeniz gerekmektedir.
+Kredi kartı üyelik ücreti ne kadardır?
+Kart ücret bilgileri sitemizde yer alan Ürün ve Hizmet Ücretleri bölümünde yer almaktadır.
+Kredi kartı üyelik ücretinin yasal dayanağı var mı?
+Türk Ticaret Kanunu, Bankacılık Kanunu ile Banka Kartları ve Kredi Kartları Kanunu'nda söz konusu kart üyelik/yenileme ücretinin alınabileceğine dair hükümler bulunmaktadır. Ayrıca, kredi kartı müşterilerimizce imzalanan Kredi Kartı Üyelik ve Kredi Sözleşmesinde de kart üyelik/yenileme ücreti uygulamasına ilişkin hükümler yer almaktadır.
+Kredi kartı üyelik ücreti hangi dönemlerde alınır? 
+Tüm asıl ve ek kartlarımız için kart ücreti ilk finansal işlemi sonrası kart ekstrenize yansıtılır, bundan sonraki dönemlerde ise kart ücretleri birer yıl sonra yansıtılmaktadır.
+Kredi kartı ekstre bilgilerimi nasıl öğrenebilirim?
+Kredi kartı ekstre bilgilerinizi İnternet Şubesi, Mobil Şube, SMS Bankacılığı, 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi, ATM'lerimiz aracılığıyla öğrenebilirsiniz. Kredi kartı ekstrelerinizi e-posta olarak da gönderilmesini talep edebilirsiniz. Bu talebinizi Şube, İnternet Şube, ve 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi aracılığıyla gerçekleştirebilirsiniz.
+Harcama itirazımı nasıl iletebilirim?
+Kredi kartınız ile yapılan harcamaya ait itirazın işleme alınabilmesi için, harcama detaylarını (İşlemin yapıldığı kart numarası, işlem tarihi, işlem tutarı, işyeri adı, itiraz nedeni vb.) ve imzalı itiraz dilekçenizi Bankamızın 0212 286 55 00 numaralı faksına iletebilirsiniz.
+Asgari ödeme nasıl hesaplanır?
+17.12.2010 tarihinden sonra yeni tahsis edilen kredi kartlarına uygulanacak asgari ödeme oranları 17.12.2010 tarihinden sonra yeni tahsis edilen kredi kartlarına uygulanacak asgari ödeme oranları tablosu KREDİ KARTI LİMİTİ (,-TL) TARİH KULLANIM BAŞLANGIÇ TARİHİNDEN İTİBAREN 1 YIL BOYUNCA 2014 - 2015 2015 - 0-14.999 40% 27% 30% 15.000-19.999 40% 32% 35% 20.000 ve üzeri 40% 40% 40%
+Kredi kartı borcumu nasıl ödeyebilirim?
+Mobil Şube Telefon Bankacılığı ATM Otomatik Ödeme Talimatı ile EFT aracılığı ile ödeyebilirsiniz.
+Sanal kart nedir?
+Sanal kart, İnternet Şubenizde mevcut tanımlı kredi kartınıza bağlı olarak oluşturulan, kartın fiziki olarak bulunmadığı tüm alışverişlerde (mail order, telephone order, vb.) kullanılabilen ve kart özelliklerini taşıyan bir kredi kartı numarasıdır. Sanal kart, İnternet Bankacılığı aracılığı ile oluşturulabileceği için, Bankamıza ait kredi kartına sahip olmanız, İnternet Bankacılığı müşterisi olmanız ve kredi kartınızın İnternet Şubeye tanımlı olması gerekmektedir. Yılda en fazla 10 adet Sanal Kart tanımlanabilmektedir.
+Nasıl sanal kart tanımlayabilirim?
+Sanal kart, İnternet Bankacılığı aracılığı ile oluşturulabileceği için, Bankamıza ait kredi kartına sahip olmanız, İnternet Bankacılığı müşterisi olmanız ve kredi kartınızın İnternet Şubeye tanımlı olması gerekmektedir. Yılda en fazla 10 adet Sanal Kart tanımlanabilmektedir.
+Sanal kart limitini nasıl değiştirebilirim?
+İnternet Şubesi ve Mobil Şube'de sanal kart ile ilgili menüden sanal kart limitinizi değiştirebilirsiniz.
+Kredi kartı ekstrelerim e-posta adresime neden ulaşmıyor?
+Bankamız kayıtlarında e-posta adresinizin güncel olması ve e-posta talimatınızın bulunması durumunda, ekstreleriniz düzenli olarak en kısa sürede gönderilmektedir. Ekstrelerinizin gönderim süreleri değişkenlik göstermektedir. Uzun süreli gecikmeler ve ulaşmama sorunu kullandığınız elektronik posta adresinden kaynaklı olabilir. Bazı elektronik posta adresleri gönderileri güvenlik ayarlarından dolayı "önemsiz e-posta" kutusuna düşürmekte ya da gönderimleri engellemektedir. Bu konuda e-posta ayarlarınızı kontrol etmenizi veya farklı bir e-posta adresiniz varsa o adresi kullanmanızı rica ederiz.
+Kredi kartı limitimi nasıl arttırabilirim?
+Kredi kartı limit arttırım talebinizi şubelerimizden ve aşağıda yer alan kanallarımızdan iletebilirsiniz. İnternet Sitesi İnternet Şubesi Ziraat Mobil Müşteri İletişim Merkezi ATM SMS (LIMIT, Kredi Kartı Son 6 hane, Talep Edilen Limit ve Aylık Net Gelir bilgilerinizi yazarak 4757'ye SMS gönderebilirsiniz.. Örn: LIMIT 123456 4000 3000)
+Ek kart nedir?
+Ek kredi kartı, asıl kart hamilinin talebi doğrultusunda, limiti asıl kart hamiline tanınan limiti geçmemek ve bu limitten karşılanmak üzere, limitin belirli bir miktarı veya oranında, 15 yaşını dolduran kimselere nakit çekimi ile mal ve hizmet alımlarında kullanılmak üzere tahsis edilen kredi kartıdır.
+Nasıl ek kart çıkartabilirim?
+Ek kart başvurunuzu tüm Şubelerimiz ve Müşteri İletişim Merkezimiz (444 00 00-0850 220 00 00) aracılığı ile iletebilirsiniz.
+Ek kartımın limitini nasıl belirleyebilirim?
+Ek kartınızın limitini asıl kart hamiline tanınan limiti geçmemek ve bu limitten karşılanmak üzere, limitin belirli bir miktarı veya oranında belirleyebilirsiniz.
+Kredi kartımla güvenli e- ticaret işlemi yapabilir miyim?
+Evet, yurt içi ve/veya yurt dışı e-ticaret işlemlerine açık olarak tanımladığınız kredi kartlarınız ile güvenli 3D-secure e-ticaret işlemi gerçekleştirebilirsiniz. Kredi kartlarımız yurt içi e-ticaret işlemlerine açık, yurt dışı e-ticaret işlemlerine kapalı olarak üretilmekte olup, 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezimiz aracılığı ile kartınızın e-ticaret işlemlerine açık ya da kapalı olmasını talep edebilirsiniz.
+Bankkart Combo'mun gönderim akıbeti konusunda nasıl bilgi alabilirim?
+Kartınızın akıbeti hakkında 7 gün 24 saat 0850 220 00 00 numaralı Müşteri İletişim Merkezi'miz aracılığı ile bilgi alabilirsiniz.
+Kullanılabilir kart limitim olmasına rağmen kredi kartımdan nakit avans kullanamıyorum neden olabilir?
+Bir takvim yılı içinde asgari ödeme tutarı; toplam üç kez ödenmeyen kredi kartları nakit kullanımına, üst üste üç kez ödenmeyen kredi kartları nakit kullanımı ile mal ve hizmet alımına kapatılır. (Bankacılık Düzenleme ve Denetleme Kurumu'nca (BDDK) 08.10.2013 tarih ve 28789 sayılı Resmi Gazete' de yayınlanarak yürürlüğe giren Banka Kartları ve Kredi Kartları Hakkında Yönetmelik'te Değişiklik Yapılmasına İlişkin Yönetmelik gereği işlem yapılmaktadır.)
+Kullanılabilir kart limitim olmasına rağmen kredi kartımdan harcama yapamıyorum neden olabilir?
+Bir takvim yılı içinde asgari ödeme tutarı; toplam üç kez ödenmeyen kredi kartları nakit kullanımına, üst üste üç kez ödenmeyen kredi kartları nakit kullanımı ile mal ve hizmet alımına kapatılır. (Bankacılık Düzenleme ve Denetleme Kurumu'nca (BDDK) 08.10.2013 tarih ve 28789 sayılı Resmi Gazete' de yayınlanarak yürürlüğe giren Banka Kartları ve Kredi Kartları Hakkında Yönetmelik'te Değişiklik Yapılmasına İlişkin Yönetmelik gereği işlem yapılmaktadır.)
+Kredi Kartı harcamamı sonradan taksitlendirebilir miyim?
+Sonradan taksitlendirme uygulamamız hakkında detaylı bilgi almak için sitemize ziyaret ediniz.
+Kredi kartı ücret ve faiz oranlarınızı öğrenebilir miyim?
+Kredi kartı ücret ve faiz oranlarınızı öğrenmek için lütfen sitemize ziyaret ediniz. 
+Nasıl Bankkart sahibi olabilirim?
+Ziraat Bankası müşterisiyseniz şubelerimiz, internet şubemiz veya 0850 258 00 00 Müşteri İletişim Merkezi üzerinden Bankkart başvurusunda bulunabilirsiniz. Ziraat Bankası müşterisi değilseniz sizi en kısa sürede yeni bir hesap açmak ve Bankkart başvurusu yapmak için şubelerimize bekliyoruz.
+Bankkart'ın yıllık kart ücreti var mı?
+Bankkart sahibi müşterilerimizden herhangi bir yıllık kart veya kullanım ücreti alınmamaktadır.
+Bankkart'ımı nasıl teslim alabilirim?
+Bankkart'ınızı şubelerimizden başvuru anında teslim alabilirsiniz. Bankkart başvurusunda bulunurken kartınızın adresinize teslim edilmesini de isteyebilirsiniz.
+Bankkart şifremi nasıl oluşturabilirim?
+Alışveriş ve ATM işlemlerinde kullanabileceğiniz Bankkart'ınızın şifresini; kartınızı teslim aldıktan sonra ATM'lerimizden/İnternet Şube'mizden veya 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz. Ayrıca, SIFRE yazıp aralarında boşluk bırakarak "Kartınızın son 6 hanesi, Anne Kızlık Soyadınızın son 2 harfi veya Doğum Yeriniz, kartınızın arkasındaki 3 haneli güvenlik kodu" bilgilerinizi ekleyip 4757'e SMS göndererek de şifre alabilirsiniz. Doğum yeriniz veya anne kızlık soyadınız Türkçe karakter içeriyorsa; SMS iletirken büyük, küçük harf farketmeksizin Türkçe karakterkullanılarak yazılmalıdır (İZMİR, IĞDIR, Çanakkale vb. gibi). SMS gönderdiğiniz telefonun mutlaka sistemimize yalnızca sizin adınıza kayıtlı olması gerekmektedir. Örnek SMS metni: SIFRE 123456 MUĞLA 123 veya SIFRE 123456 Muğla 123.
+Bankkart şifremi unutursam ne yapmalıyım?
+Bankkart şifrenizi unutmanız halinde; İnternet Şube'mizden veya 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak yeni şifre oluşturabilirsiniz.
+Bankkart'ım çalındı/kayboldu ne yapmalıyım?
+En kısa sürede 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak bilgi vermeniz gerekmektedir. Kartınızın çalındığını/kaybolduğunu haber vermeniz durumunda kartınız iptal edilecek ve talep etmeniz halinde yenisi adresinize gönderilecektir.
+Bankkart'ım ile alışveriş yapabilirim miyim? 
+Bankkart'ınızın bağlı olduğu ana hesabınızda bakiye olması durumunda Visa Electron ya da Mastercard / Maestro logosu bulunan işyerlerinden kart şifrenizi kullanarak, hesabınızdaki para ile günlük işlem limiti dâhilinde alışveriş yapabilirsiniz. Bankkart günlük POS işlem limiti 2.000 TL'dir. Bankkart'ınıza Kredili Mevduat Hesabı (KMH) tanımlı olması durumunda bakiyeniz yeterli olmasa dahi KMH üzerinden de alışveriş yapabilirsiniz.
+Bankkart'ım ile nasıl alışveriş yapabilirim?
+Bankkart'ınızın bağlı olduğu ana hesabınızda bakiye olması durumunda Visa Electron ya da Mastercard / Maestro logosu bulunan işyerlerinden kart şifrenizi kullanarak, hesabınızdaki para ile günlük işlem limiti dâhilinde alışveriş yapabilirsiniz. Bankkart günlük POS işlem limiti 2.000 TL'dir. Bankkart'ınıza Kredili Mevduat Hesabı (KMH) tanımlı olması durumunda bakiyeniz yeterli olmasa dahi KMH üzerinden de alışveriş yapabilirsiniz.
+Bankkart'ımı yurtdışında kullanabilir miyim?
+Bankkart'ınızla yurtdışındaki MasterCard/Maestro veya Visa Electron logolu ATM'lerden para çekebilir ve alışveriş yapabilirsiniz. Yurtdışındaki ATM'lerde Bankkart'ınıza bağlı ana hesap dışındaki virman hesaplar görüntülenemez. Bu nedenle Bankkart'ınızla yurtdışındaki ATM'lerden para çekebilmek, alışveriş yapabilmek için bakiyenizin bulunduğu hesap, Bankkart'ınıza bağlı ana hesap olmalıdır.
+Bankkart'ımı yurtdışında kullanabilmek için herhangi bir başvuru işlemi yapmalı mıyım?
+Bankkart'ınızı herhangi bir başvuru işlemi yapmadan direkt olarak yurtdışında kullanabilirsiniz. Ayrıca Kartınızın yurtiçi ve yurtdışı işlem kısıtlarını internet şube ve mobil uygulamamızı kullanarak yönetebilirsiniz.
+Bankkart'ım ile internet üzerinden alışveriş yapabilir miyim?
+Bankkart'ınıza bağlı ana hesabınızda bakiye olması durumunda Bankkart ile ödemeyi kabul eden internet sitelerinde Bankkart'ınızı kullanarak alışveriş yapılabilirsiniz. Bankkart günlük e-ticaret işlem limiti 1.000 TL'dir. Bankkart e-ticaret işlemleri, tüzel Bankkartlara da açıktır. Ayrıca kartınızın yurtiçi ve yurtdışı e-ticaret işlem kısıtlarını internet şube ve mobil uygulamamızı kullanarak yönetebilirsiniz.
+Bankkart'ım ile internet üzerinden nasıl alışveriş yapabilirim?
+Bankkart'ınıza bağlı ana hesabınızda bakiye olması durumunda Bankkart ile ödemeyi kabul eden internet sitelerinde Bankkart'ınızı kullanarak alışveriş yapılabilirsiniz. Bankkart günlük e-ticaret işlem limiti 1.000 TL'dir. Bankkart e-ticaret işlemleri, tüzel Bankkartlara da açıktır. Ayrıca kartınızın yurtiçi ve yurtdışı e-ticaret işlem kısıtlarını internet şube ve mobil uygulamamızı kullanarak yönetebilirsiniz.
+İnternette Güvenli Alışveriş (3D Secure) nedir?
+Visa / Mastercard tarafından geliştirilen ve desteklenen bu hizmet internet ortamında Ziraat Bankası kredi kartlarını ve Bankkart'larını kullanarak yapacağınız alışverişlerin daha güvenli olmasını sağlar. Bu hizmeti destekleyen sanal iş yerlerinde alışveriş yapmak istediğinizde, sistemimizde kayıtlı cep telefonunuza tek seferlik şifre bilgisi gelecek ve işleminiz bu şifre ile tamamlanacaktır. Bu sayede onayınız olmadan internet üzerinden kart bilgileriniz kullanılarak işlem yapılması önlenecektir. İnternette Güvenli Alışverişe ilişkin ayrıntılı bilgi için sitemize ziyaret ediniz.
+Bankkart'ımla temassız işlem yapabilir miyim?
+Temassız Bankkart sahibi müşterilerimiz kartlarıyla MasterCard Paypass ve Visa Paywave okuyucusu olan tüm ödeme noktalarında 50 TL ve altındaki alışveriş işlemlerini temassız olarak, şifre girmeden, hızlıca gerçekleştirebilirler. Temassız Bankkart, Bankamız nezdindeki vadesiz mevduat hesabına bağlı olmakla beraber, ayrıca üzerine para yüklenebilen elektronik cüzdan özelliğine sahiptir.
+Bankkart'ın alışveriş ve ATM'de kullanım haricinde ne gibi özellikleri var?
+Bankkart'ınızı Bankalararası Kart Merkezi'nin sunduğu BKM Express sistemine tanımlayabilirsiniz. Böylece kart bilgilerinizi paylaşmadan, sisteme kayıtlı telefonunuza gelecek tek kullanımlık şifre ile tüm BKM Ekspress üye iş yerlerinde hızlı ve güvenle alışveriş yapabilirsiniz. Bankakart özellikleri ile ilgili detaylı bilgi için sitemize ziyaret ediniz. BKM Ekspres ile ilgili detaylı bilgi için sitemize ziyaret ediniz.
+Bankkart'ıma birden fazla hesap bağlayabilir miyim?
+Bankkart'ınıza en fazla 9 vadesiz hesap bağlayarak hesaplarınıza istediğiniz zaman ATM'den ulaşma imkânına sahip olabilirsiniz. Bankkart'ınız ile yaptığınız işlemlerinde sadece ana hesabınız kullanılmaktadır.
+Bankkart'ıma vadeli hesap bağlayabilir miyim?
+Bankkart'a sadece vadesiz mevduat hesapları bağlanabilir.
+Adresime Bankkart gönderimi yapılıyor mu?
+Bankkart başvurusunda bulunurken kartınızı adresinize isteyebilirsiniz. Adresinize gelen Bankkart için şifrenizi 444 00 00 - 0850 258 00 00 numaralı Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz.
+Adresime Yurtdışına Bankkart gönderimi yapılıyor mu?
+Bankkart başvuru taleplerinde Bankamız yurtdışı şube veya iştiraklerine, mevcut bir Bankkart'ın yenilenmesi durumunda ise adrese gönderim yapılmaktadır. Bankkart başvurusunun yurtdışında tesliminin talep edilmesi halinde, müşterilerimiz taleplerini şubelerine ileteceklerdir. Bankkart'ınız, taahhütname ile birlikte bulunduğunuz ülkedeki varsa Bankamız yurtdışı şube veya iştirakine postalanacaktır. İmzaladığınız taahhütnamenin yurtiçi şubenize ulaşmasıyla Bankkart'ınız kullanıma açılır ve Bankkart şifrenizi 444 00 00 - 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz. Yenilenen bir Bankkart'ın yurtdışında tesliminin talep edilmesi halinde, müşterilerimiz taleplerini ve gönderim yapılacak açık adres bilgisini şubelerine veya 444 00 00 - 0850 258 00 00 Müşteri İletişim Merkezine iletmeleri durumunda Bankkart'ınız doğrudan belirttiğiniz yurtdışı adresine postalanacaktır. Teslim aldığınız Bankkart'ınızın şifresini 444 00 00 - 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz.
+Karta Para Yükleme Elektronik Cüzdan (E-Cüzdan) Nasıl Temassız Bankkart sahibi olabilirim?
+Toplu taşıma ücretlerinin Banka ve Kredi kartlarıyla ödenebilmesini sağlayan Ulaşım Projelerine dahil İl ve İlçelerdeki Bankamız şubelerinden kimliğiniz ile birlikte Temassız Bankkart başvurusu yapabilirsiniz.
+Temassız işlem nedir?
+Temassız Bankkart'ın okutulması suretiyle gerçekleştirilen işlemler "Temassız İşlem" olarak adlandırılır. Çipli Kartlarınız temassız özelliklidir. Kartınızın temassız özelliğini kullanmaya başlamak için kartınızla yapacağınız ilk işlemin temaslı ve şifreli bir işlem olması gerekmektedir. Ödeme anında kasiyere temassız ödeme yapmak istediğinizi belirterek, POS cihazının uygun olması durumunda kartınızı POS cihazına yaklaştırarak ödeme yapabilirsiniz. Çipli Banka kartı ürünlerinde de ise temassız ödemeler çip bakiyesinden gerçekleşecektir. Çip bakiyesini kullanarak temassız ödeme yapabilmek için, ATM'lerimiz aracılığıyla nakit veya hesaptan kartın çipine para yüklemeniz gerekmektedir.
+Temassız Bankkart'ım ile alışveriş yapabilir miyim?
+Temassız Bankkart'ınızın bağlı olduğu ana hesabınızda bakiye olması durumunda Visa Electron ya da Mastercard/Maestro amblemi bulunan işyerlerinden şifre ile hesabınızdaki parayı kullanarak günlük işlem limiti dâhilinde alışveriş yapabilirsiniz. Temassız Bankkart günlük POS işlem limiti 2.000 TL'dir. Temassız Bankkart'ınıza Kredili Mevduat Hesabı (KMH) tanımlı olması durumunda bakiyeniz yeterli olmasa dahi KMH üzerinden de alışveriş yapabilirsiniz.
+Temassız işlem nasıl yapılır?
+Kartınızın temassız özelliğini kullanmaya başlamak için kartınızla yapacağınız ilk işlemin temaslı ve şifreli bir işlem olması gerekmektedir. Ödeme anında kasiyere temassız ödeme yapmak istediğinizi belirterek, POS cihazının uygun olması durumunda kartınızı POS cihazına yaklaştırarak ödeme yapabilirsiniz. Çipli Banka kartı ürünlerinde de ise temassız ödemeler çip bakiyesinden gerçekleşecektir. Çip bakiyesini kullanarak temassız ödeme yapabilmek için, ATM'lerimiz aracılığıyla nakit veya hesaptan kartın çipine para yüklemeniz gerekmektedir.
+Temassız Bankkart'ım ile alışverişi nasıl yapabilirim?
+Temassız Bankkart'ınızın bağlı olduğu ana hesabınızda bakiye olması durumunda Visa Electron ya da Mastercard/Maestro amblemi bulunan işyerlerinden şifre ile hesabınızdaki parayı kullanarak günlük işlem limiti dâhilinde alışveriş yapabilirsiniz. Temassız Bankkart günlük POS işlem limiti 2.000 TL'dir. Temassız Bankkart'ınıza Kredili Mevduat Hesabı (KMH) tanımlı olması durumunda bakiyeniz yeterli olmasa dahi KMH üzerinden de alışveriş yapabilirsiniz.
+Temassız Bankkart'ın alışveriş ve ATM'de kullanım haricinde ne gibi özellikleri var?
+Temassız Bankkart'ınızı Bankalararası Kart Merkezi'nin sunduğu BKM Express sistemine tanımlayabilirsiniz. Böylece kart bilgilerinizi paylaşmadan, sisteme kayıtlı telefonunuza gelecek tek kullanımlık şifre ile tüm BKM Ekspress üye iş yerlerinde hızlı ve güvenle alışveriş yapabilirsiniz. BKM Ekspres ile ilgili detaylı bilgi için sitemize ziyaret ediniz.
+Temassız Bankkart'ın yıllık kart ücreti var mı?
+Temassız Bankkart sahibi müşterilerimizden herhangi bir yıllık kart veya kullanım ücreti alınmamaktadır.
+Temassız Bankkart'ımı nasıl teslim alabilirim?
+Temassız Bankkart'ınızı şubelerimizden başvuru anında teslim alabilirsiniz. Temassız Bankkart başvurusunda bulunurken kartınızın adresinize teslim edilmesini de isteyebilirsiniz.
+Temassız Bankkart şifremi nasıl oluşturabilirim?
+Alışveriş ve ATM işlemlerinde kullanabileceğiniz Temassız Bankkart'ınızın şifresini; kartınızı teslim aldıktan sonra ATM'lerimizden/İnternet Şube'mizden veya 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz. Ayrıca, SIFRE yazıp aralarında boşluk bırakarak "Kartınızın son 6 hanesi, Anne Kızlık Soyadınızın son 2 harfi veya Doğum Yeriniz, kartınızın arkasındaki 3 haneli güvenlik kodu" bilgilerinizi ekleyip 4757'e SMS göndererek de şifre alabilirsiniz. Doğum yeriniz veya anne kızlık soyadınız Türkçe karakter içeriyorsa; SMS iletirken büyük, küçük harf farketmeksizin Türkçe karakter kullanılarak yazılmalıdır (İZMİR, IĞDIR, Çanakkale vb. gibi). SMS gönderdiğiniz telefonun mutlaka sistemimize yalnızca sizin adınıza kayıtlı olması gerekmektedir. Örnek SMS metni: SIFRE 123456 MUĞLA 123 veya SIFRE 123456 Muğla 123.
+Temassız Bankkart şifremi unutursam ne yapmalıyım?
+Temassız Bankkart şifrenizi unutmanız halinde; İnternet Şube'mizden veya 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak yeni şifre oluşturabilirsiniz.
+Temassız Bankkart'ım çalındı/kayboldu ne yapmalıyım?
+En kısa sürede 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak bilgi vermeniz gerekmektedir.Kartınızın çalındığını/kaybolduğunu haber vermeniz durumunda kartınız iptal edilecek ve talep etmeniz halinde yenisi adresinize veya şubenize gönderilecektir. Eğer çalınan/kaybolan Temassız Bankkart'ınızda yüklü bakiyeniz mevcut ise, kart üzerine yüklenmiş para, elektronik para hükmünde olup, şifre ile korunmadığından kayıp/çalıntı durumunda nakden iade ya da yeni bir karta bakiye transferi yapılması mümkün değildir. Ayrıntılı bilgi için Elektronik Cüzdan bölümünü inceleyiniz.
+Temassız Bankkart ile yaptığım Temassız işlemlerimde bir sınırlama var mı?
+Temassız Bankkart'ınızla tek seferde en fazla 50 TL, gün içerisinde ise toplam 150 TL tutarında, temassız işlem yapabilirsiniz. 50 TL altı işlemleri şifresiz temassız olarak, 50 TL üstü işlemlerde ise şifre girerek hızlıca gerçekleştirebilirsiniz.
+Temassız Bankkart'ımı yurtdışında kullanabilir miyim?
+Temassız Bankkart'ınızla yurtdışındaki Visa Electron veya MasterCard/Maestro amblemli ATM'lerden para çekebilir ve alışveriş yapabilirsiniz. Yurtdışındaki ATM'lerde Temassız Bankkart'ınıza bağlı ana hesap dışındaki virman hesaplar görüntülenemez. Bu nedenle Temassız Bankkart'ınızla yurtdışındaki ATM'lerden para çekebilmek, alışveriş yapabilmek için bakiyenizin bulunduğu hesap, Temassız Bankkart'ınıza bağlı ana hesap olmalıdır.
+Temassız Bankkart'ımı yurtdışında kullanabilmek için herhangi bir başvuru işlemi yapmalı mıyım?
+Temassız Bankkart'ınızı herhangi bir başvuru işlemi yapmadan direkt olarak yurtdışında kullanabilirsiniz.
+Temassız Bankkart ile internet üzerinden alışveriş yapabilir miyim?
+Temassız Bankkart'ınıza bağlı ana hesabınızda bakiye olması durumunda Bankkart ile ödemeyi kabul eden 3D Secure sitemine üye internet sitelerinde Temassız Bankkart ile alışveriş yapılabilirsiniz. Temassız Bankkart günlük e-ticaret işlem limiti 1.000 TL'dir. E-ticaret ile yurtiçinden yapılan işlemlerde komisyon alınmamaktadır.
+Temassız Bankkart ile internet üzerinden alışverişi nasıl yapabilirim?
+Temassız Bankkart'ınıza bağlı ana hesabınızda bakiye olması durumunda Bankkart ile ödemeyi kabul eden 3D Secure sitemine üye internet sitelerinde Temassız Bankkart ile alışveriş yapılabilirsiniz. Temassız Bankkart günlük e-ticaret işlem limiti 1.000 TL'dir. E-ticaret ile yurtiçinden yapılan işlemlerde komisyon alınmamaktadır.
+İnternette Güvenli Alışveriş (3D Secure) nedir?
+Visa / Mastercard tarafından geliştirilen ve desteklenen bu hizmet internet ortamında Ziraat Bankası kredi kartlarını ve Bankkart'larını kullanarak yapacağınız alışverişlerin daha güvenli olmasını sağlar. Bu hizmeti destekleyen sanal iş yerlerinde alışveriş yapmak istediğinizde, sistemimizde kayıtlı cep telefonunuza tek seferlik şifre bilgisi gelecek ve işleminiz bu şifre ile tamamlanacaktır. Bu sayede onayınız olmadan internet üzerinden kart bilgileriniz kullanılarak işlem yapılması önlenecektir. İnternette Güvenli Alışverişe ilişkin ayrıntılı bilgi için sitemize ziyaret ediniz.
+Temassız Bankkart'ıma birden fazla hesap bağlayabilir miyim?
+Temassız Bankkart'ınıza maksimum 9 vadesiz hesap bağlayarak hesaplarınıza istediğiniz zaman ATM'den ulaşma imkânına sahip olabilirsiniz. Temassız Bankkart'ınız ile yaptığınız temaslı (şifreli) işlemlerde sadece ana hesabınız kullanılırken, temassız işlemlerinizde ise Elektronik Cüzdan'ınıza yüklü bulunan bakiyeniz kullanılır.
+Temassız Bankkart'ıma vadeli hesap bağlayabilir miyim?
+Temassız Bankkart'a sadece vadesiz mevduat hesapları bağlanabilir.
+Yurtdışına Temassız Bankkart gönderimi yapılıyor mu?
+Temassız Bankkart başvuru taleplerinde Bankamız yurtdışı şube veya iştiraklerine, mevcut bir Temassız Bankkart'ın yenilenmesi durumunda ise adrese gönderim yapılmaktadır.  Temassız Bankkart başvurusunun yurtdışında tesliminin talep edilmesi halinde, müşterilerimiz taleplerini şubelerine ileteceklerdir. Temassız Bankkart'ınız, taahhütname ile birlikte bulunduğunuz ülkedeki varsa Bankamız yurtdışı şube veya iştirakine postalanacaktır. İmzaladığınız taahhütnamenin müşterinin yurtiçi şubesine ulaşmasıyla Temassız Bankkart'ınız kullanıma açılır ve Temassız Bankkart şifrenizi 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz. Yenilenen bir Temassız Bankkart'ın yurtdışında tesliminin talep edilmesi halinde, müşterilerimiz taleplerini ve gönderim yapılacak açık adres bilgisini şubelerine veya 0850 258 00 00 Müşteri İletişim Merkezi'ne iletmeleri durumunda Temassız Bankkart'ınız doğrudan belirttiğiniz yurtdışı adresine postalanacaktır. Teslim aldığınız Temassız Bankkart'ınızın şifresini 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz.
+"Karta Para Yükleme" ne demektir?
+"Karta Para Yükleme" İnternet Şubemiz veya ATM'lerimiz aracılığıyla vadesiz mevduat hesabınızdan veya nakit olarak Para Yatırmalı ATM'lerimizden kart üzerindeki Elektronik Cüzdana yapılan yükleme işlemini ifade etmektedir.
+Temassız Bankkart'ıma ATM'den para yükledim, bu parayı nerede kullanabilirim?
+Temassız Bankkart'ınızla yapacağınız 50 TL ve altındaki alışveriş işlemlerinizi temassız olarak, şifre girmeden hızla gerçekleştirebilirsiniz. Ayrıca, yapacağınız temaslı (şifreli) işlemlerde vadesiz hesabınızdaki para yeterli olmadığında, karta yüklediğiniz para ile işlemi gerçekleştirebilirsiniz.
+Temassız Bankkart'ıma yüklemiş olduğum parayı hesabıma nasıl aktarabilirim?
+ATM'lerimizde bulunan "Karttan Hesaba İade" fonksiyonunu kullanarak Temassız Bankkart'ınız üzerinde bulunan tutarı vadesiz hesabınıza aktarabilirsiniz.
+Temassız Bankkart'ıma en fazla ne kadar para yükleyebilirim?
+Temassız Bankkart'ınızda en fazla 100 TL bulundurabilirsiniz. Dilerseniz bu limiti ATM'de "Kart Limiti Güncelleme" fonksiyonunu kullanarak değiştirebilirsiniz.
+Temassız Bankkart'ımda temassız işlemlerde kullanmak için sürekli olarak bir tutar bulunmasını istiyorum, ne yapmalıyım?
+ATM'lerimizden "Talimat İşlemleri" fonksiyonunu seçerek Temassız Bankkart'ınıza otomatik yükleme talimatı verebilirsiniz. Böylece kart bakiyeniz, belirlemiş olduğunuz limitin altına indiğinde ve vadesiz hesabınızda bakiye bulunması durumunda kartınızla yapacağınız ilk temaslı işleminizde kartınızdaki bakiye kart limitinize güncellenecektir.
+Temassız Bankkart'ım da otomatik yükleme talimatım var, nasıl iptal edebilirim?
+ATM'lerimizde bulunan "Talimat İşlemleri" menüsünden kartınıza tanımlı otomatik yükleme talimatınızı iptal edebilirsiniz.
+Temassız Bankkart'ımda bulunan parayı nakit olarak çekmek istiyorum, ne yapmalıyım?
+Temassız Bankkart'ınızda bulunan daha önceden yüklemiş olduğunuz tutarı vadesiz mevduat hesabınıza ATM'lerimizi kullanarak aktarabilir ve kolaylıkla çekebilirsiniz.
+E-cüzdan Nedir?
+Üzerine para yüklenebilen ve böylece Bankkartlar ile temassız işlem yapılabilmesine olanak veren bir kart özelliğidir.
+E-cüzdana yüklenen para şifre ile korunuyor mu?
+Hayır, E-cüzdana yüklenen para Elektronik Para hükmünde olup şifre ile korunmaz. Bununla birlikte Temassız Bankkart'ınıza bağlı vadesiz mevduat hesaplarınız diğer tüm Bankkartlar'da olduğu gibi şifre ile korunmakta olup, kayıp/çalıntı durumlarında şifresiz erişim sağlanamamaktadır.
+E-cüzdanında para bulunan Temassız Bankkart'ım kayboldu/çalındı. Ne yapmalıyım?
+Kart sahibi olarak kartınızı ve şifrenizi güvenli bir şekilde korumak ve saklamak sizin sorumluluğunuzdadır. Bunların çalınması, kaybolması veya benzeri durumlarda 0850 220 00 00 Müşteri İletişim Merkezi'ne derhal bildirim yapmalısınız. Kartın bozulması halinde kart bakiyesi Bankanın belirlediği süre sonunda yenilenen karta aktarılabilecektir. Kart bakiyesi şifreyle korunmadığından, kayıp veya çalıntı durumunda bakiye iadesi, Bankanın belirlediği süreden önce mümkün değildir. Bu süre sonunda kartta bulunan güncel bakiye yenilenen karta aktarılabilecektir. Karta yüklediğiniz ve merkezde tutulan bakiye ise (kayıp veya çalıntı nedeniyle kapatılan kartınızı yenilemeniz durumunda) yenilenen karta otomatik olarak aktarılmaktadır.
+E-cüzdanında bakiye bulunan Temassız Bankkart'ım ATM'de alıkondu. Ne yapmalıyım?
+E-cüzdanında bakiye bulunan bir Temassız Bankkart'ın Bankamız veya başka Banka ATM'sinde alıkonması durumunda kart kapatılmış olsa dahi en kısa zamanda Bankamız veya ilgili Banka şubesi ile irtibata geçilmesi gerekmektedir. Bu sayede temin edilen Temassız Bankkart'ın herhangi bir Banka ATM veya POS'unda kullanılmaya çalışılması durumunda kart bakiyesi yenilenen Temassız Bankkart'ınıza otomatik olarak aktarılacaktır. Aksi takdirde kart bakiyesinin transferi ya da iadesi mümkün değildir.
+Bankkart Genç'e nasıl başvurabilirim?
+GENC BANKKART yazıp 4747'ye SMS göndererek, 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak veya İnternet Şube/Mobil Şube aracılığıyla başvurabilir ya da en yakın Şubemize gelerek yeni kartını anında teslim alabilirsiniz.
+Bankkart Genç şifremi nasıl oluşturabilirim?
+Alışveriş ve ATM işlemlerinde kullanabileceğiniz Bankkart Genç'inizin şifresini; kartınızı teslim aldıktan sonra ATM'lerimizden/İnternet Şube'mizden veya 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz. Ayrıca, SIFRE yazıp aralarında boşluk "Kartınızın son 6 hanesi, Doğum Yeriniz, kartınızın arkasındaki 3 haneli güvenlik kodu" bilgilerinizi ekleyip 4757'e SMS göndererek de şifre alabilirsiniz. Doğum yeriniz Türkçe karakter içeriyorsa; SMS iletirken büyük, küçük harf farketmeksizin Türkçe karakter kullanılarak yazılmalıdır (İZMİR, IĞDIR, Çanakkale vb. gibi). SMS gönderdiğiniz telefonun mutlaka sistemimize yalnızca sizin adınıza kayıtlı olması gerekmektedir. Örnek SMS metni: SIFRE 123456 MUĞLA 123 veya SIFRE 123456 Muğla 123.
+Bankkart Genç şifremi unutursam ne yapmalıyım?
+Bankkart Genç şifrenizi unutmanız halinde; İnternet Şube'mizden veya 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak yeni şifre oluşturabilirsiniz.
+Halen kullandığım Bankkart Genç'in kredi kartı özelliği yok. Ne yapmam gerekiyor?
+Mevcut kartını 2015 yılından önce teslim aldıysan, en yakın Şubemizden kredi kartı özellikli yeni Genç Bankkart başvurusunda bulunabilir, kartını hemen teslim alabilirsin. Başvurun onaylanırsa Genç Bankkart'ın tüm özelliklerine ilave olarak yeni kartını kredi kartı olarak da kullanabileceksin.
+Bankkart Genç'imi alışverişlerde kullanabilir miyim?
+Yurt içinde ve yurt dışında tüm alışveriş noktalarında, yalnızca kart şifreni kullanarak güvenle alışveriş yapabilirsin. Kredi kartı özelliğinin açılması halinde kartını alışverişlerde hem banka kartı hem de kredi kartı olarak kullanabileceksin.
+İşlemi kredi kartı özelliğiyle mi yoksa banka kartı ile mi yapacağımı nasıl seçeceğim?
+ATM ve POS işlemlerinde karşına özel bir menü çıkacak ve bu menüden kartın hangi özelliğiyle işlem yapmak istediğini kolaylıkla seçebileceksin. Bunun için seçimini ödeme sırasında mağaza yetkilisine belirtmeyi unutma!
+Bankkart Genç'imi internet alışverişlerinde kullanabilir miyim?
+Kartın ön yüzündeki numara ile banka kartını, arka yüzündeki numara ile kredi kartı özelliğini kullanarak internet üzerinden güvenle alışveriş yapabilirsin.
+Bankkart Genç'imle temassız alışveriş yapabilir miyim?
+Genç Bankkart'ının kredi kartı özelliği açık değilse 50 TL ve altındaki alışverişlerini şifre girmeden sadece kartını okutarak hızla yapabilirsin. Bu durumda kartına para yüklemeyi unutma. Kartının kredi kartı özelliği açıksa temassız işlemlerini karta para yüklemene gerek kalmadan kredi kartı limitinden gerçekleştirebilirsin.
+Bankkart Genç'im kayboldu, ne yapmalıyım?
+Kayıp, çalıntı gibi istenmeyen bir durum yaşandığında 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak, İnternet Şube veya Mobil Şubeden eski kartını kapatarak yenisini talep edebilirsin. Yeni Bankkart Genç'in kısa sürede sana en yakın Şubemize gönderilecektir.
+Bankkart Genç'im çalındı, ne yapmalıyım?
+Kayıp, çalıntı gibi istenmeyen bir durum yaşandığında 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak, İnternet Şube veya Mobil Şubeden eski kartını kapatarak yenisini talep edebilirsin. Yeni Bankkart Genç'in kısa sürede sana en yakın Şubemize gönderilecektir.
+Harçlık Avans nedir?
+Harçlık Avans, KYK'dan burs/öğrenim kredisi alan üniversite öğrencilerinin Bankkart Genç'lerine tanımlanan, hesabında para bulunmasa bile sadece alışverişlerde kullanabileceği faizsiz/masrafsız bir alışveriş limitidir. Bu limit, Bankkart Genç'in bağlı olduğu vadesiz mevduat hesabında para kalmadığında devreye girerek sana ekstra alışveriş imkânı sağlar. Harçlık Avans'tan harcadığın tutar, KYK burs/öğrenim kredinden otomatik olarak tahsil edilir. KYK burs/öğrenim kredilerine yönelik detaylı bilgi için sitemize ziyaret ediniz.
+Harçlık Avans'ımı ATM'den nakit olarak çekebilir miyim?
+Hayır, Harçlık Avans'ı sadece alışverişlerde kullanılabilirsin.
+KYK'dan burs/öğrenim kredisi alıyorum fakat Bankkart Genç'im yok, Harçlık Avans'a başvurabilir miyim?
+Harçlık Avans sadece Bankkart Genç ile kullanılabilmektedir. KYK'dan burs/öğrenim kredisi alıyorsan ve Bankkart Genç'in yoksa Şubelerimizden, 0850 258 00 00 Müşteri İletişim Merkezi'nden, İnternet Şube'den, Mobil Şube'den veya GENC BANKKART yazıp 4747'ye SMS göndererek Bankkart Genç başvurusunda bulunabilirsin. Bankkart Genç'ini Şubemizden teslim alırken kartına Harçlık Avans tanımını da yaptırabilirsin.
+KYK'dan burs/öğrenim kredisi alıyorum, Bankkart Genç'im var ancak Harçlık Avans'ım yok. Nasıl tanımlatabilirim?
+Sana en yakın şubemize gelerek Harçlık Avans başvurusu yapabilirsin.
+Harçlık Avans'ımdan ne kadar harcadığımı, ne kadar limitim kaldığını nasıl öğrenebilirim?
+Harçlık Avans bakiyeni ve kalan limitini ATM'lerimizden, 0850 258 00 00 Müşteri İletişim Merkezi'nden, İnternet Şube'den, Mobil Şube'den veya HARCLIK AVANS BAKIYE yazıp 4747'ye SMS göndererek kolaylıkla öğrenebilirsin. Harçlık Avans'tan yaptığın harcamaları İnternet Şubemizde Bankkartlarım menüsüne girdiğinde Kart Hareketleri İzleme butonuyla açılan ekrandan Bankkart Genç'ini seçerek görebilirsin.
+Harçlık Avans'ımdan ne kadar limitim kaldığını nasıl öğrenebilirim?
+Harçlık Avans bakiyeni ve kalan limitini ATM'lerimizden, 0850 258 00 00 Müşteri İletişim Merkezi'nden, İnternet Şube'den, Mobil Şube'den veya HARCLIK AVANS BAKIYE yazıp 4747'ye SMS göndererek kolaylıkla öğrenebilirsin. Harçlık Avans'tan yaptığın harcamaları İnternet Şubemizde Bankkartlarım menüsüne girdiğinde Kart Hareketleri İzleme butonuyla açılan ekrandan Bankkart Genç'ini seçerek görebilirsin.
+Harçlık Avans'tan yaptığım harcamaları nereden izleyebilirim?
+Harçlık Avans bakiyeni ve kalan limitini ATM'lerimizden, 0850 258 00 00 Müşteri İletişim Merkezi'nden, İnternet Şube'den, Mobil Şube'den veya HARCLIK AVANS BAKIYE yazıp 4747'ye SMS göndererek kolaylıkla öğrenebilirsin. Harçlık Avans'tan yaptığın harcamaları İnternet Şubemizde Bankkartlarım menüsüne girdiğinde Kart Hareketleri İzleme butonuyla açılan ekrandan Bankkart Genç'ini seçerek görebilirsin.
+Mezun olduktan sonra Bankkart Genç'imi kullanmaya devam edebilir miyim?
+Mezun olduktan sonra Harçlık Avans'ın burs/öğrenim kredisi ödemen kesildiği için kullanıma kapatılacaktır. Genç Bankkart'ının Banka Kartı özelliğini alışveriş ve diğer bankacılık işlemlerinde, Kredi Kartı özelliğini daha önce açtırdıysan, alışverişlerinde ve kredi kartı ile yapılabilecek diğer işlemlerde, mezun olduktan sonra da kullanmaya devam edebilirsin.
+Mezun olduktan sonra Harçlık Avans'ımı kullanmaya devam edebilir miyim?
+Mezun olduktan sonra Harçlık Avans'ın burs/öğrenim kredisi ödemen kesildiği için kullanıma kapatılacaktır. Genç Bankkart'ının Banka Kartı özelliğini alışveriş ve diğer bankacılık işlemlerinde, Kredi Kartı özelliğini daha önce açtırdıysan, alışverişlerinde ve kredi kartı ile yapılabilecek diğer işlemlerde, mezun olduktan sonra da kullanmaya devam edebilirsin.
+Harçlık Avans limitim kapatılmış. Nedenini öğrenebilir miyim?
+Harçlık Avans limitin birkaç sebepten kapatılmış olabilir. KYK'dan burs/öğrenim kredisi almaya devam etmiyor olabilirsin.Ziraat Bankası'nda gecikmiş kredi kartı borcun varsa Hesap ya da borç durumun artık uygun değilse Detaylı bilgi almak için 0850 258 00 00 Müşteri İletişim Merkezi'ni arayabilir ya da en yakın şubemize başvurabilirsin.
+Kredi kartı özelliğine başvuru için hangi belgeler gerekli?
+Bu kart KYK'dan burs/öğrenim kredisi ödemesi alan öğrencilere özel olduğundan ek bir belge koşulu aranmadan başvuruda bulunabileceksin. Tek yapman gereken en yakın Şubemize başvurarak gerekli belgeleri tamamlamak ve anında teslim alacağın yeni kartının kredi kartı özelliğini açtırmak. Genç Bankkart'ını 2015 yılından önce teslim aldıysan, yine en yakın Şubemize gelerek kredi kartı özellikli yeni Genç Bankkart başvurusunda bulunabilir, kartını hemen teslim alabilirsin.
+Kredi kartı özelliği başvurusu sonrası yeni kartı beklemem gerekiyor mu?
+Hayır, başvuru anında kredi kartı özellikli Genç Bankkart'ın yoksa yeni kartın sana hemen teslim edilecek. Kredi kartı özelliği başvurun onaylandığı takdirde tekrar Şubemize gelmene gerek kalmadan Bankamız ATM'sinde öncelikle banka kartın ile şifreli bir işlem gerçekleştirmen, sonra kartını ATM'ye tekrar takarak görüntülenen menüden kredi kartını seçmen gerekiyor. Böylece kartının kredi kartı özelliği açılacak.
+Aynı anda hem Harçlık Avans hem de kredi kartı özelliğine sahip olabilecek miyim?
+KYK'dan burs/öğrenim kredisi ödemesi alıyorsan hem banka kartına tanımlanan Harçlık Avans'ını alışverişlerde kullanabilecek, hem de kredi kartı özelliği başvurun onaylanırsa anlaşmalı üye işyerlerinde sağlanan tüm avantajlardan faydalanabileceksin.
+Harçlık Avans'ımı kullanmak için POS menüsünde hangi özelliği seçmem gerekiyor?
+ATM ve POS işlemlerinde karşına çıkacak menüden banka kartı özelliğini seçerek Harçlık Avans'ını kullanabilirsin. Bu menüden kredi kartı özelliğini seçmen halinde yalnızca kredi kartı limitinden işlem yapabilirsin. Bunun için seçimini ödeme sırasında mağaza yetkilisine belirtmeyi unutma!
+Kredi kartı özelliğinin limiti nedir?
+Kart limiti başvuru sonucuna göre belirlenecektir.
+Kart ücreti var mı?
+Bu kart için istenen herhangi bir kart ücreti yoktur.
+Kredi kartı ekstre bilgilerimi nasıl öğrenebilirim?
+Kredi kartı özelliğiyle yaptığın harcamalara ilişkin ekstre e-posta adresine, borç tutarı ise SMS ile cep telefonuna gönderilecek. Ekstre bilgilerini ayrıca İnternet Şubesi, 0850 258 00 00 Müşteri İletişim Merkezi veya ATM'lerimizden öğrenebilirsin.
+Kredi kartı özelliğinin son ödeme tarihi ne olacak?
+KYK'dan burs/öğrenim kredisi ödemesi alıyorsan kartının kredi kartı özelliğinin son ödeme tarihi her ay burs/öğrenim kredisi ödemesi alma tarihini takip edecek şekilde otomatik olarak ayarlanacak. Değiştirmek istediğinde Şubelerimizden, 0 850 258 00 00 Müşteri İletişim Merkezi, İnternet Şube ve Ziraat Mobil'den bu değişikliği gerçekleştirebilirsin. Dönem borcunun tamamının ödenmesi için hesabına otomatik ödeme talimatı tanımlı olması nedeniyle ayrıca bir işlem yapmana gerek yok. Hesabında borç tutarını karşılayacak kadar bakiye bulundurman yeterli.
+Karta para yükleme ne demek?
+"Karta Para Yükleme" vadesiz mevduat hesabından veya nakit olarak ATM'lerimiz aracılığı ile kart üzerindeki elektronik cüzdana (çipe) yapılan yükleme işlemini ifade eder. Bu işlemi sadece Mastercard logosu bulunan çipli kartlar için yapabilirsiniz.
+Bankkart Genç'ime ATM'den para yükledim, bu parayı nerede kullanabilirim?
+Genç Bankkart'ının kredi kartı özelliği açılmadıysa yapacağın 50 TL ve altındaki alışveriş işlemlerini banka kartı özelliğini kullanarak ve şifre girmeden temassız olarak gerçekleştirebilirsin. Ayrıca, yapacağın temaslı işlemlerde vadesiz hesabındaki para yeterli olmadığında karta yüklediğin para ile işlemi gerçekleştirebilirsin.
+Bankkart Genç'ime yüklemiş olduğum parayı hesabıma nasıl aktarabilirim?
+ATM'lerimizde bulunan "Karttan Hesaba İade" fonksiyonunu kullanarak Genç Bankkart'ına yüklediğin parayı vadesiz hesabına aktarabilirsin.
+Bankkart Genç'ime en fazla ne kadar para yükleyebilirim?
+Genç Bankkart'ının elektronik cüzdanında en fazla 100 TL bulundurabilirsin. Dilersen bu limiti ATM'de "Kart Limiti Güncelleme" fonksiyonunu kullanarak azaltabilirsin.
+Bankkart Genç'imde temassız işlemlerde kullanmak için sürekli olarak bir tutar bulunmasını istiyorum, ne yapmalıyım?
+ATM'den "Talimat İşlemleri" fonksiyonunu seçerek Genç Bankkart'ına otomatik yükleme talimatı verebilirsin. Böylece kart bakiyen, belirlemiş olduğun limitin altına indiğinde vadesiz hesabında bakiye bulunması durumunda kartınla yapacağın ilk temaslı işleminde kartındaki bakiye kart limitine güncellenecektir. Kartının kredi kartı özelliği açıldıysa temassız işlemleri yalnızca kredi kartı limitinden gerçekleştirebilirsin.
+Bankkart Genç'imde otomatik yükleme talimatım var, nasıl iptal edebilirim?
+ATM'lerimizde bulunan "Talimat İşlemleri" menüsünden kartına tanımlı otomatik yükleme talimatını iptal edebilirsin.
+Bankkart Genç'ime yüklediğim parayı nakit olarak iade almak istiyorum, ne yapmalıyım?
+Genç Bankkart'ına daha önceden yüklemiş olduğun tutarı ATM'lerimizi kullanarak hesabına aktarabilir ve kolaylıkla çekebilirsin.
+Elektronik cüzdanında para bulunan Bankkart Genç'im kayboldu. Ne yapmalıyım?
+Kart sahibi olarak kartını ve şifreni güvenli bir şekilde korumak ve saklamak senin sorumluluğunda. Kayıp, çalıntı veya benzeri durumlarda 0850 258 00 00 Müşteri İletişim Merkezi'ne vakit kaybetmeden bildirim yapmalısın. Kartının bozulması halinde kart bakiyesi belirlediğimiz süre sonunda yenilenen kartına aktarılabilecektir. Kart bakiyesi şifreyle korunmadığından, kayıp veya çalıntı durumunda bakiye iadesi, belirlediğimiz süreden önce mümkün değil! Ancak bu süre sonunda kartında bulunan güncel bakiyeyi yenilenen kartına aktarabiliriz. Karta yüklediğin ve merkezde tutulan bakiye ise (kayıp veya çalıntı nedeniyle kapatılan kartını yenilemen durumunda) yenilenen kartına otomatik olarak aktarılır.
+Elektronik cüzdanında para bulunan Bankkart Genç'im çalındı. Ne yapmalıyım?
+Kart sahibi olarak kartını ve şifreni güvenli bir şekilde korumak ve saklamak senin sorumluluğunda. Kayıp, çalıntı veya benzeri durumlarda 0850 258 00 00 Müşteri İletişim Merkezi'ne vakit kaybetmeden bildirim yapmalısın. Kartının bozulması halinde kart bakiyesi belirlediğimiz süre sonunda yenilenen kartına aktarılabilecektir. Kart bakiyesi şifreyle korunmadığından, kayıp veya çalıntı durumunda bakiye iadesi, belirlediğimiz süreden önce mümkün değil! Ancak bu süre sonunda kartında bulunan güncel bakiyeyi yenilenen kartına aktarabiliriz. Karta yüklediğin ve merkezde tutulan bakiye ise (kayıp veya çalıntı nedeniyle kapatılan kartını yenilemen durumunda) yenilenen kartına otomatik olarak aktarılır.
+Kampüs Kart şifremi nasıl oluşturabilirim?
+Alışveriş ve ATM işlemlerinde kullanabileceğiniz Temassız Bankkart'ınızın şifresini; kartınızı teslim aldıktan sonra ATM'lerimizden/İnternet Şube'mizden veya 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak oluşturabilirsiniz. Ayrıca, SIFRE yazıp aralarında boşluk bırakarak "Kartınızın son 6 hanesi, Anne Kızlık Soyadınızın son 2 harfi veya Doğum Yeriniz, kartınızın arkasındaki 3 haneli güvenlik kodu" bilgilerinizi ekleyip 4757'e SMS göndererek de şifre alabilirsiniz. Doğum yeriniz veya anne kızlık soyadınız Türkçe karakter içeriyorsa; SMS iletirken büyük, küçük harf farketmeksizin Türkçe karakter kullanılarak yazılmalıdır (İZMİR, IĞDIR, Çanakkale vb. gibi). SMS gönderdiğiniz telefonun mutlaka sistemimize yalnızca sizin adınıza kayıtlı olması gerekmektedir. Örnek SMS metni: SIFRE 123456 MUĞLA 123 veya SIFRE 123456 Muğla 123.
+Kampüs Kart şifremi unutursam ne yapmalıyım?
+Temassız Bankkart şifrenizi unutmanız halinde; İnternet Şube'mizden veya 0850 258 00 00 Müşteri İletişim Merkezi'ni arayarak yeni şifre oluşturabilirsiniz.
+Kampüs Kart'ımı alışverişlerde kullanabilir miyim?
+Yurt içinde ve yurt dışında tüm alışveriş noktalarında, yalnızca kart şifrenizi kullanarak güvenle alışveriş yapabilirsiniz. 50 TL ve altındaki alışverişlerinizi ise Kampüs Kartınız ile şifre girmeden temassız olarak hızla yapabilirsiniz.
+Kampüs Kart ile internet üzerinden alışveriş yapabilir miyim?
+İnternet üzerinden üye işyerlerinden güvenle alışveriş yapabilirsiniz. Kampüs Kart ile günlük 3 boyutlu güvenlik kullanarak gerçekleştireceğiniz e-ticaret işlem limiti 1.000 TL'dir. İnternet üzerinden Ziraat Kampüs Kart ile taksitli alışveriş yapılamamaktadır. E-ticaret ile yurtiçinden yapılan işlemlerde komisyon alınmamaktadır.
+E-cüzdanında para bulunan Kampüs Kart'ım kayboldu. Ne yapmalıyım?
+Kart sahibi olarak kartınızı ve şifrenizi güvenli bir şekilde korumak ve saklamak sizin sorumluluğunuzdadır. Bunların çalınması, kaybolması veya benzeri durumlarda 0850 258 00 00 Müşteri İletişim Merkezi'ne derhal bildirim yapmalısınız. Kartın bozulması halinde kart bakiyesi Bankanın belirlediği süre sonunda yenilenen karta aktarılabilecektir. Kart bakiyesi şifreyle korunmadığından, kayıp veya çalıntı durumunda bakiye iadesi, Bankanın belirlediği süreden önce mümkün değildir. Bu süre sonunda kartta bulunan güncel bakiye yenilenen karta aktarılabilecektir. Karta yüklediğiniz ve merkezde tutulan bakiye ise (kayıp veya çalıntı nedeniyle kapatılan kartınızı yenilemeniz durumunda) yenilenen karta otomatik olarak aktarılmaktadır.
+E-cüzdanında para bulunan Kampüs Kart'ım çalındı. Ne yapmalıyım?
+Kart sahibi olarak kartınızı ve şifrenizi güvenli bir şekilde korumak ve saklamak sizin sorumluluğunuzdadır. Bunların çalınması, kaybolması veya benzeri durumlarda 0850 258 00 00 Müşteri İletişim Merkezi'ne derhal bildirim yapmalısınız. Kartın bozulması halinde kart bakiyesi Bankanın belirlediği süre sonunda yenilenen karta aktarılabilecektir. Kart bakiyesi şifreyle korunmadığından, kayıp veya çalıntı durumunda bakiye iadesi, Bankanın belirlediği süreden önce mümkün değildir. Bu süre sonunda kartta bulunan güncel bakiye yenilenen karta aktarılabilecektir. Karta yüklediğiniz ve merkezde tutulan bakiye ise (kayıp veya çalıntı nedeniyle kapatılan kartınızı yenilemeniz durumunda) yenilenen karta otomatik olarak aktarılmaktadır.
+Karta para yükleme ne demektir?
+"Karta Para Yükleme" vadesiz mevduat hesabınızdan veya para yatırmalı ATM'lerimiz aracılığı ile kart üzerindeki çipe yapılan yükleme işlemini ifade eder.
+Kampüs Kart'ıma ATM'den para yükledim, bu parayı nerede kullanabilirim?
+Kampüs Kart'ınızın üzerine yüklediğiniz tutarı kampüs içerisindeki yemekhane/kantin/kütüphane gibi yerlerde bulunan ödeme turnikelerinde kullanabilirsiniz. 50 TL ve altındaki alışverişlerinizi Kampüs Kart'ınız ile şifre girmeden temassız olarak hızla yapabilirsiniz. Ayrıca yapacağınız temaslı işlemlerde; vadesiz mevduat hesabınızda bakiye olmadığında ya da yetersiz kaldığında alışveriş işlem bedeli kartınıza yüklemiş olduğunuz tutardan tamamlanacaktır.
+Kampüs Kart'ıma yüklediğim bakiyeyi hesabıma nasıl aktarabilirim?
+ATM'lerimizde bulunan "Karttan Hesaba İade" fonksiyonunu kullanarak Kampüs Kart'ınız üzerinde bulunan tutarı vadesiz mevduat hesabınıza aktarabilirsiniz.
+Kampüs Kart'ımda temassız işlemlerde kullanmak için sürekli olarak para bulunmasını istiyorum. Ne yapmalıyım?
+ATM'den "Talimat İşlemleri" fonksiyonunu seçerek Kampüs Kart'ınıza otomatik yükleme talimatı verebilirsiniz. Talimat verdiğinizde, Bankamızdaki vadesiz mevduat hesabınızdan kartınıza otomatik olarak para aktarılacaktır. Böylece kartınızı, para bitme endişesi yaşamadan ve tekrar ATM'ye uğramanıza gerek kalmadan, rahatça kullanabilirsiniz. Örneğin, Bankamız ATM'leri aracılığı ile vereceğiniz 10 TL'lik "Otomatik Yükleme Talimatı" ile Bankkart'ınızdaki bakiye her zaman 10 TL olarak güncellenecektir. Bir başka deyişle; siz kartınızdaki bakiyeden harcama yaptıkça, vadesiz mevduat hesabınızdan Bankkart'a para aktarılacak ve böylece kart bakiyesi otomatik olarak 10 TL'de tutulacaktır. Unutmayın! "Otomatik Yükleme Talimatı"nın çalışması için Bankkart'ınızla ATM yada POS'ta işlem yapmanız gerekmektedir.
+Kampüs Kart'ımda otomatik yükleme talimatım var, nasıl iptal edebilirim?
+ATM'lerimizde bulunan "Talimat İşlemleri" menüsünden kartınıza tanımlı otomatik yükleme talimatınızı iptal edebilirsiniz.
+Kampüs Kart'ımda bulunan parayı nakit olarak çekmek istiyorum, ne yapmalıyım?
+Kampüs Kart'ınızda bulunan daha önceden yüklemiş olduğunuz tutarı hesabınıza ATM'lerimizi kullanarak aktarabilir ve kolaylıkla çekebilirsiniz.
+POS cihazınıza sahip olmak istiyorum, ne yapmalıyım?
+En yakın Ziraat Bankası şubesine başvurmalısınız. Ayrıca bankkartpos.com.tr web sitemizden ön başvuruda bulunabilirsiniz.
+POS cihazımla ilgili sorun yaşıyorum, ne yapmalıyım?
+0850 202 35 00 POS İletişim Merkezimizi arayabilirsiniz.
+POS slip rulomuz bitti, nasıl temin edebilirim?
+Tüm pos cihazlarımızda cihaz üzerinden aşağıdaki menülerden rulo talebinde bulunabilirsiniz. F1 -> İŞLEMLER MENÜSÜ -> ÖZEL İŞLEMLER -> MALZEME TALEP Ayrıca 0850 202 35 00 numaralı POS İletişim Merkezimizi arayarak Üye İşyeri Platformundan Bildirimler ve Talepler menüsünden talepte bulunabilirsiniz.
+Sticker talebini nasıl yapabilirim?
+0850 202 35 00 POS İletişim Merkezimizi arayarak Üye İşyeri Platformundan Bildirimler ve Talepler menüsünden Sticker talebinde bulunabilirsiniz.
+Gün sonu raporunu nasıl alabilirim?
+POS cihazınız üzerinden; Sagem Ingenico cihazlarda sırasıyla F- Fonksiyon Tuşu 1.İş Yeri Menü 2.Gün sonu Verifone Vx-510 , Vx-520 ve Vx-670 cihazlarda Alfa Tuşu 1.İşyeri Menü 2 .Gün Sonu Vx-680 nolu cihaz dokunmatik olduğundan ekran üzerindeki gün sonu butonundan gün sonu alınabilir.
+Hesap ekstremi nasıl temin edebilirim?
+0850 202 35 00 POS İletişim Merkezini arayarak ve Üye İşyeri Platformundan  talep edebilirsiniz. (POS ekstreleri her ay düzenli olarak gönderilmekte olup her ayın 10. gününe kadar elinizde olacak şekilde postaya verilmektedir. Lütfen 0850 202 35 00 POS İletişim Merkezimizi arayıp ya da şubenize bizzat başvurarak işyeri adresinizi kontrol ediniz.)
+Fiyatlama ve çalışma koşullarımda değişiklik yapmak istiyorum. Ne yapmalıyım?
+POS cihazı almış olduğunuz (müşterisi olduğunuz) şubenize başvurarak ya da Üye İşyeri Platformundan talepte bulunabilirsiniz.
+İkinci bir POS cihazı almak istiyorum, ne yapmalıyım?
+POS cihazı almış olduğunuz (müşterisi olduğunuz) şubenize başvurarak ya da Üye İşyeri Platformundan talepte bulunabilirsiniz.
+İkinci bir POS cihazı almak istiyorum/pos cihazımın türünü (masaüstü-mobil) değiştirmek istiyorum/ ne yapmalıyım?
+POS cihazı almış olduğunuz (müşterisi olduğunuz) şubenize başvurarak ya da Üye İşyeri Platformundan talepte bulunabilirsiniz.
+Pos cihazımın türünü (masaüstü-mobil) değiştirmek istiyorum, ne yapmalıyım?
+POS cihazı almış olduğunuz (müşterisi olduğunuz) şubenize başvurarak ya da Üye İşyeri Platformundan talepte bulunabilirsiniz.
+Müşteri yaptığı alıverişten vazgeçti ne yapmalıyım?
+POS üzerinde iade yetkiniz var ise, iade işlemini cihaz üzerinden yapabilirsiniz. (Not: POS üzerinde iade yetkiniz olup olmadığını, POS üzerinden işlemler menüsüne girerek tespit edebilirsiniz.) POS üzerinde iade yetkiniz yok ise 0850 202 35 00 nolu POS İletişim Merkezimizi arayıp destek alabilirsiniz.
+POS üzerinden bugün gün sonu yaptım ne zaman hesabıma geçer?
+POS üzerinden yapılan gün sonu; blokesiz çalışıyorsanız bir gün sonra hesabınıza geçer. Blokeli çalışıyorsanız bloke süresinin bittiği günün ertesi günü hesabınıza geçer. (NOT: Blokeli çalışan hesaplarda, bloke süresi gün sonu yapıldığı günden sonraki gün başlar) Çalışma koşullarınızı öğrenebilmek için müşterisi olduğunuz şubeye başvurabilir, 0850 202 35 00 POS İletişim Merkezimizi arayabilirsiniz.
+Pos cihazımı kullandığım işyerini devrettim/cihazı kullandığım iş adresim değişti/tabela unvanım değişti ne yapmalıyım?
+POS cihazı almış olduğunuz (müşterisi olduğunuz) şubenize başvurmalısınız.
+Pos cihazı kullandığım iş adresim değişti, ne yapmalıyım?
+POS cihazı almış olduğunuz (müşterisi olduğunuz) şubenize başvurmalısınız.
+Tabela unvanım değişti ne yapmalıyım?
+POS cihazı almış olduğunuz (müşterisi olduğunuz) şubenize başvurmalısınız.
+POS cihazında yaptığım işlemler, hesabıma eksik geçmiş ne yapmalıyım?
+Gün sonu makbuzunuzu kontrol edin. Komisyon tutarını düştükten sonra kalan tutarda eksiklik varsa 0850 202 35 00 POS İletişim Merkezimizi arayabilirsiniz. Ayrıca gün sonu raporunuzu Üye İşyeri Platformundan detaylı olarak inceleyebilirsiniz.
+OGS başvurumu nasıl yapabilirim?
+OGS etiketi satın almak için; Tüm Ziraat Bankası Şubelerinden, 0850 220 00 00 no'lu Müşteri İletişim Merkezimizden bize ulaşın. Ziraat İnternet Şubesi'nden başvuru yapmak için sitemize ziyaret ediniz. 
+OGS etiketi satın almak için gerekli belgeler nedir?
+Bireysel başvuru için; araç ruhsatı ve kimlik belgenizi getirmeniz yeterlidir. Tüzel Kişiler için; araç ruhsatı, yetki belgesi, imza sirküleri gerekmektedir.Kiralık araç için OGS etiketi satın almak istiyorsanız, aracı kiralayan ya da kiraya veren taraflar arasında yapılan kira sözleşmesini getirmeniz gerekmektedir.
+OGS etiketi satın alırken ne kadar masraf ödeyeceğim?
+40 TL etiket bedeli, İlk yükleme bedeli, Depozito bedeli.
+OGS hesabına nasıl para yatırılabilir?
+OGS hesabınıza; Nakit  EFT ATM aracılığıyla kontör yüklemek için sitemize ziyaret ediniz. Bankamız Kredi Kartı Hesaptan Ziraat İnternet Şubesi'nden aracılığıyla kontör yüklemek için sitemize ziyaret ediniz. 0850 220 00 00 Müşteri İletişim Merkezi aracılığıyla kontör yüklemek için bize ulaşın. Ayrıca OGS etiketi satın alabileceğiniz noktalardan vereceğiniz otomatik ödeme talimatı ile Bankamız kredi kartından ya da vadesiz hesabınızdan da düzenli olarak ödemelerinizi gerçekleştirebilirsiniz.
+Minimum / Maksimum kontör miktarı nedir?
+OGS yükleme sınırı minimum 10 kontör olup, maksimum 2500 TL'ye denk gelen kontör miktarını yükleyebilirsiniz.
+Maksimum kontör miktarı nedir?
+OGS yükleme sınırı minimum 10 kontör olup, maksimum 2500 TL'ye denk gelen kontör miktarını yükleyebilirsiniz.
+Minimum kontör miktarı nedir?
+OGS yükleme sınırı minimum 10 kontör olup, maksimum 2500 TL'ye denk gelen kontör miktarını yükleyebilirsiniz.
+OGS hesap bakiyemi nasıl öğrenebilirim?
+OGS hesap bakiyenizi; Şubelerimizden OGS hesap bakiyenizi öğrenmek için sitemize ziyaret ediniz. 0850 220 00 00 Müşteri İletişim Merkezimizden OGS hesap bakiyenizi öğrenmek için sitemize ziyaret ediniz. ziraatbank.com.tr OGS hesap bakiyenizi öğrenmek için sitemize ziyaret ediniz.
+OGS etiketim için kredi kartımdan otomatik ödeme talimatım var, kredi kartı limitim müsait olmasına rağmen OGS hesabım için ödeme alınmamış, ne yapmam gerekiyor?
+Kredi kartınızın vadesi geçmiş olabilir. Otomatik ödeme talimat bilgileriniz eksik olabilir. Böyle bir durumda 0850 220 00 00 numaralı Müşteri İletişim Merkezimize başvurabilirsiniz.
+EFT yoluyla OGS ödemesini nasıl yapabilirim?
+EFT yaparken, Bankamız şubelerinden birini seçmeniz, hesap numarası olarak etiket numaranızı girmeniz, alıcı etiketin kayıtlı olduğu şahıs veya şirket yazılarak açıklama olarak ise "OGS Hesabına Ödeme" olarak belirtmeniz yeterlidir.
+OGS hesabımda ne kadarlık bakiye kalana kadar kullanabilirim? Hesabımdaki bakiyenin bittiğini nasıl anlayabilirim?
+OGS hesabı negatife düştüğü andan itibaren geçişler ihlalli gerçekleşir. Kontörünüzün az olduğunu, geçiş sırasında gişelerden alınan "Kredi Az" sinyallerinden anlayabilirsiniz. Kredi az uyarısı alındığında hesap özetinizi beklemeden bakiyenize yükleme yapabilirsiniz.
+İnternet OGS şifresini nereden alabilirim?
+Etiketinizi ilk satın aldığınız zaman size verilen dekontta şifreniz yer almakta olup, 0850 220 00 00 numaralı Çağrı Merkezimizden etiket numaranızı belirterek OGS şifrenizi talep edebilirsiniz.
+OGS arızası durumunda ne yapmalıyım? Nereye başvurmalıyım?
+Karayolları Genel Müdürlüğünün internet sitesinde belirtilen noktalardan alınacak arıza raporu ve etiket ile birlikte yetkili şubelerimize başvurabilirsiniz.
+OGS arızası durumunda ne yapmalıyım?
+Karayolları Genel Müdürlüğünün internet sitesinde belirtilen noktalardan alınacak arıza raporu ve etiket ile birlikte yetkili şubelerimize başvurabilirsiniz.
+OGS arızası durumunda nereye başvurmalıyım?
+Karayolları Genel Müdürlüğünün internet sitesinde belirtilen noktalardan alınacak arıza raporu ve etiket ile birlikte yetkili şubelerimize başvurabilirsiniz.
+Etiketi aldıktan sonra ne kadar sürede aktif hale geliyor?
+OGS'nin, Şubelerimizden satın alınması durumunda; etiketinizi teslim aldığınız anda cihazınız aktif hale gelir. OGS etiketinizi; Bankamız internet sitesinden veya Çağrı Merkezimizden satın almanız durumunda ise cihazı kargodan teslim aldığınız anda Bankamızın 0850 220 00 00 numaralı müşteri hizmetleri hattını arayarak OGS cihazınızı aktif hale getirmeniz gerekmektedir.
+OGS kaçak geçiş ücreti nedir?
+Köprü geçiş ücretinin 10 katı, diğer otoyollarda ise en uzun mesafe ücretinin 10 katıdır.
+OGS ile ilgili sorunlarda nerelere başvurulmalıdır?
+Fatih Sultan Mehmet Köprüsünde bulunan, Karayolları Genel Müdürlüğüne ait OGS danışma merkezinin 7/24 saat hizmet veren 444 11 17 numaralı Karayolları Çağrı Merkezinden bilgi alabilirsiniz.
+OGS cihazım kayboldu / çalındı ne yapmam gerekir?
+OGS etiketinizin iptali için yetkili Şubelerimizden herhangi birine başvurarak ya da Bankamızın 0850 220 00 00 numaralı Müşteri İletişim Merkezini arayarak cihazınızı iptal ettirebilirsiniz. Kayıp bildirimi yapmadığınız durumda, yapılan geçişleri ihlalli geçiş ücreti olarak ödemek zorunda kalabilirsiniz.
+OGS cihazım kayboldu ne yapmam gerekir?
+OGS etiketinizin iptali için yetkili Şubelerimizden herhangi birine başvurarak ya da Bankamızın 0850 220 00 00 numaralı Müşteri İletişim Merkezini arayarak cihazınızı iptal ettirebilirsiniz. Kayıp bildirimi yapmadığınız durumda, yapılan geçişleri ihlalli geçiş ücreti olarak ödemek zorunda kalabilirsiniz.
+OGS cihazım çalındı ne yapmam gerekir?
+OGS etiketinizin iptali için yetkili Şubelerimizden herhangi birine başvurarak ya da Bankamızın 0850 220 00 00 numaralı Müşteri İletişim Merkezini arayarak cihazınızı iptal ettirebilirsiniz. Kayıp bildirimi yapmadığınız durumda, yapılan geçişleri ihlalli geçiş ücreti olarak ödemek zorunda kalabilirsiniz.
+HGS için asgari yükleme tutarı nedir?
+HGS etiket/kartınızın ilk aktivasyonu sırasında, belirlenen minimum yükleme tutarının geçişlerde kullanılmak üzere HGS'ye yüklenmesi gerekmektedir. HGS ilk yükleme tutarı asgari limitleri; 1. sınıf araçlar için 30 TL, 2. sınıf araçlar için 37,5 TL, 3. sınıf araçlar için 70 TL, 4. sınıf araçlar için 80 TL ve 5. sınıf araçlar için 90 TL'dir.
+HGS etiketime ne şekilde yükleme yapabilirim?
+Ziraat Bankası Kredi Kartınıza, Kredili Mevduat Hesabınıza ya da Vadesiz Mevduat Hesabınıza vereceğiniz otomatik ödeme talimatı ile belirli bir limitin altına düştüğünde HGS etiket bakiyenize otomatik olarak yükleme gerçekleştirilecektir.
+Aynı kişi birden fazla HGS etiketi alabilir mi?
+Bir kişi birden fazla HGS etiketi alabilmektedir.
+HGS etiketi ile ilişkilendirilen plaka numarası değiştirilebilir mi?
+HGS etiketi ile ilişkilendirilen plaka numarasında değişiklik yapılabilir. Ancak etiketin, araç camından çıkarıldığında işlevini yitirdiği ve kullanılamaz hâle geldiği unutulmamalıdır.
+Yeni bir etiket aldım, eski etiketin bakiyesini aktarabilir miyim?
+Aktif bir etiketin bakiyesi, yeni alınan bir etikete aktarılabilmektedir. Aktarım 7 gün sonra gerçekleşmekte olup hangi etiketten bakiye aktarımı yapıldı ise o ürün iptal edilmektedir. Kısmı bakiye aktarımı ise yapılmamaktadır.
+Ziraat Bankası'ndan aldığım OGS cihazlarındaki bakiyeyi HGS etiketime aktarmak istiyorum. Bu durumda ne yapmalıyım?
+Yetkili Şubelerimizden OGS etiketindeki bakiye, HGS etiketine aktarılabilmektedir. OGS etiketinden HGS ürününe bakiye aktarımı, OGS etiketinin iptal tarihinden 30 gün sonra gerçekleşmektedir.
+Etiketin arızalanması veya kullanılamaz duruma gelmesi hâlinde ne yapmalıyım?
+Etiketinizin arızalanması veya kullanılamaz duruma gelmesi durumunda, Şubelerimize başvurarak etiket içerisindeki bakiyenin iadesini talep edebilirsiniz. Etiket içerisindeki bakiye, başvuru tarihinizden 30 gün sonra Ziraat Bankası hesabınıza aktarılacaktır. Garanti kapsamında olan bir etiketin ücretsiz değiştirilmesi işlemi için PTT'ye başvurulması gerekmektedir.
+HGS etiketi yaptığım geçiş hareketlerini nasıl takip edebilirim?
+Geçiş hareketlerine ilişkin bilgileri Şubelerimizden öğrenebilirsiniz.
+Etiketimde yeterli bakiye olmadan geçiş yaparsam ne olur?
+HGS etiketiniz; PTT tarafından otomatik olarak kara listeye alınır ve 15 gün içinde yapılan kaçak geçiş tutarının yatırılmaması durumunda, bu geçişler PTT tarafından ihlal sayılarak aracın ruhsat sahibine cezalı olarak tebligat gönderilir.
+Etiketimin çalınması veya kaybolması durumunda ne yapmalıyım?
+Bu durumda etiket iptali için yetkili Şubelerimize başvurmanız gerekmektedir.
+Aracımı sattıktan sonra HGS etiketimi başka bir araçta kullanabilir miyim?
+Yapıştırıldığı yerden çıkarılması durumunda etiket geçersiz sayılacağı içinkullanıma devam edemezsiniz.
+Geçiş yaparken HGS etiketim okunamadı, ne yapmalıyım?
+HGS etiketinizin geçiş esnasında okunamaması durumunda, geçiş tutarınız plakadan tespit yöntemi ile etiketiniz üzerinden tahsil edilecektir.
+HGS etiketinde sınıf değişikliği yapılabilir mi?
+HGS etiketinde sınıf değişikliği yapılamamaktadır.
+HGS etiketimi iptal ettirdiğim zaman etiket bedelini ve içerisindeki bakiyemi alabilir miyim?
+HGS etiketinin satış bedelinin iadesi mümkün olmamaktadır. HGS etiketinin kaybolması, çalınması, herhangi bir nedenle iptal ya da iade edilmesi durumunda; hesapta kalan bakiye hesabın kapanma tarihinden 30 gün sonra, varsa yapılan geçiş tutarlarının mahsup edilmesini takiben, Ziraat Bankasıhesabınıza iade edilecektir.
+yatırım hesabı görüntüleme
+Hesabınız bulunan herhangi bir şubemizden Yatırım hesabınızın bağlı olduğu vadesiz hesabınızı tanımlatarak internet bankacılığınızdan Yatırım hesabınızı kullanabilirsiniz.
+yatırım hesabı nasıl görüntülenir
+Hesabınız bulunan herhangi bir şubemizden Yatırım hesabınızın bağlı olduğu vadesiz hesabınızı tanımlatarak internet bankacılığınızdan Yatırım hesabınızı kullanabilirsiniz.
+kartım çalındı
+En kısa sürede 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak bilgi vermeniz gerekmektedir. Kartınızın çalındığını/kaybolduğunu haber vermeniz durumunda kartınız iptal edilecek ve talep etmeniz halinde yenisi adresinize gönderilecektir.
+kartım kayboldu
+En kısa sürede 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak bilgi vermeniz gerekmektedir. Kartınızın çalındığını/kaybolduğunu haber vermeniz durumunda kartınız iptal edilecek ve talep etmeniz halinde yenisi adresinize gönderilecektir.
+kartım kayboldu, ne yapmalıyım?
+En kısa sürede 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak bilgi vermeniz gerekmektedir. Kartınızın çalındığını/kaybolduğunu haber vermeniz durumunda kartınız iptal edilecek ve talep etmeniz halinde yenisi adresinize gönderilecektir.
+nasıl hesap açarım?
+Menüde Kartlarım – Bankkartlarım başlığı altından hesap ekleme/çıkarma işlemini yapmak istediğiniz kartı seçtikten sonra sağ üst köşede yer alan İşlemler'e tıkladığınızda Hesap Ekleme/Çıkarma işlemini seçerek işleminizi yapabilirsiniz.
+Iban numaramı öğrenmek istiyorum.
+Bankkartınızın üzerinde yer alan 16 haneli kart numaranızın hemen altında IBAN hesap numaranız 26 haneli olarak yer almaktadır. Ayrıca hesabınıza ait IBAN numaranızı en yakın şubemizden, ATM'lerimizden, 7 gün 24 saat hizmet alabileceğiniz 0850 220 00 00 numaralı Müşteri İletişim Merkezi'mizden veya /tr/bankamiz/musteri-iliskileri/iban-hesaplama adresimizden öğrenebilirsiniz. 
+ziraat bankası açılış saatleri nedir?
+Döviz Alış / Satış : 24 saat Arbitraj : 24 saat Havale : 24 saat SWIFT : 24 saat EFT : 08:30 – 17:00 Gram Altın  (Tam Gün) : 1. Seans: 09:30-16:00 2. Seans : 18:30-08:00 (Yarım Gün) : 1. Seans: 09:30-11:00 2. Seans : 14:00-08:00 Repo : 1. Seans: 09:30-15:30 2. Seans : 18:30-08:30 Hazine bonosu devlet Tahvili alım satım (TL) : 1. Seans: Kesin Alış 09:00-16:00, Kesin Satış: 09:00-16:30 Hazine bonosu devlet Tahvili alım satım (YP) : 1. Seans: Kesin Alış 09:00-16:00, Kesin Satış: 09:00-16:30 Tahvili alım satım (YP) : 2. Seans : --- Başkent Doğalgaz: 08:00 – 20:00 D-Smart NET, Smile ADSL: 01:00 – 17:30 İSKİ Su: 01:00 - 21:00 Fatura, Vergi, Sigorta, Bağış, SGK, Eğitim, TL Yükleme, Şans Oyunları ve diğer ödemeler: 24 saat (Gün sonu hariç) B Tipi Likit Fon: 24 Saat Likit Dışı B Tipi Fonlar: 09:00 – 16:30 – 18:00-08:59 A Tipi Fonlar: 09:00 – 16:30 – 18:00-08:59 Anapara Koruma Amaçlı Fonlar: 09:00 – 17:00 Vadesiz Altın Alış ve Satış: USD Hesaptan – 09:00 – 18:00 TL Hesaptan – 24 saat Yurtkur ödemeleri: 01:00 - 23:30
+müşteri hizmetlerine nasıl ulaşabilirim
+Tüm telefonlardan alan kodu çevirmeden direkt 444 00 00 - 0850 220 00 00'ı tuşlayarak Müşteri İletişim Merkezi'mize ulaşabilirsiniz.
+ziraat bankasının mobil işlemlerine ücret ödenilir mi?
+İnternet ve mobil bankacılıktan yapılan işlem ücretleri hakkında bilgi almak için siteye ziyaret ediniz.
+mobil işlemlerine para ödenilir mi?
+İnternet ve mobil bankacılıktan yapılan işlem ücretleri hakkında bilgi almak için siteye ziyaret ediniz.
+limit nasıl değiştirilir
+Bireysel İnternet bankacılığımızda İşlem Limiti Tanımlama ekranından dilediğiniz işlemin günlük limitini düşürebilirsiniz. Limitinizi Bankamız limitleri üzerinde olmamak kaydıyla, 0850 220 00 00 nolu müşteri hizmetlerimizden yükseltebilirsiniz. Bireysel internet bankacılığı limitlerinizin Bankamız limitlerinin üzerine çıkarılması talepleriniz için Şubenize başvurabilirsiniz.
+yaptığım eft'yi iptal etmek istiyorum
+İnternet Bankacılığı' nda Düzenli Ödeme Talimatları başlığı altından yaptığınız ileri tarihli EFT'yi görüntüleyebilirsiniz. Görüntülenen listeden ileri tarihli EFT işleminizi iptal edebilirsiniz.
+kaça kadar internet bankacılığı kullanabilirim?
+Döviz Alış / Satış : 24 saat Arbitraj : 24 saat Havale : 24 saat SWIFT : 24 saat EFT : 08:30 – 17:00 Gram Altın  (Tam Gün) : 1. Seans: 09:30-16:00 2. Seans : 18:30-08:00 (Yarım Gün) : 1. Seans: 09:30-11:00 2. Seans : 14:00-08:00 Repo : 1. Seans: 09:30-15:30 2. Seans : 18:30-08:30 Hazine bonosu devlet Tahvili alım satım (TL) : 1. Seans: Kesin Alış 09:00-16:00, Kesin Satış: 09:00-16:30 Hazine bonosu devlet Tahvili alım satım (YP) : 1. Seans: Kesin Alış 09:00-16:00, Kesin Satış: 09:00-16:30 Tahvili alım satım (YP) : 2. Seans : --- Başkent Doğalgaz: 08:00 – 20:00 D-Smart NET, Smile ADSL: 01:00 – 17:30 İSKİ Su: 01:00 - 21:00 Fatura, Vergi, Sigorta, Bağış, SGK, Eğitim, TL Yükleme, Şans Oyunları ve diğer ödemeler: 24 saat (Gün sonu hariç) B Tipi Likit Fon: 24 Saat Likit Dışı B Tipi Fonlar: 09:00 – 16:30 – 18:00-08:59 A Tipi Fonlar: 09:00 – 16:30 – 18:00-08:59 Anapara Koruma Amaçlı Fonlar: 09:00 – 17:00 Vadesiz Altın Alış ve Satış: USD Hesaptan – 09:00 – 18:00 TL Hesaptan – 24 saat Yurtkur ödemeleri: 01:00 - 23:30
+hesabımı kapatmak istiyorum.
+Hesabınızı internet bankacılığından veya hesabınızın bulunduğu Ziraat Bankası şubesine giderek kapatabilirsiniz.
+şifremi unuttum
+İnternet bankacılığı giriş şifresini unutan bireysel kullanıcılarımız giriş ekranlarında yer alan Şifremi Unuttum linkinden yeni şifre oluşturabilirler.
+ziraat dosya masrafı ne kadar alıyor?
+40 TL etiket bedeli, İlk yükleme bedeli, Depozito bedeli.
+ATM'de kartım yapmalıyım?
+En kısa sürede 444 00 00 - 0850 220 00 00 Müşteri İletişim Merkezi'ni arayarak bilgi vermeniz gerekmektedir. Kartınızın çalındığını/kaybolduğunu haber vermeniz durumunda kartınız iptal edilecek ve talep etmeniz halinde yenisi adresinize gönderilecektir.
+ziraat bankasına nasıl ulaşılır?
+Ziraat İnternet bankacılığı'na; www.ziraatbank.com.tr www.ziraat.com.tr adreslerinden İnternet Şubesi girişini tıklayarak ulaşabilirsiniz. 
+EFT nasıl iptal edilir?
+internet Bankacılığı' nda Düzenli Ödeme Talimatları başlığı altından yaptığınız ileri tarihli EFT'yi görüntüleyebilirsiniz. Görüntülenen listeden ileri tarihli EFT işleminizi iptal edebilirsiniz.
+nasıl dekont alırım?
+İnternet ve mobil bankacılıkta işleminiz gerçekleştirildikten sonra mail adresinizi yazarak dekontun mail adresinize gönderilmesini sağlayabilirsiniz. İşlem esnasında dekont gönderimi yapamadıysanız, işlem sonrasında hesaplarım altından, işlem yapmış olduğunuz hesabı seçerek hesap hareketlerinden işleminizin detayına tıkladıktan sonra dekont gönder tuşuna basarak mail adresinize dekontunuzu gönderebilirsiniz.
+internet bankacılığına nasıl erişebilirim?
+Ziraat İnternet bankacılığı'na; www.ziraatbank.com.tr www.ziraat.com.tr adreslerinden İnternet Şubesi girişini tıklayarak ulaşabilirsiniz. 
+yatırım hesabımı nasıl görüntülerim?
+Hesabınız bulunan herhangi bir şubemizden Yatırım hesabınızın bağlı olduğu vadesiz hesabınızı tanımlatarak internet bankacılığınızdan Yatırım hesabınızı kullanabilirsiniz.
+hesabımı nasıl kapatabilirim?
+Hesabınızı internet bankacılığından veya hesabınızın bulunduğu Ziraat Bankası şubesine giderek kapatabilirsiniz.
+şifrem bloke oldu
+İnternet bankacılığı giriş şifresini unutan kullanıcılarımız giriş ekranlarında yer alan Şifremi Unuttum linkinden yeni şifre oluşturabilirler.
+Cep telefonu bilgilerimi nasıl güncelleyebilirim?
+Müşterilerimiz, cep telefonu bilgilerini, kendi güvenlikleri için sadece şubelerimizden tanımlatabilmekte veya güncelletebilmektedir. Cep telefonu numaranız ya da SIM kartınız değiştiğinde en kısa sürede şubenize uğrayarak cep telefonu numaranızı güncelletmeniz ve şube veya ATM aracılığı ile sim kart blokenizi kaldırmanız gerekmektedir.
+cep telefon numaramı nasıl değiştirebilirim?
+Müşterilerimiz, cep telefonu bilgilerini, kendi güvenlikleri için sadece şubelerimizden tanımlatabilmekte veya güncelletebilmektedir. Cep telefonu numaranız ya da SIM kartınız değiştiğinde en kısa sürede şubenize uğrayarak cep telefonu numaranızı güncelletmeniz ve şube veya ATM aracılığı ile sim kart blokenizi kaldırmanız gerekmektedir.
+ATM'den hangi işlemleri yapabilirim?
+Ziraat ATM'lerinden yapabileceğiniz işlemleri görmek için lütfen sitemize ziyaret ediniz.
+Nasıl yatırım fonu alınır?
+Ziraat Bankası şubelerinden ve diğer tüm alternatif dağıtım kanallarımızdan (İnternet Şubemiz, Mobil Şubemiz, ATM, Telefon Bankacılığı) fon alım/satımı yapabilirsiniz. Bunun için öncelikle Bankamız nezdinde bir yatırım hesabınızın açılması gerekmektedir. Yatırım fonlarının getirileri hakkında nereden bilgi alabilirim? Ziraat Finans Grubu yatırım fonlarının tarihsel getirilerine ilişkin detaylı bilgilere; Ziraat Portföy Yönetimi A.Ş. internet sitesindeki Yönettiğimiz Fonlar bölümüne erişmek için siteye ziyaret ediniz. "Yönettiğimiz Fonlar" bölümünden erişebilmektedir.
+Hatalı göndermiş olduğum havale ya da EFT'yi iptal edebilir miyim?
+İnternet bankacılığı aracılığıyla gerçekleşen işlemler gerçek zamanlı (çevrimiçi) işlemlerdir ve iptali mümkün olmamaktadır. İptal işlemi için işlemin gerçekleştiği hesabın bulunduğu Şubemize gitmeniz gerekmektedir.
+nasıl swift işlemi yapılır?
+Yurtdışı Para Transferi işleminizi İnternet Bankacılığından Para Transferleri-Döviz Transferi (SWIFT) bölümünden gerçekleştirebilirsiniz. İşlem masrafı ise onay ekranında görünmektedir. Ziraat Bankası SWIFT kodu: TCZBTR2A
+Mobil'den nasıl hesap ekleyebilirim?
+Menüde Kartlarım – Bankkartlarım başlığı altından hesap ekleme/çıkarma işlemini yapmak istediğiniz kartı seçtikten sonra sağ üst köşede yer alan İşlemler'e tıkladığınızda Hesap Ekleme/Çıkarma işlemini seçerek işleminizi yapabilirsiniz.
+havalemi yanlış yaptım nasıl geri alabilirim?
+Cebe havale işlemleri gönderici tarafından iptal edilememektedir. Sadece cebe havale gönderimden 24 saat sonra alıcı tarafından çekilmeyen cebe havale tutarları otomatik olarak iade edilmektedir.
